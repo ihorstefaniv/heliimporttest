@@ -1,0 +1,24 @@
+name: Update XML Feed
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Оновлюється автоматично кожну годину
+  workflow_dispatch: # Дозволяє запустити оновлення вручну однією кнопкою
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download XML from Google Apps Script
+        run: |
+          curl -L "https://script.google.com/macros/s/AKfycbz2D-EDkR9sy6Tl-EOKnbvxC5RFmlj6M9j_JK2VX4iTTnBUsKJQ-SjyLuJh1w65nx1N/exec" -o feed.xml
+
+      - name: Commit and push if it changed
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git add feed.xml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update XML feed" && git push)
