@@ -10,7 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Завантажує повну історію для коректного git pull --rebase
 
       - name: Download XML from Google Apps Script
         run: |
@@ -21,4 +23,8 @@ jobs:
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
           git add feed.xml
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update XML feed" && git push)
+          git diff --quiet && git diff --staged --quiet || (
+            git commit -m "Auto-update XML feed" && \
+            git pull --rebase origin main && \
+            git push
+          )
