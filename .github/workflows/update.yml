@@ -30,33 +30,47 @@ jobs:
 
       - name: Validate XML
         run: |
-          # Перевірка через Python (є на runner'і за замовчуванням, нічого не встановлюємо)
+          # Перевірка через Python (є на runner'і за замовчуванням, нічого не встановлюємо).
+          # Приймає будь-який формат (yml_catalog, products, ...), відсіює лише зламаний/порожній фід.
           python3 - <<'PY'
           import sys
           import xml.etree.ElementTree as ET
 
           path = "/tmp/feed.new.xml"
+          raw = open(path, encoding="utf-8", errors="replace").read()
           try:
-              root = ET.parse(path).getroot()
+              root = ET.fromstring(raw.encode("utf-8"))
           except ET.ParseError as e:
               # Не XML: найчастіше HTML-сторінка логіну або помилки Google
               print("::error::Файл не є валідним XML:", e)
-              print(open(path, encoding="utf-8", errors="replace").read(500))
+              print(raw[:500])
               sys.exit(1)
 
-          if root.tag != "yml_catalog":
-              print("::error::Кореневий тег не yml_catalog, а", root.tag)
-              sys.exit(1)
-          for tag in ("categories", "currencies", "offers"):
-              if root.find("shop/" + tag) is None:
-                  print("::error::Немає обов'язкового вузла <%s>" % tag)
-                  sys.exit(1)
+          print("Кореневий тег:", root.tag)
 
-          offers = root.findall("shop/offers/offer")
-          pictures = root.findall("shop/offers/offer/picture")
-          print("Offers:", len(offers), "| with picture:", len(pictures))
-          if len(offers) < 10:
-              print("::error::Підозріло мало офферів (%d) — старий feed.xml залишається без змін" % len(offers))
+          if root.tag == "yml_catalog":
+              items = root.findall("shop/offers/offer")
+              for tag in ("categories", "currencies"):
+                  if root.find("shop/" + tag) is None:
+                      print("::warning::Немає вузла <%s> (імпортер може впасти)" % tag)
+          else:
+              # Інший формат, напр. <products><product>...</product></products>:
+              # товари — це найчисленніші дочірні елементи кореня
+              children = list(root)
+              if children:
+                  counts = {}
+                  for c in children:
+                      counts[c.tag] = counts.get(c.tag, 0) + 1
+                  item_tag = max(counts, key=counts.get)
+                  items = [c for c in children if c.tag == item_tag]
+                  print("Елемент товару:", item_tag)
+              else:
+                  items = []
+
+          print("Items:", len(items))
+          if len(items) < 10:
+              print("::error::Підозріло мало товарів (%d) — старий feed.xml залишається без змін" % len(items))
+              print(raw[:500])
               sys.exit(1)
           PY
 
