@@ -30,19 +30,35 @@ jobs:
 
       - name: Validate XML
         run: |
-          sudo apt-get install -y -qq libxml2-utils > /dev/null
-          # 1) це справжній XML, а не HTML-сторінка логіну чи помилки Google
-          xmllint --noout /tmp/feed.new.xml
-          # 2) є обов'язкові вузли YML
-          grep -q "<categories>" /tmp/feed.new.xml
-          grep -q "<currencies>" /tmp/feed.new.xml
-          # 3) офферів не підозріло мало (захист від порожнього фіду)
-          OFFERS=$(grep -c "<offer " /tmp/feed.new.xml || true)
-          echo "Offers: $OFFERS"
-          if [ "$OFFERS" -lt 10 ]; then
-            echo "Підозріло мало офферів ($OFFERS) — старий feed.xml залишається без змін"
-            exit 1
-          fi
+          # Перевірка через Python (є на runner'і за замовчуванням, нічого не встановлюємо)
+          python3 - <<'PY'
+          import sys
+          import xml.etree.ElementTree as ET
+
+          path = "/tmp/feed.new.xml"
+          try:
+              root = ET.parse(path).getroot()
+          except ET.ParseError as e:
+              # Не XML: найчастіше HTML-сторінка логіну або помилки Google
+              print("::error::Файл не є валідним XML:", e)
+              print(open(path, encoding="utf-8", errors="replace").read(500))
+              sys.exit(1)
+
+          if root.tag != "yml_catalog":
+              print("::error::Кореневий тег не yml_catalog, а", root.tag)
+              sys.exit(1)
+          for tag in ("categories", "currencies", "offers"):
+              if root.find("shop/" + tag) is None:
+                  print("::error::Немає обов'язкового вузла <%s>" % tag)
+                  sys.exit(1)
+
+          offers = root.findall("shop/offers/offer")
+          pictures = root.findall("shop/offers/offer/picture")
+          print("Offers:", len(offers), "| with picture:", len(pictures))
+          if len(offers) < 10:
+              print("::error::Підозріло мало офферів (%d) — старий feed.xml залишається без змін" % len(offers))
+              sys.exit(1)
+          PY
 
       - name: Commit and push if it changed
         run: |
