@@ -2986,7 +2986,7 @@
     <forks_dimensions>1520</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Luftreifen</tyres>
-    <special_options>FEM III, 4 valve, Grammer SUSPENSION SEAT, sideshift and fork positioner, LED Lights</special_options>
+    <special_options>FEM III, 4 Ventile, Grammer-Federungssitz, Seitenschieber und Gabelverstellung, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>010506M2060</serial_number>
     <image_url>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</image_url>
@@ -3014,7 +3014,7 @@
     <forks_dimensions>1520</forks_dimensions>
     <mast>M350</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>M350, SOLID TYRE, 4 VALVES and DUAL IHR, Grammer SUSPENSION SEAT, OPS, Integrated forkpositioner with side shifter, Cabin, heater</special_options>
+    <special_options>M350, Vollgummireifen, 4 Ventile und Doppel-IHR, Grammer-Federungssitz, OPS, integrierte Gabelverstellung mit Seitenschieber, Kabine, Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>010503S3783, 010503S3784, 010503S3785</serial_number>
     <image_url>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</image_url>
@@ -3042,7 +3042,7 @@
     <forks_dimensions>1520</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>Fingertips Control, ZSM470, SOLID TYRE, 4 VALVES and DUAL IHR, Grammer SUSPENSION SEAT, OPS, Integrated Fork positioner with side shifter, Cabin, heater, Finger tips</special_options>
+    <special_options>Fingertips Control, ZSM470, Vollgummireifen, 4 Ventile und Doppel-IHR, Grammer-Federungssitz, OPS, integrierte Gabelverstellung mit Seitenschieber, Kabine, Heizung, Fingertips</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>010503S3132, 010503S3131</serial_number>
     <image_url>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</image_url>
@@ -3070,12 +3070,12 @@
     <forks_dimensions>1520</forks_dimensions>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>M400, SOLID TYRE, 4 VALVES and DUAL IHR, Grammer SUSPENSION SEAT, OPS, Hook on Fork positioner with side shifter, Cabin, heater</special_options>
+    <special_options>M400, Vollgummireifen, 4 Ventile und Doppel-IHR, Grammer-Federungssitz, OPS, Haken-Gabelverstellung mit Seitenschieber, Kabine, Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>010503S7447, 010503S7448, 010503S7449</serial_number>
     <image_url>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</image_url>
     <series>G3</series>
-    <attachments>Hook on Fork Positioner with Sideshift</attachments>
+    <attachments>Haken-Gabelverstellung mit Seitenschieber</attachments>
     <cabin>Kabine und Heizung</cabin>
     <photo_match>series 85: G3_IC _5-10t.webp</photo_match>
     <photo_name>G3_IC _5-10t.webp</photo_name>
@@ -3098,12 +3098,12 @@
     <forks_dimensions>1520</forks_dimensions>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>M400, SOLID TYRE, 4 VALVES and DUAL IHR, Grammer SUSPENSION SEAT, OPS, Hook on Fork positioner with side shifter, Cabin, heater</special_options>
+    <special_options>M400, Vollgummireifen, 4 Ventile und Doppel-IHR, Grammer-Federungssitz, OPS, Haken-Gabelverstellung mit Seitenschieber, Kabine, Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>010503T3903, 010503T3904</serial_number>
     <image_url>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</image_url>
     <series>G3</series>
-    <attachments>Hook on Fork Positioner with Sideshift</attachments>
+    <attachments>Haken-Gabelverstellung mit Seitenschieber</attachments>
     <cabin>Kabine und Heizung</cabin>
     <photo_match>series 85: G3_IC _5-10t.webp</photo_match>
     <photo_name>G3_IC _5-10t.webp</photo_name>
@@ -3115,24 +3115,24 @@
     <reference_number>G250942-G250946</reference_number>
     <brand>HELI</brand>
     <model>CPCJ25-KU3Y4G3</model>
-    <type>Compact Rough terrain forklift</type>
+    <type>Kompakter Geländestapler</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>58030.00</price>
     <available>true</available>
     <qty>1</qty>
-    <controller>Kubota Engine</controller>
+    <controller>Kubota-Motor</controller>
     <engine_type>Diesel</engine_type>
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM370</mast>
     <tyres>Luftreifen</tyres>
-    <special_options>4 Valve, Hook on sideshift, Grammer suspension seat, OPS, LED Beacon and Rear working light</special_options>
+    <special_options>4 Ventile, Haken-Seitenschieber, Grammer-Federungssitz, OPS, LED-Rundumleuchte und Arbeitsscheinwerfer hinten</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>390254X1326, 390254X1325, 390254X1323, 390254Y9376, 390254Y9377, 390254Y9378, 390254Y9375, 390254Y9373, 390254Y9374, 390254Y9379, 390254Y9370, 390254Y9371, 390254Y9372</serial_number>
     <image_url>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</image_url>
     <series>G3</series>
     <attachments>HELI Hook-on Side Shift</attachments>
-    <cabin>Half Cabin</cabin>
+    <cabin>Halb Kabine</cabin>
     <photo_match>series 95: G3_Rough_Terrian_03.webp</photo_match>
     <photo_name>G3_Rough_Terrian_03.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</photo_link>
@@ -3143,7 +3143,7 @@
     <reference_number>G250845-G2506846</reference_number>
     <brand>HELI</brand>
     <model>CPD100-A11LIG2-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>10000</capacity_kg>
     <tonnage>10.0</tonnage>
     <price>112770.00</price>
@@ -3156,7 +3156,7 @@
     <forks_dimensions>2400</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Fingertips Control, 4 VALVES and double IHR, Grammerr SUSPENSION SEAT, OPS, LED lights, Charger, Li-ion battery cloud, Was demo and rental, in poor condition</special_options>
+    <special_options>Fingerspitzensteuerung, 4 Ventile und doppelter IHR, Grammer®-Federungssitz, OPS, LED-Beleuchtung, Ladegerät, Lithium-Ionen-Akku-Cloud, Vorführ- und Mietfahrzeug, in schlechtem Zustand</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>051003M4892</serial_number>
     <image_url>https://account.bcs.tools/image/1163047/G3_CPD60-100GB2D-GB2DLI.webp</image_url>
@@ -3173,7 +3173,7 @@
     <reference_number>G253247-G253248</reference_number>
     <brand>HELI</brand>
     <model>CPD100-GB2DLI</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>10000</capacity_kg>
     <tonnage>10.0</tonnage>
     <price>107240.00</price>
@@ -3187,12 +3187,12 @@
     <forks_dimensions>2400</forks_dimensions>
     <mast>ZSM600</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>ZSM600 4 VALVES and double IHR, Solid Tyres, Grammer SUSPENSION SEAT, OPS, LED lights, Charger 80V 200A, Domestic motor, Li-ion battery cloud, Integrated Fork Positioner with Side-shift, Cabin and heater</special_options>
+    <special_options>ZSM600 4 Ventile und doppelter IHR, Vollgummireifen, Grammer®-Federungssitz, OPS, LED-Beleuchtung, Ladegerät 80V 200A, Bordmotor, Lithium-Ionen-Akku-Cloud, integrierter Gabelversteller mit Seitenverschiebung, Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>051003N4000</serial_number>
     <image_url>https://account.bcs.tools/image/1163047/G3_CPD60-100GB2D-GB2DLI.webp</image_url>
     <series>G3</series>
-    <attachments>Integrated Fork Positioner with Side-shift</attachments>
+    <attachments>Integrierter Gabelversteller mit Seitenverschiebung</attachments>
     <cabin>Kabine und Heizung</cabin>
     <photo_match>family 120: G3_CPD60-100GB2D-GB2DLI.webp</photo_match>
     <photo_name>G3_CPD60-100GB2D-GB2DLI.webp</photo_name>
@@ -3204,7 +3204,7 @@
     <reference_number>L250840-L250841</reference_number>
     <brand>HELI</brand>
     <model>CPD100-GB2DLI</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>10000</capacity_kg>
     <tonnage>10.0</tonnage>
     <price>105070.00</price>
@@ -3218,12 +3218,12 @@
     <forks_dimensions>2400</forks_dimensions>
     <mast>M450</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>HELI P-ADAS and T-ADAS System, 4 VALVES and double IHR, GrammerR SUSPENSION SEAT, OPS, LED lights, Charger 80V 200A, Domestic motor</special_options>
+    <special_options>HELI P-ADAS- und T-ADAS-System, 4 Ventile und doppelter IHR, Grammer®-Federungssitz, OPS, LED-Beleuchtung, Ladegerät 80V 200A, Bordmotor</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>051003R0357</serial_number>
     <image_url>https://account.bcs.tools/image/1163047/G3_CPD60-100GB2D-GB2DLI.webp</image_url>
     <series>G3</series>
-    <attachments>Integrated Fork Positioner with Side-shift</attachments>
+    <attachments>Integrierter Gabelversteller mit Seitenverschiebung</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
     <photo_match>family 120: G3_CPD60-100GB2D-GB2DLI.webp</photo_match>
     <photo_name>G3_CPD60-100GB2D-GB2DLI.webp</photo_name>
@@ -3235,7 +3235,7 @@
     <reference_number>25207-23</reference_number>
     <brand>HELI</brand>
     <model>CPD12SQ-A1LIH4</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>12600.00</price>
@@ -3249,12 +3249,12 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM435</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>CURTIS, 3 valve, Single IHR, Gramma standard seat, OPS, Front working lights, On board charger 24V 50A</special_options>
+    <special_options>CURTIS, 3 Ventile, einfacher IHR, Grammer®-Standardsitz, OPS, Frontarbeitsscheinwerfer, Bordladegerät 24V 50A</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06012DS6471, 06012DS6472, 06012DS6473, 06012DS6474, 06012DS6475, 06012DS6476, 06012DS6573, 06012DS6575, 06012DS6577, 06012DS6578</serial_number>
     <image_url>https://account.bcs.tools/image/1163054/H4_CPD08-12SQ.webp</image_url>
     <series>H4</series>
-    <attachments>Integrated Side-shift</attachments>
+    <attachments>Integrierter Seitenschalthebel</attachments>
     <cabin>Oberes Fenster</cabin>
     <photo_match>family 120: H4_CPD08-12SQ.webp</photo_match>
     <photo_name>H4_CPD08-12SQ.webp</photo_name>
@@ -3266,7 +3266,7 @@
     <reference_number>D260900-D260910</reference_number>
     <brand>HELI</brand>
     <model>CPD12SQ-A1LIH4</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>12500.00</price>
@@ -3280,13 +3280,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM450</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM450, Single IHR, 3 Valves, No marking Solid Tyres, Integrated Side-shift, LED Lights, On-board Charger</special_options>
+    <special_options>ZSM450, Einzel-IHR, 3 Ventile, abriebfeste Vollgummireifen, integrierter Seitenschalthebel, LED-Beleuchtung, Bordladegerät</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>060124Z1100, 060124Z1099, 060124Z1098, 060124Z1097, 060124Z8704, 060124Z8705, 060124Z8706</serial_number>
     <image_url>https://account.bcs.tools/image/1163054/H4_CPD08-12SQ.webp</image_url>
     <series>H4</series>
-    <attachments>Integrated Side-shift</attachments>
-    <cabin>Frame</cabin>
+    <attachments>Integrierter Seitenschalthebel</attachments>
+    <cabin>Rahmen</cabin>
     <photo_match>family 120: H4_CPD08-12SQ.webp</photo_match>
     <photo_name>H4_CPD08-12SQ.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163054/H4_CPD08-12SQ.webp</photo_link>
@@ -3297,7 +3297,7 @@
     <reference_number>D260896</reference_number>
     <brand>HELI</brand>
     <model>CPD160-A19LLIG-12</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>16000</capacity_kg>
     <tonnage>16.0</tonnage>
     <price>271000.00</price>
@@ -3311,11 +3311,11 @@
     <forks_dimensions>2400</forks_dimensions>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>Fork positioner with sideshift, solid tires, LED lights, Blue spot lamp, LED beacon, 750V160A 120kW, Grammer suspension seat, Automatic centralized lubrication system, Rear view camera with sensors, Fingertips</special_options>
+    <special_options>Gabelverstellung mit Seitenschalthebel, Vollgummireifen, LED-Beleuchtung, blauer Spot, LED-Rundumleuchte, 750V 160A 120kW, Grammer-Federungssitz, automatisches Zentralschmiersystem, Rückfahrkamera mit Sensoren, Fingertips</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>051603T2789</serial_number>
     <series>G</series>
-    <attachments>sideshift and fork positioner</attachments>
+    <attachments>Seitenschalthebel und Gabelverstellung</attachments>
     <cabin>Kabine, Heizung und Klimaanlage</cabin>
     <has_image>0</has_image>
   </product>
@@ -3324,7 +3324,7 @@
     <reference_number>L251443-L251446</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>25850.00</price>
@@ -3338,7 +3338,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Fingertips Control, ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, Grammer SUSPENSION SEAT, finger tips, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Top window</special_options>
+    <special_options>Fingertips-Steuerung, ZSM480, abriebfeste Vollgummireifen, 4 Ventile und Doppel-IHR, Grammer-Federungssitz, Fingertips, OPS, Heli Hook am Seitenschalthebel, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Top-Sichtfenster</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DT8530, 06016DT8529</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -3355,7 +3355,7 @@
     <reference_number>G253829-G253830</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>24450.00</price>
@@ -3369,7 +3369,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM600</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>4 VALVES and Dual IHR, HELI SUSPENSION SEAT, OPS, LED lights, Heli 80V-200A Charger, GP25 Transmission, Lithium Battery Cloud</special_options>
+    <special_options>4 Ventile und Doppel-IHR, Heli-Federungssitz, OPS, LED-Beleuchtung, Heli-Ladegerät 80V-200A, GP25-Getriebe, Lithium-Batterie Cloud</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DS7274, 06016DS7275</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -3386,7 +3386,7 @@
     <reference_number>L251417-L251426</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20600.00</price>
@@ -3400,7 +3400,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, Grammer SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, on-board charger 80V 35A, GP25 Transmission, Top window</special_options>
+    <special_options>ZSM480, abriebfeste Vollgummireifen, 4 Ventile und Dual-IHR, Grammer-Federungssitz, OPS, Heli Hook am Seitenschalthebel, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Dachfenster</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DT7972, 06016DT7966, 06016DT7973, 06016DT7971, 06016DT7969, 06016DT7968, 06016DT7967, 06016DT7964</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -3417,7 +3417,7 @@
     <reference_number>L250604-L250607</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>25850.00</price>
@@ -3431,7 +3431,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Fingertips Control, ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, Grammer SUSPENSION SEAT, finger tips, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Top window</special_options>
+    <special_options>Fingertips-Steuerung, ZSM480, abriebfeste Vollgummireifen, 4 Ventile und Doppel-IHR, Grammer-Federungssitz, Fingertips, OPS, Heli Hook am Seitenschalthebel, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Top-Sichtfenster</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DT0074</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -3448,7 +3448,7 @@
     <reference_number>L250842-L250843</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>23070.00</price>
@@ -3462,7 +3462,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>HELI P-ADAS and T-ADAS System, ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, Grammer SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Top window</special_options>
+    <special_options>HELI P-ADAS- und T-ADAS-System, ZSM480, abriebfeste Vollgummireifen, 4 Ventile und Dual-IHR, Grammer-Federungssitz, OPS, Heli Hook am Seitenschalthebel, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Dachfenster</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DT2631</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -3479,7 +3479,7 @@
     <reference_number>L250918-L250927</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20600.00</price>
@@ -3493,7 +3493,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, Grammer SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Top window</special_options>
+    <special_options>ZSM480, abriebfeste Vollgummireifen, 4 Ventile und Dual-IHR, Grammer-Federungssitz, OPS, Heli Hook am Seitenschalthebel, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Dachfenster</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DT1834, 06016DT1835</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -3510,7 +3510,7 @@
     <reference_number>L251306-L251307</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>26000.00</price>
@@ -3524,7 +3524,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Fingertips / Fork levelling, ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, Grammer SUSPENSION SEAT, finger tips, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Top window</special_options>
+    <special_options>Fingerspitzen-/Gabelnivellierung, ZSM480, abriebfest Vollgummireifen, 4 Ventile und Dual-IHR, Grammer-Federungssitz, Fingertips, OPS, Heli-Haken am Seitenschalthebel, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Topfenster</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DT6295, 06016DT6296</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -3541,7 +3541,7 @@
     <reference_number>L251217-L251231</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20600.00</price>
@@ -3555,7 +3555,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, Dual IHR, 4 valve, No marking Solid Tyres, Hook on Sideshfit, Grammer suspension seat, on-board charger 80V 35A, LED Lights, GP25 Transmission</special_options>
+    <special_options>ZSM480, Dual-IHR, 4 Ventile, keine Markierungen, Vollgummireifen, Haken am Seitenschalthebel, Grammer-Federungssitz, integriertes Ladegerät 80V 35A, LED-Beleuchtung, GP25-Getriebe</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DT4605, 06016DT4604, 06016DT4603, 06016DT4600, 06016DT4598, 06016DT4465, 06016DT4464, 06016DT4466, 06016DT4467, 06016DT4463, 06016DT4602</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -3572,7 +3572,7 @@
     <reference_number>L250983-L250986</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20600.00</price>
@@ -3586,7 +3586,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, Dual IHR, 4 valve, No marking Solid Tyres, Hook on Sideshfit, Grammer suspension seat, on-board charger 80V 35A, LED Lights, GP25 Transmission</special_options>
+    <special_options>ZSM480, Dual-IHR, 4 Ventile, keine Markierungen, Vollgummireifen, Haken am Seitenschalthebel, Grammer-Federungssitz, integriertes Ladegerät 80V 35A, LED-Beleuchtung, GP25-Getriebe</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DT3462, 06016DT3463, 06016DT3464, 06016DT3465</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -3603,7 +3603,7 @@
     <reference_number>D260427-D260442</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20600.00</price>
@@ -3617,7 +3617,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Top window, Lithium Battery Cloud</special_options>
+    <special_options>ZSM480, keine Markierungen, Vollgummireifen, 4 Ventile und Dual-IHR, Federungssitz, OPS, Heli-Haken am Seitenschalthebel, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Topfenster, Lithium-Ionen-Akku</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DU0757, 06016DU0756, 06016DU0755, 06016DU0754, 06016DU0753, 06016DU0752, 06016DU0751</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -3634,7 +3634,7 @@
     <reference_number>D260443-D260458</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20650.00</price>
@@ -3648,7 +3648,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>4 VALVES and Dual IHR, HELI SUSPENSION SEAT, OPS, LED lights, Built In charger 80V 35A, GP25 Transmission, Lithium Battery Cloud</special_options>
+    <special_options>4 Ventile und Dual-IHR, Heli-Federungssitz, OPS, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Lithium-Ionen-Akku</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DU0607, 06016DU0606, 06016DU0605, 06016DU0614, 06016DU0615, 06016DU0616, 06016DU0617, 06016DU0618, 06016DU0619, 06016DU0620, 06016DU0608, 06016DU0609, 06016DU0610, 06016DU0611, 06016DU0612, 06016DU0613</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -3665,7 +3665,7 @@
     <reference_number>D261941-D261943</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20600.00</price>
@@ -3679,8 +3679,8 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, Grammer SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, GP25 Transmission, Top window, Charger D80V35A</special_options>
-    <delivery_status>Friedberg-Hessen / ERROR</delivery_status>
+    <special_options>ZSM480, abriebfeste Vollgummireifen, 4 Ventile und Dual-IHR, Grammer-Federungssitz, OPS, Heli-Haken-Seitenschalthebel, LED-Beleuchtung, GP25-Getriebe, Topfenster, Ladegerät D80V35A</special_options>
+    <delivery_status>Friedberg-Hessen / FEHLER</delivery_status>
     <serial_number>06016DV1581, 06016DV1580, 06016DV1579</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
     <series>G3</series>
@@ -3696,7 +3696,7 @@
     <reference_number>L251286-L251295</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20600.00</price>
@@ -3710,7 +3710,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, Grammer SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, GP25 Transmission, Top window, Charger D80V35A</special_options>
+    <special_options>ZSM480, abriebfeste Vollgummireifen, 4 Ventile und Dual-IHR, Grammer-Federungssitz, OPS, Heli-Haken-Seitenschalthebel, LED-Beleuchtung, GP25-Getriebe, Topfenster, Ladegerät D80V35A</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DT5658, 06016DT5659, 06016DT5660, 06016DT5661, 06016DT5662, 06016DT5663, 06016DT5664</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -3727,7 +3727,7 @@
     <reference_number>D261944-D261946</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>28000.00</price>
@@ -3741,7 +3741,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>HELI P-ADAS and T-ADAS System, Joystick control, ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, Grammer SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission</special_options>
+    <special_options>HELI P-ADAS- und T-ADAS-System, Joystick-Steuerung, ZSM480, abriebfeste Vollgummireifen, 4 Ventile und Dual-IHR, Grammer-Federungssitz, OPS, Heli-Haken-Seitenschalthebel, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe</special_options>
     <delivery_status>Friedberg-Hessen / 17.09.2026</delivery_status>
     <serial_number>06016DV3529, 06016DV3530, 06016DV3531</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -3758,7 +3758,7 @@
     <reference_number>D261997-D262001</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>28600.00</price>
@@ -3772,7 +3772,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Double pedals, Joystick control, ZSM470, No-marking Solid Tyres, 4 VALVES and DUAL IHR, Grammer SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, Charger D80V-200A, Front and Rear blue light, High Cabin and heater</special_options>
+    <special_options>Doppelpedale, Joystick-Steuerung, ZSM470, abriebfeste Vollgummireifen, 4 Ventile und Dual-IHR, Grammer-Federungssitz, OPS, Heli-Haken-Seitenschalthebel, LED-Beleuchtung, Ladegerät D80V-200A, Blaulicht vorne und hinten, Hohe Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / 28.08.2026</delivery_status>
     <serial_number>06016DV2142</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -3789,7 +3789,7 @@
     <reference_number>L251427-L251436</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A6LIG3-S</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>19560.00</price>
@@ -3803,7 +3803,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, Heli SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Top window</special_options>
+    <special_options>ZSM480, Vollgummireifen ohne Markierungen, 4 Ventile und Dual-IHR, Helikopter-Federungssitz, OPS, Helikopter-Haken am Seitenschalthebel, LED-Beleuchtung, Integriertes Ladegerät 80V 35A, GP25-Getriebe, Dachfenster</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DT8093, 06016DT8099</serial_number>
     <image_url>https://account.bcs.tools/image/1163009/CPD16SQ-A6LIG3-S.webp</image_url>
@@ -3820,7 +3820,7 @@
     <reference_number>L250610-L250617</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A6LIG3-S</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>19560.00</price>
@@ -3834,7 +3834,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, Heli SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Top window</special_options>
+    <special_options>ZSM480, Vollgummireifen ohne Markierungen, 4 Ventile und Dual-IHR, Helikopter-Federungssitz, OPS, Helikopter-Haken am Seitenschalthebel, LED-Beleuchtung, Integriertes Ladegerät 80V 35A, GP25-Getriebe, Dachfenster</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DT0174, 06016DT0172, 06016DT0171, 06016DT0170, 06016DT0169, 06016DT0168</serial_number>
     <image_url>https://account.bcs.tools/image/1163009/CPD16SQ-A6LIG3-S.webp</image_url>
@@ -3851,7 +3851,7 @@
     <reference_number>D261192-D261201</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A6LIG3-S</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>19560.00</price>
@@ -3865,7 +3865,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, Heli SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Top window</special_options>
+    <special_options>ZSM480, Vollgummireifen ohne Markierungen, 4 Ventile und Dual-IHR, Helikopter-Federungssitz, OPS, Helikopter-Haken am Seitenschalthebel, LED-Beleuchtung, Integriertes Ladegerät 80V 35A, GP25-Getriebe, Dachfenster</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DU3303, 06016DU3302, 06016DU3301, 06016DU3300, 06016DU3298, 06016DU3299, 06016DU3304, 06016DU3305, 06016DU3306</serial_number>
     <image_url>https://account.bcs.tools/image/1163009/CPD16SQ-A6LIG3-S.webp</image_url>
@@ -3882,7 +3882,7 @@
     <reference_number>D261202-D261205</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A6LIG3-S</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20800.00</price>
@@ -3896,7 +3896,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, Heli SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Cabin and heater</special_options>
+    <special_options>ZSM480, Vollgummireifen ohne Markierungen, 4 Ventile und Dual-IHR, Helikopter-Federungssitz, OPS, Helikopter-Haken am Seitenschalthebel, LED-Beleuchtung, Integriertes Ladegerät 80V 35A, GP25-Getriebe, Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DU3309, 06016DU3308</serial_number>
     <image_url>https://account.bcs.tools/image/1163009/CPD16SQ-A6LIG3-S.webp</image_url>
@@ -3913,7 +3913,7 @@
     <reference_number>DE262180-DE262185</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A6LIG3-S</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>19800.00</price>
@@ -3927,12 +3927,12 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, Heli SUSPENSION SEAT, OPS, Integrated Side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Top Window</special_options>
+    <special_options>ZSM480, Vollgummireifen ohne Markierungen, 4 Ventile und Dual-IHR, Helikopter-Federungssitz, OPS, Integrierter Seitenschalthebel, LED-Beleuchtung, Integriertes Ladegerät 80V 35A, GP25-Getriebe Top Window</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DV1301, 06016DV1302</serial_number>
     <image_url>https://account.bcs.tools/image/1163009/CPD16SQ-A6LIG3-S.webp</image_url>
     <series>G3</series>
-    <attachments>Integrated Side shift</attachments>
+    <attachments>Integrierter Seitenschalthebel</attachments>
     <cabin>Oberes Fenster</cabin>
     <photo_match>exact 900: CPD16SQ-A6LIG3-S.webp</photo_match>
     <photo_name>CPD16SQ-A6LIG3-S.webp</photo_name>
@@ -3944,7 +3944,7 @@
     <reference_number>DE262174-DE262179</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A6LIG3-S</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>19560.00</price>
@@ -3958,7 +3958,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, Heli SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Top Window</special_options>
+    <special_options>ZSM480, abriebfester Vollgummireifen, 4 Ventile und Dual-IHR, gefederter Heli-Sitz, OPS, Heli-Haken am Seitenschalthebel, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Top Window</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06016DV1295, 06016DV1296, 06016DV1297, 06016DV1298, 06016DV1299, 06016DV1300</serial_number>
     <image_url>https://account.bcs.tools/image/1163009/CPD16SQ-A6LIG3-S.webp</image_url>
@@ -3975,7 +3975,7 @@
     <reference_number>G251839-G251840</reference_number>
     <brand>HELI</brand>
     <model>CPD18-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>1800</capacity_kg>
     <tonnage>1.8</tonnage>
     <price>25940.00</price>
@@ -3989,12 +3989,12 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM600</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM600 4 valves, Dual IHR, Grammar Suspension seat, Full LED Lights and beacon, OPS, On board Charger D80V-35A, Lithium Battery Cloud</special_options>
+    <special_options>ZSM600, 4 Ventile, Dual-IHR, Grammar-gefederter Sitz, Voll-LED-Beleuchtung und Rundumleuchte, OPS, Bordladegerät 80V 35A, Lithium-Akku</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05018DS0159</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2</series>
-    <attachments>Hook-on Fork Positioner with Sideshift</attachments>
+    <attachments>Haken-Gabelverstellung mit Seitenschalthebel</attachments>
     <cabin>Kabine und Heizung</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
@@ -4006,7 +4006,7 @@
     <reference_number>D261624-D261628</reference_number>
     <brand>HELI</brand>
     <model>CPD18-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>1800</capacity_kg>
     <tonnage>1.8</tonnage>
     <price>28500.00</price>
@@ -4020,13 +4020,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Fingertips Control, Lithium Battery Cloud, 4 VALVES and Dual IHR, Grammer SUSPENSION SEAT, OPS, LED lights, Built In charger 80V 35A, GP25 Transmission</special_options>
+    <special_options>Fingerspitzensteuerung, Lithium-Akku, 4 Ventile und Dual-IHR, Grammar-gefederter Sitz, OPS, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05018DU6995, 05018DU6994, 05018DU6993, 05018DU6992, 05018DU6991</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2</series>
     <attachments>HELI Hook-on Sideshift</attachments>
-    <cabin>High Half cabin</cabin>
+    <cabin>Hohe Halbkabine</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
@@ -4037,7 +4037,7 @@
     <reference_number>L250618-L250621</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>26000.00</price>
@@ -4051,7 +4051,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Fingertips Control, ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, SUSPENSION SEAT, finger tips, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Top window</special_options>
+    <special_options>Fingerspitzensteuerung, ZSM480, abriebfester Vollgummireifen, 4 Ventile und Dual-IHR, gefederter Sitz, Fingerspitzensteuerung, OPS, Heli-Haken Seitenschaltung, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Dachfenster</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DT0165</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -4068,7 +4068,7 @@
     <reference_number>L250711-L250714</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>28500.00</price>
@@ -4082,7 +4082,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Joystick Control, 4 VALVES and DUAL IHR, Grammer SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, GP25 Transmission</special_options>
+    <special_options>Joystick-Steuerung, 4 Ventile und Dual-IHR, Grammer-Federungssitz, OPS, Heli-Haken an der Seitenschaltung, LED-Beleuchtung, GP25-Getriebe</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DT1795, 06020DT1793</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -4099,7 +4099,7 @@
     <reference_number>L250938-L250940</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>26500.00</price>
@@ -4113,7 +4113,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Joystick control, ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, SUSPENSION SEAT with Joystick control, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Top window</special_options>
+    <special_options>Joystick-Steuerung, ZSM480, abriebfeste Vollgummireifen, 4 Ventile und Dual-IHR, Federungssitz mit Joystick-Steuerung, OPS, Heli-Haken an der Seitenschaltung, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Dachfenster</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DT3715, 06020DT3716 06020DT3714</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -4130,7 +4130,7 @@
     <reference_number>L251447-L251450</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>26000.00</price>
@@ -4144,7 +4144,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Fingertips Control, ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, SUSPENSION SEAT, finger tips, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Top window</special_options>
+    <special_options>Fingerspitzensteuerung, ZSM480, abriebfester Vollgummireifen, 4 Ventile und Dual-IHR, gefederter Sitz, Fingerspitzensteuerung, OPS, Heli-Haken Seitenschaltung, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Dachfenster</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DT8534, 06020DT8533, 06020DT8532</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -4161,7 +4161,7 @@
     <reference_number>D260477-D260492</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>22230.00</price>
@@ -4175,13 +4175,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>4 VALVES and Dual IHR, SUSPENSION SEAT, OPS, LED lights, Built In charger 80V 35A, GP25 Transmission, Lithium Battery Cloud</special_options>
+    <special_options>4 Ventile und Dual-IHR, Federungssitz, OPS, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Lithium-Akku</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DU1137, 06020DU1150, 06020DU1149, 06020DU1148, 06020DU1147, 06020DU1146, 06020DU1145</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
     <series>G3</series>
     <attachments>HELI Hook-on Sideshift</attachments>
-    <cabin>Top window</cabin>
+    <cabin>Dachfenster</cabin>
     <photo_match>family 120: G3_CPD15-20SQ.webp</photo_match>
     <photo_name>G3_CPD15-20SQ.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
@@ -4192,7 +4192,7 @@
     <reference_number>D260493-D260500</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>22200.00</price>
@@ -4206,13 +4206,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>4 VALVES and Dual IHR, SUSPENSION SEAT, OPS, LED lights, Built In charger 80V 35A, GP25 Transmission, Lithium Battery Cloud</special_options>
+    <special_options>4 Ventile und Dual-IHR, Federungssitz, OPS, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Lithium-Akku</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DU0896, 06020DU0892</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
     <series>G3</series>
     <attachments>HELI Hook-on Sideshift</attachments>
-    <cabin>Top window</cabin>
+    <cabin>Dachfenster</cabin>
     <photo_match>family 120: G3_CPD15-20SQ.webp</photo_match>
     <photo_name>G3_CPD15-20SQ.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
@@ -4223,7 +4223,7 @@
     <reference_number>D260501-D260502</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>22700.00</price>
@@ -4237,13 +4237,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM600</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>4 VALVES and Dual IHR, SUSPENSION SEAT, OPS, LED lights, Built In charger 80V 35A, GP25 Transmission, Lithium Battery Cloud</special_options>
+    <special_options>4 Ventile und Dual-IHR, Federungssitz, OPS, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Lithium-Akku</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DU0898</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
     <series>G3</series>
     <attachments>HELI Hook-on Side Shift</attachments>
-    <cabin>Top window</cabin>
+    <cabin>Dachfenster</cabin>
     <photo_match>family 120: G3_CPD15-20SQ.webp</photo_match>
     <photo_name>G3_CPD15-20SQ.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
@@ -4254,7 +4254,7 @@
     <reference_number>D260505-D260506</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>26300.00</price>
@@ -4268,13 +4268,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Fingertips/Fork leveling, 4 VALVES and Dual IHR, Grammer SUSPENSION SEAT, OPS, LED lights, Built In charger 80V 35A, GP25 Transmission, Lithium Battery Cloud</special_options>
+    <special_options>Fingerspitzen-/Gabel-Nivellierung, 4 Ventile und Dual-IHR, Grammer-Federungssitz, OPS, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25 Getriebe, Lithium-Ionen-Akku</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DU1017, 06020DU1018, 06020DU1019, 06020DU1020, 06020DU1024, 06020DU1023, 06020DU1022, 06020DU1021, 06020DU1026, 06020DU1025, 06020DU1031, 06020DU1030, 06020DU1029, 06020DU1028, 06020DU1027</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
     <series>G3</series>
     <attachments>HELI Hook-on Sideshift</attachments>
-    <cabin>Top window</cabin>
+    <cabin>Dachfenster</cabin>
     <photo_match>family 120: G3_CPD15-20SQ.webp</photo_match>
     <photo_name>G3_CPD15-20SQ.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
@@ -4285,7 +4285,7 @@
     <reference_number>06020DT5878</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>22000.00</price>
@@ -4299,13 +4299,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZM300</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>4 VALVES and Dual IHR, HELI SUSPENSION SEAT, OPS, LED lights, GP19 Transmission, D80V-200A Charger</special_options>
+    <special_options>4 Ventile und Dual-IHR, gefederter Helikoptersitz, OPS, LED-Beleuchtung, GP19-Getriebe, D80V-200A-Ladegerät</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DT5878</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
     <series>G3</series>
     <attachments>HELI Hook-on Sideshift</attachments>
-    <cabin>Top window</cabin>
+    <cabin>Dachfenster</cabin>
     <photo_match>family 120: G3_CPD15-20SQ.webp</photo_match>
     <photo_name>G3_CPD15-20SQ.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
@@ -4316,7 +4316,7 @@
     <reference_number>L251232-L251246</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>22240.00</price>
@@ -4330,7 +4330,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, Dual IHR, 4 valve, No marking Solid Tyres, Hook on Sideshfit, Grammer suspension seat, on-board charger 80V 35A, LED Lights, GP25 Transmission</special_options>
+    <special_options>ZSM480, Dual-IHR, 4 Ventile, keine Markierungen, Vollgummireifen, Haken am Seitenschalthebel, Grammer-Federungssitz, integriertes Ladegerät 80V 35A, LED-Beleuchtung, GP25-Getriebe</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DT4456, 06020DT4459, 06020DT4741</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -4347,7 +4347,7 @@
     <reference_number>D260856-D260870</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>22230.00</price>
@@ -4361,13 +4361,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>4 VALVES and Dual IHR, SUSPENSION SEAT, OPS, LED lights, Built In charger 80V 35A, GP25 Transmission, Lithium Battery Cloud</special_options>
+    <special_options>4 Ventile und Dual-IHR, Federungssitz, OPS, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Lithium-Akku</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DU3151, 06020DU3152, 06020DU3153, 06020DU3154, 06020DU3155, 06020DU3156, 06020DU3157, 06020DU3158, 06020DU3159, 06020DU3160, 06020DU3161, 06020DU3162, 06020DU3163, 06020DU3164, 06020DU3165</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
     <series>G3</series>
     <attachments>HELI Hook-on Sideshift</attachments>
-    <cabin>Top window</cabin>
+    <cabin>Dachfenster</cabin>
     <photo_match>family 120: G3_CPD15-20SQ.webp</photo_match>
     <photo_name>G3_CPD15-20SQ.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
@@ -4378,7 +4378,7 @@
     <reference_number>D261947-D261949</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>22240.00</price>
@@ -4392,8 +4392,8 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, Dual IHR, 4 valve, No marking Solid Tyres, Hook on Sideshfit, Grammer suspension seat, on-board charger 80V 35A, LED Lights, GP25 Transmission</special_options>
-    <delivery_status>Friedberg-Hessen / ERROR</delivery_status>
+    <special_options>ZSM480, Dual-IHR, 4 Ventile, keine Markierungen, Vollgummireifen, Haken am Seitenschalthebel, Grammer-Federungssitz, integriertes Ladegerät 80V 35A, LED-Beleuchtung, GP25-Getriebe</special_options>
+    <delivery_status>Friedberg-Hessen / FEHLER</delivery_status>
     <serial_number>06020DV1447, 06020DV1446, 06020DV1445</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
     <series>G3</series>
@@ -4409,7 +4409,7 @@
     <reference_number>D261950-D261952</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>28800.00</price>
@@ -4423,7 +4423,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>HELI P-ADAS and T-ADAS System, Joystick control, ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, SUSPENSION SEAT, finger tips, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission</special_options>
+    <special_options>HELI P-ADAS- und T-ADAS-System, Joystick-Steuerung, ZSM480, abriebfeste Vollgummireifen, 4 Ventile und Dual-IHR, gefederter Sitz, Fingertips, OPS, Heli Hook On-Seitenschalthebel, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe</special_options>
     <delivery_status>Friedberg-Hessen / 17.09.2026</delivery_status>
     <serial_number>06020DV3361, 06020DV3362, 06020DV3363</serial_number>
     <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
@@ -4440,7 +4440,7 @@
     <reference_number>G250201</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A6LIG3-S</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>21970.00</price>
@@ -4454,7 +4454,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Cabin and heater, Lithium Battery Cloud</special_options>
+    <special_options>ZSM480, abriebfeste Vollgummireifen, 4 Ventile und Dual-IHR, gefederter Sitz, OPS, Heli Hook On-Seitenschalthebel, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Kabine und Heizung, Lithium-Ionen-Akku</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DR4203</serial_number>
     <image_url>https://account.bcs.tools/image/1163007/CPD20SQ-A6LIG3-S.webp</image_url>
@@ -4471,7 +4471,7 @@
     <reference_number>L250596-L250603</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A6LIG3-S</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>20350.00</price>
@@ -4485,7 +4485,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM480, NO MARKING SOLID TYRE, 4 VALVES and Dual IHR, Heli SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Top window</special_options>
+    <special_options>ZSM480, Vollgummireifen ohne Markierungen, 4 Ventile und Dual-IHR, Helikopter-Federungssitz, OPS, Helikopter-Haken am Seitenschalthebel, LED-Beleuchtung, Integriertes Ladegerät 80V 35A, GP25-Getriebe, Dachfenster</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DT0258, 06020DT0252</serial_number>
     <image_url>https://account.bcs.tools/image/1163007/CPD20SQ-A6LIG3-S.webp</image_url>
@@ -4502,7 +4502,7 @@
     <reference_number>L250857-L250861</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A6LIG3-S</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>20350.00</price>
@@ -4516,7 +4516,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>4 VALVES and Dual IHR, SUSPENSION SEAT, OPS, LED lights, Built In charger 80V 35A, GP25 Transmission</special_options>
+    <special_options>4 Ventile und Dual-IHR, gefederter Sitz, OPS, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DT1861, 06020DT1860, 06020DT1859</serial_number>
     <image_url>https://account.bcs.tools/image/1163007/CPD20SQ-A6LIG3-S.webp</image_url>
@@ -4533,7 +4533,7 @@
     <reference_number>L250993-L250994</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A6LIG3-S</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>20660.00</price>
@@ -4547,7 +4547,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>4 VALVES and Dual IHR, SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Lithium Battery Cloud</special_options>
+    <special_options>4 4 Ventile und Dual-IHR, gefederter Sitz, OPS, Heli Hook am Seitenschalthebel, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Lithium-Ionen-Akku</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DT3730, 06020DT3731</serial_number>
     <image_url>https://account.bcs.tools/image/1163007/CPD20SQ-A6LIG3-S.webp</image_url>
@@ -4564,7 +4564,7 @@
     <reference_number>L250995-L251000</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A6LIG3-S</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>20350.00</price>
@@ -4578,7 +4578,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>4 VALVES and Dual IHR, SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission, Lithium Battery Cloud</special_options>
+    <special_options>4 4 Ventile und Dual-IHR, gefederter Sitz, OPS, Heli Hook am Seitenschalthebel, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Lithium-Ionen-Akku</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DT3612, 06020DT3613, 06020DT3614, 06020DT3615, 06020DT3617, 06020DT3616</serial_number>
     <image_url>https://account.bcs.tools/image/1163007/CPD20SQ-A6LIG3-S.webp</image_url>
@@ -4595,7 +4595,7 @@
     <reference_number>D260871-D260885</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A6LIG3-S</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>20350.00</price>
@@ -4609,7 +4609,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>4 VALVES and Dual IHR, SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission</special_options>
+    <special_options>4 Ventile und Dual-IHR, gefederter Sitz, OPS, Heli Hook am Seitenschalthebel, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DU2795, 06020DU2796, 06020DU2797, 06020DU2798, 06020DU2799, 06020DU2800, 06020DU2801, 06020DU2802, 06020DU2803, 06020DU2804, 06020DU2805, 06020DU2806, 06020DU2807, 06020DU2808, 06020DU2794</serial_number>
     <image_url>https://account.bcs.tools/image/1163007/CPD20SQ-A6LIG3-S.webp</image_url>
@@ -4626,7 +4626,7 @@
     <reference_number>D261610-D261615</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A6LIG3-S</model>
-    <type>Electric 3 wheel Lithium battery</type>
+    <type>Elektrischer 3-Rad-Lithium-Akku</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>20740.00</price>
@@ -4640,7 +4640,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>4 VALVES and Dual IHR, GRAMMER SUSPENSION SEAT, OPS, HELI HOOK ON side shift, LED lights, Built In charger 80V 35A, GP25 Transmission</special_options>
+    <special_options>4 Ventile und Dual-IHR, Grammer-Federungssitz, OPS, Heli Hook am Seitenschalthebel, LED-Beleuchtung, integriertes 80V/35A-Ladegerät, GP25-Getriebe</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>06020DU6232, 06020DU6233, 06020DU6234, 06020DU6235</serial_number>
     <image_url>https://account.bcs.tools/image/1163007/CPD20SQ-A6LIG3-S.webp</image_url>
@@ -4657,7 +4657,7 @@
     <reference_number>L251485-L251488</reference_number>
     <brand>HELI</brand>
     <model>CPD25-A3LIH4-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>22200.00</price>
@@ -4671,7 +4671,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>ZSM470, SOLID TYRE, 4 VALVES and DUAL IHR, Heli SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, On-board Charger D80V-35A, Cabin and heater</special_options>
+    <special_options>ZSM470, Vollgummireifen, 4 Ventile und doppelte IHR, Helikopter-Federungssitz, OPS, Helikopter-Haken am Seitenschalthebel, LED-Beleuchtung, Bordladegerät D80V-35A, Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DT7819, 05025DT7820, 05025DT7822</serial_number>
     <image_url>https://account.bcs.tools/image/1162997/H4_1.5-3.8t.webp</image_url>
@@ -4688,7 +4688,7 @@
     <reference_number>D260891-D260895</reference_number>
     <brand>HELI</brand>
     <model>CPD25-A6LIK3-H</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>18500.00</price>
@@ -4702,12 +4702,12 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM450</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM450, 4 Valves&amp;dual hoses, No-marking Solid Tyres, hook on S, HELI suspensation seat, full OPS, Internal charger 80V 35A</special_options>
+    <special_options>ZSM450, 4 Ventile &amp; Doppelschläuche, abriebfeste Vollgummireifen, S-Haken, HELI-Federungssitz, vollständiges OPS, internes Ladegerät 80V 35A</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>K3</series>
     <attachments>HELI Hook-on Side Shift</attachments>
-    <cabin>High Half cabin</cabin>
+    <cabin>Hohe Halbkabine</cabin>
     <photo_match>family 50: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
@@ -4718,7 +4718,7 @@
     <reference_number>G253467</reference_number>
     <brand>HELI</brand>
     <model>CPD25-A7LIH2</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>18600.00</price>
@@ -4732,7 +4732,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>M330</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>Special painting RAL6018, 4 Valves&amp;dual hoses, HELI suspensation seat, full OPS, Internal charger 80V 25A, without Heli logo</special_options>
+    <special_options>Sonderlackierung RAL 6018, 4 Ventile &amp; Doppelschläuche, HELI-Federungssitz, vollständiges OPS, internes Ladegerät 80 V 25 A, ohne Heli-Logo</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050259EF614</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -4749,7 +4749,7 @@
     <reference_number>L251539-L251548</reference_number>
     <brand>HELI</brand>
     <model>CPD25-A7LIH2</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>21500.00</price>
@@ -4763,7 +4763,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM450</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>Special painting RAL6018, 4 Valves&amp;dual hoses, HELI suspensation seat, full OPS, Internal charger 80V 35A, without Heli logo</special_options>
+    <special_options>Sonderlackierung RAL 6018, 4 Ventile &amp; Doppelschläuche, HELI-Federungssitz, vollständiges OPS, internes Ladegerät 80 V 35 A, ohne Heli-Logo</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050259EV466, 050259EV468, 050259EV411, 050259EV412, 050259EV469, 050259EV409, 050259EV413, 050259EV470, 050259EV410, 050259EV467</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -4780,7 +4780,7 @@
     <reference_number>D260614-D260619</reference_number>
     <brand>HELI</brand>
     <model>CPD25-A7LIH2</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>21500.00</price>
@@ -4794,7 +4794,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM450</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>NEW VERSION, ZSM450, 4 Valves&amp;dual hoses, Solid tyre, hook on S, HELI suspensation seat, full OPS, Internal charger 80V 35A</special_options>
+    <special_options>NEUE VERSION, ZSM450, 4 Ventile &amp; Doppelschläuche, Vollgummireifen, S-Haken, HELI-Federungssitz, vollständiges OPS, internes Ladegerät 80V 35A</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050259EY078, 050259EY076, 050259EY077, 050259EY079, 050259EY080, 050259EY081</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -4811,7 +4811,7 @@
     <reference_number>G253420</reference_number>
     <brand>HELI</brand>
     <model>CPD25-D11LIG2-P</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>25500.00</price>
@@ -4825,7 +4825,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>4 VALVES and DUAL IHR, SUSPENSION SEAT, OPS, LED lights, 115V-100A charger, lithium battery cloud</special_options>
+    <special_options>4 Ventile und doppelte IHR, Federsitz, OPS, LED-Beleuchtung, 115V-100A-Ladegerät, Lithium-Ionen-Akku</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050253N7733</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -4842,7 +4842,7 @@
     <reference_number>G253421-G253422</reference_number>
     <brand>HELI</brand>
     <model>CPD25-D11LIG2-P</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>26980.00</price>
@@ -4856,7 +4856,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>4 VALVES and DUAL IHR, SUSPENSION SEAT, OPS, LED lights, 115V-100A charger, lithium battery cloud</special_options>
+    <special_options>4 Ventile und doppelte IHR, Federsitz, OPS, LED-Beleuchtung, 115V-100A-Ladegerät, Lithium-Ionen-Akku</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050253N9174, 050253N9173</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -4873,7 +4873,7 @@
     <reference_number>G253423</reference_number>
     <brand>HELI</brand>
     <model>CPD25-D11LIG2-P</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>26980.00</price>
@@ -4887,7 +4887,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>4 VALVES and DUAL IHR, SUSPENSION SEAT, OPS, LED lights, 115V-100A charger, lithium battery cloud</special_options>
+    <special_options>4 Ventile und doppelte IHR, Federsitz, OPS, LED-Beleuchtung, 115V-100A-Ladegerät, Lithium-Ionen-Akku</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050253N9333</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -4904,7 +4904,7 @@
     <reference_number>G250625</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>21970.00</price>
@@ -4918,7 +4918,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>M400</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>M400, No marking Solid Tyres, 4 Valves, Hook on Side shift, Top Window, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, LED Lights</special_options>
+    <special_options>M400, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebelhaken, Dachfenster, GRAMMAR-Federungssitz, Ladegerät D80V-200A, LED-Leuchten</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2</series>
@@ -4934,7 +4934,7 @@
     <reference_number>G250624</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>21800.00</price>
@@ -4948,7 +4948,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>M370</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>M370, No marking Solid Tyres, 4 Valves, Hook on Side shift, Top Window, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, LED Lights</special_options>
+    <special_options>M370, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebelhaken, Dachfenster, GRAMMAR-Federungssitz, Ladegerät D80V-200A, LED-Leuchten</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DR3783</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -4965,7 +4965,7 @@
     <reference_number>G252185</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>21970.00</price>
@@ -4979,7 +4979,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>M400</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>M400, No marking Solid Tyres, 4 Valves, Hook on Side shift, Top Window, GRAMMAR SUSPENSION SEAT, On board charger D80V-35A, Lithum battery cloud, LED Lights</special_options>
+    <special_options>M400, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebel, Dachfenster, GRAMMAR-Federungssitz, Bordladegerät D80V-35A, Lithium-Ionen-Akku, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DS0250</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -4996,7 +4996,7 @@
     <reference_number>L250717-L250720</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>23550.00</price>
@@ -5010,7 +5010,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>M330</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>M330, No marking Solid Tyres, 4 Valves, Hook on Side shift, Cabin and heater, Higher OHG, HELI SUSPENSION SEAT, Charger D80V-200A, LED Lights</special_options>
+    <special_options>M330, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebel, Kabine mit Heizung, höhere Kopffreiheit, gefederter Hubschraubersitz, Ladegerät D80V-200A, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DT1102, 05025DT1103</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5027,7 +5027,7 @@
     <reference_number>L250866-L250868</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>22120.00</price>
@@ -5041,12 +5041,12 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>M330</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>M330, No marking Solid Tyres, 4 Valves, Hook on Side Shift and Fork Positioner, Top Window, Higher OHG, HELI SUSPENSION SEAT, Charger D80V-200A, LED Lights</special_options>
+    <special_options>M330, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebel und Gabelverstellung, oberes Sichtfenster, höheres OHG-Gewinde, gefederter Hubschraubersitz, Ladegerät D80V-200A, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DT2482</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2</series>
-    <attachments>HELI hook on side shift and fork positioner</attachments>
+    <attachments>HELI-Haken am Seitenschalthebel und Gabelversteller</attachments>
     <cabin>Hochdachfenster</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
@@ -5058,7 +5058,7 @@
     <reference_number>L250944-L250946</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>22560.00</price>
@@ -5072,12 +5072,12 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>M330</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>M330, No marking Solid Tyres, 4 Valves, Hook on Side Shift and Fork Positioner, Top Window, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, LED Lights</special_options>
+    <special_options>M330, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebel und Gabelverstellung, oberes Sichtfenster, höheres OHG, GRAMMAR-Federungssitz, Ladegerät D80V-200A, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DT2837, 05025DT2836</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2</series>
-    <attachments>HELI hook on side shift and fork positioner</attachments>
+    <attachments>HELI-Haken am Seitenschalthebel und Gabelversteller</attachments>
     <cabin>Hochdachfenster</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
@@ -5089,7 +5089,7 @@
     <reference_number>L250592-L250595</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>23000.00</price>
@@ -5103,7 +5103,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front Double cylinder, ZSM470, No marking SOLID TYRE, 4 VALVES and DUAL IHR, HELI SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, On board Charger D80V-35A, Cabin and heater</special_options>
+    <special_options>Doppelzylinder vorne, ZSM470, keine Markierung, Vollgummireifen, 4 Ventile und doppelte IHR, Helikopter-Federungssitz, OPS, Helikopterhaken am Seitenschalthebel, LED-Beleuchtung, Bordladegerät D80V-35A, Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DT1083, 05025DT1085</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5120,7 +5120,7 @@
     <reference_number>L250881-L250888</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>23000.00</price>
@@ -5134,7 +5134,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM470, No marking SOLID TYRE, 4 VALVES and DUAL IHR, HELI SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, On board Charger D80V-35A</special_options>
+    <special_options>ZSM470, keine Markierung, Vollgummireifen, 4 Ventile und doppelte IHR, Helikopter-Federungssitz, OPS, Helikopterhaken am Seitenschalthebel, LED-Beleuchtung, Bordladegerät D80V-35A</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DT1454, 05025DT1448</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5151,7 +5151,7 @@
     <reference_number>L250959-L250966</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>19880.00</price>
@@ -5165,7 +5165,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM470, No marking SOLID TYRE, 4 VALVES and DUAL IHR, HELI SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, On board Charger D80V-35A, Top window</special_options>
+    <special_options>ZSM470, keine Markierung, Vollgummireifen, 4 Ventile und doppelte IHR, Helikopter-Federungssitz, OPS, Helikopterhaken am Seitenschalthebel, LED-Beleuchtung, Bordladegerät D80V-35A, Dachfenster</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DT2609</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5182,7 +5182,7 @@
     <reference_number>L250947-L250950</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>19880.00</price>
@@ -5196,7 +5196,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM470, No marking SOLID TYRE, 4 VALVES and DUAL IHR, Heli SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, On board Charger D80V-35A, Top window</special_options>
+    <special_options>ZSM470, keine Markierung, Vollgummireifen, 4 Ventile und doppelte IHR, Helikopter-Federungssitz, OPS, Helikopterhaken am Seitenschalthebel, LED-Beleuchtung, Bordladegerät D80V-35A, Dachfenster</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DT2595, 05025DT2594</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5213,7 +5213,7 @@
     <reference_number>L250951-L250958</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>19880.00</price>
@@ -5227,7 +5227,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM470, No marking SOLID TYRE, 4 VALVES and DUAL IHR, Heli SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, On board Charger D80V-35A, Top window</special_options>
+    <special_options>ZSM470, keine Markierung, Vollgummireifen, 4 Ventile und doppelte IHR, Helikopter-Federungssitz, OPS, Helikopterhaken am Seitenschalthebel, LED-Beleuchtung, Bordladegerät D80V-35A, Dachfenster</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DT2603, 05025DT2602, 05025DT2601, 05025DT2600, 05025DT2599</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5244,7 +5244,7 @@
     <reference_number>L251155-L251184</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>22740.00</price>
@@ -5258,7 +5258,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front Double Cylinder, 4 VALVES and DUAL IHR, Heli SUSPENSION SEAT, OPS, LED lights, Charger D80V-35A</special_options>
+    <special_options>Doppelzylinder-Frontmotor, 4 Ventile und doppelte IHR-Einspritzung, Helikopter-Federungssitz, OPS, LED-Beleuchtung, Ladegerät D80V-35A</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DT4805, 05025DT4806, 05025DT4807, 05025DT4808, 05025DT4922, 05025DT4923, 05025DT4924, 05025DT4925, 05025DT4926, 05025DT5133, 05025DT5134, 05025DT5137, 05025DT5138, 05025DT5139, 05025DT5140, 05025DT5141, 05025DT5142, 05025DT5143, 05025DT5144, 05025DT5145, 05025DT5146, 05025DT5147, 05025DT5149, 05025DT5150, 05025DT5135, 05025DT5136, 05025DT5148</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5275,7 +5275,7 @@
     <reference_number>L251451-L251465</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>22740.00</price>
@@ -5289,7 +5289,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front Double cylinder, ZSM470, No marking SOLID TYRE, 4 VALVES and DUAL IHR, Heli SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, On board Charger D80V-35A, Cabin and heater</special_options>
+    <special_options>Doppelzylinder-Frontmotor, ZSM470, keine Markierung, Vollgummireifen, 4 Ventile und doppelte IHR, Helikopter-Federungssitz, OPS, Helikopterhaken am Seitenschalthebel, LED-Beleuchtung, Bordladegerät D80V-35A, Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DT8498, 05025DT8499, 05025DT8500, 05025DT8501, 05025DT8502, 05025DT8503, 05025DT8504, 05025DT8333, 05025DT8338, 05025DT8339, 05025DT8334, 05025DT8335, 05025DT8336, 05025DT8337, 05025DT8340</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5306,7 +5306,7 @@
     <reference_number>D260628-D260639</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>22740.00</price>
@@ -5320,7 +5320,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front Double Cylinder, 4 VALVES and DUAL IHR, Heli SUSPENSION SEAT, OPS, LED lights, Charger D80V-35A</special_options>
+    <special_options>Doppelzylinder-Frontmotor, 4 Ventile und doppelte IHR-Einspritzung, Helikopter-Federungssitz, OPS, LED-Beleuchtung, Ladegerät D80V-35A</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU1695, 05025DU1696, 05025DU1697, 05025DU1698, 05025DU1699, 05025DU1700, 05025DU1701, 05025DU1702, 05025DU1703, 05025DU1704</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5337,7 +5337,7 @@
     <reference_number>D260652-D260655</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>23200.00</price>
@@ -5351,7 +5351,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front Double Cylinder, 4 VALVES and DUAL IHR, Heli SUSPENSION SEAT, OPS, LED lights, Charger D80V-35A</special_options>
+    <special_options>Doppelzylinder-Frontmotor, 4 Ventile und doppelte IHR-Einspritzung, Helikopter-Federungssitz, OPS, LED-Beleuchtung, Ladegerät D80V-35A</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU1839, 05025DU1840</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5368,7 +5368,7 @@
     <reference_number>D260477-D260480</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>24900.00</price>
@@ -5382,7 +5382,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Double Front Cylinders, ZSM540, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side shift, Top Window, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, Lithum battery cloud, LED Lights</special_options>
+    <special_options>Doppelzylinder vorne, ZSM540, Doppelzylinder vorne, Vollgummireifen, 4 Ventile, seitlicher Schalthebel, Dachfenster, höheres OHG, HELI PREMIER GEFÖRMTER SITZ, Ladegerät D80V-200A, Lithium-Batterie-Cloud, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU2936, 05025DU2937, 05025DU2938, 05025DU2939</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5399,7 +5399,7 @@
     <reference_number>D260507-D260514</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>24400.00</price>
@@ -5413,7 +5413,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Double Front Cylinders, ZSM470, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side shift, Top Window, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, LED Lights, FICS System+ 5-Year Service</special_options>
+    <special_options>Doppelte Frontzylinder, ZSM470, Doppelte Frontzylinder, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebel, Dachfenster, höheres OHG, HELI PREMIER Federsitz, Ladegerät D80V-200A, LED-Beleuchtung, FICS-System + 5 Jahre Service</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU1555, 05025DU1560, 05025DU1553, 05025DU1554</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5430,7 +5430,7 @@
     <reference_number>D260515-D260526</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>26600.00</price>
@@ -5444,7 +5444,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Double front cylinders, ZSM470, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side shift, Cabin and heater, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, Lithum battery cloud, LED Lights</special_options>
+    <special_options>Doppelzylinder vorne, ZSM470, Doppelzylinder vorne, Vollgummireifen, 4 Ventile, seitlicher Schalthebel, Kabine mit Heizung, höheres OHG-Gewinde, HELI PREMIER GEFÖRMTER SITZ, Ladegerät D80V-200A, Lithium-Batterie-Cloud, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU2949, 05025DU2945, 05025DU2944, 05025DU2943, 05025DU2942, 05025DU2941, 05025DU2951, 05025DU2950, 05025DU2948, 05025DU2947</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5461,7 +5461,7 @@
     <reference_number>D260485-D260489</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>27000.00</price>
@@ -5475,7 +5475,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Fingertips Control, Double Front Cylinders, ZSM470, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side shift, Top Window, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, Lithum battery cloud, Fingertips, LED Lights</special_options>
+    <special_options>Fingertips-Steuerung, Doppelzylinder vorne, ZSM470, Doppelzylinder vorne, abriebfeste Vollgummireifen, 4 Ventile, seitlicher Schalthebel, Dachfenster, höheres OHG, HELI PREMIER Federsitz, Ladegerät D80V-200A, Lithium-Batterie-Cloud, Fingertips-Steuerung, LED-Leuchten</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU3058, 05025DU3059, 05025DU3060, 05025DU3061</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5492,7 +5492,7 @@
     <reference_number>D260490-D260494</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>24000.00</price>
@@ -5506,7 +5506,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>M350</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>M350, Solid Tyres, 4 Valves, Hook on Side shift, Top Window, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, Lithum battery cloud, LED Lights</special_options>
+    <special_options>M350, Vollgummireifen, 4 Ventile, seitlicher Schalthebel, Dachfenster, höhere Kopfstütze, HELI PREMIER Federsitz, Ladegerät D80V-200A, Lithium-Ionen-Akku, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU2126, 05025DU2127, 05025DU2129, 05025DU2128</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5523,7 +5523,7 @@
     <reference_number>L251604-L251608</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>27300.00</price>
@@ -5537,7 +5537,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>P-ADAS System, Front Double cylinder, ZSM470, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side shift, Cabin and heater, Higher OHG, HELI PREMIER SUSPENSION SEAT, On board charger D80V-35A, LED Lights</special_options>
+    <special_options>P-ADAS-System, Doppelzylinder vorne, ZSM470, Doppelzylinder vorne, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebel, Kabine mit Heizung, höheres OHG-Gewinde, HELI PREMIER-Federungssitz, Bordladegerät D80V-35A, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DT9053, 05025DT9054, 05025DT9055, 05025DT9057, 05025DT9056</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5554,7 +5554,7 @@
     <reference_number>D260495-D260502</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>26600.00</price>
@@ -5568,13 +5568,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM470, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side Shift and Fork Positioner, Top Window, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, Lithum battery cloud, LED Lights</special_options>
+    <special_options>ZSM470, Doppelzylinder vorne, Vollgummireifen, 4 Ventile, seitlicher Schalthebel und Gabelverstellung, oberes Sichtfenster, höheres OHG-Gewinde, HELI PREMIER Federsitz, Ladegerät D80V-200A, Lithium-Ionen-Akku, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU2588, 05025DU2587, 05025DU2586, 05025DU2585, 05025DU2584</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2-PLUS</series>
     <attachments>Einhänge-Gabelversteller mit Seitenverschiebung</attachments>
-    <cabin>High Top Window Double Front Cylinders</cabin>
+    <cabin>Hochdachfenster, Doppelzylinder vorne</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
@@ -5585,7 +5585,7 @@
     <reference_number>L250848-L250850</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>29500.00</price>
@@ -5599,7 +5599,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front double cylinder/ADAS system/, Double Pedal, ZSM470, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side shift, Cabin and heater, Higher OHG, HELI PREMIER SUSPENSION SEAT, On board charger D80V-35A, Double Pedals, LED Lights, ADAS System</special_options>
+    <special_options>Doppelbremszylinder vorne/ADAS-System/, Doppelpedal, ZSM470, Doppelbremszylinder vorne, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebel, Kabine mit Heizung, höheres OHG, HELI PREMIER FEDERNSITZ, Bordladegerät D80V-35A, Doppelpedale, LED-Beleuchtung, ADAS-System</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DT9426, 05025DT9425, 05025DT9424</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -5616,7 +5616,7 @@
     <reference_number>L251599-L251603</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>29000.00</price>
@@ -5630,12 +5630,12 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ADAS System, Front dual cylinders, ZSM470, No marking SOLID TYRE, 4 VALVES and DUAL IHR, Heli NEW Premier SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, On board Charger D80V-35A, Cabin and heater</special_options>
+    <special_options>ADAS-System, Doppelzylinder vorne, ZSM470, keine Markierungen, Vollgummireifen, 4 Ventile und doppelte IHR, neuer Premier-Federungssitz für Helikopter, OPS, Helikopterhaken am Seitenschalthebel, LED-Beleuchtung, Bordladegerät D80V-35A, Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DT9423</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2-PLUS</series>
-    <attachments>Hook-on Side-shift</attachments>
+    <attachments>Seitlicher Schalthebel</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
@@ -5647,7 +5647,7 @@
     <reference_number>D261212-D261217</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>27000.00</price>
@@ -5661,13 +5661,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM540</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>FICS System, Front dual cylinders, ZSM540, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side shift, Cabin and heater, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, LED Lights, FICS System+ 5-Year Service</special_options>
+    <special_options>FICS-System, Doppelbremszylinder vorn, ZSM540, Doppelbremszylinder vorn, Vollgummireifen, 4 Ventile, seitliche Schaltwippe, Kabine mit Heizung, höherer Zylinderkopfdichtungssatz, GRAMMAR-Federungssitz, Ladegerät D80V-200A, LED-Beleuchtung, FICS-System + 5 Jahre Service</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU3667, 05025DU3663, 05025DU3664, 05025DU3665, 05025DU3666</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2-PLUS</series>
-    <attachments>Hook on Side Shift</attachments>
-    <cabin>High Cabin and Heater</cabin>
+    <attachments>Haken am Seitenschalthebel</attachments>
+    <cabin>Hohe Kabine und Heizung</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
@@ -5678,7 +5678,7 @@
     <reference_number>D261218-D261220</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>29500.00</price>
@@ -5692,12 +5692,12 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>FICS System, Front dual cylinders, Fingertips, ZSM470, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side shift, Top Window, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, LED Lights, FICS System+ 5-Year Service</special_options>
+    <special_options>FICS-System, Doppelbremszylinder vorn, Fingertips, ZSM470, Doppelbremszylinder vorn, Vollgummireifen, 4 Ventile, seitlicher Schalthebel, Dachfenster, höheres OHG, GRAMMAR-Federungssitz, Ladegerät D80V-200A, LED-Beleuchtung, FICS-System + 5 Jahre Service</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU3892, 05025DU3893, 05025DU3894</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2-PLUS</series>
-    <attachments>Hook on Side Shift</attachments>
+    <attachments>Haken am Seitenschalthebel</attachments>
     <cabin>Hochdachfenster</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
@@ -5709,7 +5709,7 @@
     <reference_number>D261236-D261238</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>30800.00</price>
@@ -5723,12 +5723,12 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>FICS System, Front dual cylinders, Fingertips, ZSM470, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side Shift and Fork Positioner, Top Window, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, LED Lights, FICS System+ 5-Year Service</special_options>
+    <special_options>FICS-System, Doppelzylinder vorne, Fingertips, ZSM470, Doppelzylinder vorne, Vollgummireifen, 4 Ventile, seitlicher Schalthebel mit Gabelverstellung, oberes Sichtfenster, höheres OHG-Gelenk, GRAMMAR-Federungssitz, Ladegerät D80V-200A, LED-Beleuchtung, FICS-System + 5 Jahre Service</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU4557, 05025DU4556, 05025DU4555</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2-PLUS</series>
-    <attachments>Hook on Side Shift and Forks Positioner</attachments>
+    <attachments>Einhängen des Seitenschalthebels und Gabelverstellers</attachments>
     <cabin>Hochdachfenster</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
@@ -5740,7 +5740,7 @@
     <reference_number>D261221-D261223</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>30800.00</price>
@@ -5754,13 +5754,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>FICS System, Front dual cylinders, Fingertips, ZSM470, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side shift, Cabin and heater, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, LED Lights, FICS System+ 5-Year Service</special_options>
+    <special_options>FICS-System, Doppelbremszylinder vorn, Fingertips, ZSM470, Doppelbremszylinder vorn, Vollgummireifen, 4 Ventile, seitliche Schaltwippe, Kabine und Heizung, höherer OHG-Wert, GRAMMAR-Federungssitz, Ladegerät D80V-200A, LED-Beleuchtung, FICS-System + 5 Jahre Service</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU3773, 05025DU3772</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2-PLUS</series>
-    <attachments>Hook on Side Shift</attachments>
-    <cabin>High Cabin and Heater</cabin>
+    <attachments>Haken am Seitenschalthebel</attachments>
+    <cabin>Hohe Kabine und Heizung</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
@@ -5771,7 +5771,7 @@
     <reference_number>D261242-D261246</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>32200.00</price>
@@ -5785,13 +5785,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>FICS System, Front dual cylinders, Fingertips, ADAS System, ZSM470, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side shift, Semi Cabin, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, LED Lights, FICS System+ 5-Year Service</special_options>
+    <special_options>FICS-System, Doppelbremszylinder vorn, Fingertips, ADAS-System, ZSM470, Doppelbremszylinder vorn, Vollgummireifen, 4 Ventile, seitliche Schaltwippe, Halbkabine, höherer OHG-Wert, GRAMMAR-Federungssitz, Ladegerät D80V-200A, LED-Beleuchtung, FICS-System + 5 Jahre Service</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU4158, 05025DU4159, 05025DU4160, 05025DU4161, 05025DU4162</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2-PLUS</series>
-    <attachments>Hook on Side Shift</attachments>
-    <cabin>High Front &amp; Rear &amp; Top Window</cabin>
+    <attachments>Haken am Seitenschalthebel</attachments>
+    <cabin>Hohe Front-, Heck- und Dachfenster</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
@@ -5802,7 +5802,7 @@
     <reference_number>D261247-D261252</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>32800.00</price>
@@ -5816,13 +5816,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>FICS System, Front dual cylinders, Fingertips, ADAS System, ZSM470, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side shift, Cabin and heater, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, LED Lights, FICS System+ 5-Year Service</special_options>
+    <special_options>FICS-System, Doppelbremszylinder vorn, Fingertips, ADAS-System, ZSM470, Doppelbremszylinder vorn, Vollgummireifen, 4 Ventile, seitlicher Schalthebel, Kabine mit Heizung, höherer OHG-Wert, GRAMMAR-Federungssitz, Ladegerät D80V-200A, LED-Beleuchtung, FICS-System + 5 Jahre Service</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU4292, 05025DU4293, 05025DU4294, 05025DU4295</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2-PLUS</series>
-    <attachments>Hook on Side Shift</attachments>
-    <cabin>High Cabin and Heater</cabin>
+    <attachments>Haken am Seitenschalthebel</attachments>
+    <cabin>Hohe Kabine und Heizung</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
@@ -5833,7 +5833,7 @@
     <reference_number>D261239-D261241</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>32000.00</price>
@@ -5847,13 +5847,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>FICS System, Front dual cylinders, Fingertips, ZSM470, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side Shift and Fork Positioner, Cabin and heater, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, LED Lights, FICS System+ 5-Year Service</special_options>
+    <special_options>FICS-System, Doppelzylinder vorne, Fingertips, ZSM470, Doppelzylinder vorne, Vollgummireifen, 4 Ventile, seitlicher Schalthebel mit Haken und Gabelverstellung, Kabine mit Heizung, höherer OHG-Wert, GRAMMAR-Federungssitz, Ladegerät D80V-200A, LED-Beleuchtung, FICS-System + 5 Jahre Service</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU4560</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2-PLUS</series>
-    <attachments>Hook on Side Shift and Forks Positioner</attachments>
-    <cabin>High Cabin and Heater</cabin>
+    <attachments>Einhängen des Seitenschalthebels und Gabelverstellers</attachments>
+    <cabin>Hohe Kabine und Heizung</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
@@ -5864,7 +5864,7 @@
     <reference_number>D261224-D261229</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>26200.00</price>
@@ -5878,12 +5878,12 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM540</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>FICS System, Front dual cylinders, ZSM540, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side Shift and Fork Positioner, Top Window, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, LED Lights, FICS System+ 5-Year Service</special_options>
+    <special_options>FICS-System, Doppelzylinder vorne, ZSM540, Doppelzylinder vorne, Vollgummireifen, 4 Ventile, seitlicher Schalthebel und Gabelverstellung, oberes Sichtfenster, höheres OHG-Gelenk, GRAMMAR-Federungssitz, Ladegerät D80V-200A, LED-Beleuchtung, FICS-System + 5 Jahre Service</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU3775, 05025DU3776, 05025DU3777, 05025DU3778, 05025DU3779, 05025DU3780</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2-PLUS</series>
-    <attachments>Hook on Side Shift and Forks Positioner</attachments>
+    <attachments>Einhängen des Seitenschalthebels und Gabelverstellers</attachments>
     <cabin>Hochdachfenster</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
@@ -5895,7 +5895,7 @@
     <reference_number>D261230-D261235</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>27500.00</price>
@@ -5909,13 +5909,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM540</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>FICS System, Front dual cylinders, ZSM540, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side Shift and Fork Positioner, Cabin and heater, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, LED Lights, FICS System+ 5-Year Service</special_options>
+    <special_options>FICS-System, Doppelzylinder vorne, ZSM540, Vollgummireifen, 4 Ventile, seitlicher Schalthebel und Gabelverstellung, Kabine mit Heizung, höherer OHG-Wert, GRAMMAR-Federungssitz, Ladegerät D80V-200A, LED-Beleuchtung, FICS-System + 5 Jahre Service</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU3896, 05025DU3895, 05025DU3900, 05025DU3899, 05025DU3898</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2-PLUS</series>
-    <attachments>Hook on Side Shift and Forks Positioner</attachments>
-    <cabin>High Cabin and Heater</cabin>
+    <attachments>Einhängen des Seitenschalthebels und Gabelverstellers</attachments>
+    <cabin>Hohe Kabine und Heizung</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
@@ -5926,7 +5926,7 @@
     <reference_number>D261206-D261211</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>25000.00</price>
@@ -5940,12 +5940,12 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM540</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>FICS System, Front dual cylinders, ZSM540, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side shift, Top Window, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, LED Lights, FICS System+ 5-Year Service</special_options>
+    <special_options>FICS-System, Doppelbremszylinder vorn, ZSM540, Doppelbremszylinder vorn, Vollgummireifen, 4 Ventile, seitliche Schaltwippe, Dachfenster, höheres OHG-Ventil, GRAMMAR-Federungssitz, Ladegerät D80V-200A, LED-Beleuchtung, FICS-System + 5 Jahre Service</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU3657, 05025DU3658, 05025DU3659, 05025DU3660, 05025DU3661, 05025DU3662</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2-PLUS</series>
-    <attachments>Hook on Side Shift</attachments>
+    <attachments>Haken am Seitenschalthebel</attachments>
     <cabin>Hochdachfenster</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
@@ -5957,7 +5957,7 @@
     <reference_number>D261983-D261987</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>32000.00</price>
@@ -5971,8 +5971,8 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Joystick control, Double pedals, Doubles front cylinders, ZSM470, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side shift, Cabin and heater, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, Joysticks, LED Lights, Rear Bluespot</special_options>
-    <delivery_status>Friedberg-Hessen / End of Sep.</delivery_status>
+    <special_options>Joystick-Steuerung, Doppelpedale, Doppelzylinder vorne, ZSM470, Doppelzylinder vorne, Vollgummireifen ohne Markierungen, 4 Ventile, seitliche Schaltwippe, Kabine mit Heizung, höherer OHG-Wert, GRAMMAR-Federungssitz, Ladegerät D80V-200A, Joysticks, LED-Beleuchtung, Bluespot-Rückleuchten</special_options>
+    <delivery_status>Friedberg-Hessen / Ende September.</delivery_status>
     <serial_number>05025DV6210, 05025DV6206, 05025DV6207, 05025DV6208, 05025DV6209</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2-PLUS</series>
@@ -5988,7 +5988,7 @@
     <reference_number>D261993-D261994</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>33000.00</price>
@@ -6002,12 +6002,12 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Joystick control, Double pedals, Doubles front cylinders, ZSM470, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side Shift and Fork Positioner, Cabin and heater, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, Joysticks, LED Lights, Rear Bluespot</special_options>
+    <special_options>Joystick-Steuerung, Doppelpedale, Doppelzylinder vorne, ZSM470, Doppelzylinder vorne, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebel und Gabelverstellung, Kabine mit Heizung, höheres OHG-Gewinde, GRAMMAR-Federungssitz, Ladegerät D80V-200A, Joysticks, LED-Beleuchtung, Rücklicht Bluespot</special_options>
     <delivery_status>Friedberg-Hessen / 18.09.2026</delivery_status>
     <serial_number>05025DV3481, 05025DV3480</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2-PLUS</series>
-    <attachments>HELI hook on side shift and fork positioner</attachments>
+    <attachments>HELI-Haken am Seitenschalthebel und Gabelversteller</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
@@ -6019,7 +6019,7 @@
     <reference_number>D261915-D261916</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>31200.00</price>
@@ -6033,7 +6033,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Double front cylinders, Joystick control, Double pedals, ZSM470, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side shift, Cabin and heater, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, Lithum battery cloud, Joysticks, LED Lights</special_options>
+    <special_options>Doppelte Frontbremszylinder, Joystick-Steuerung, Doppelpedale, ZSM470, Doppelbremszylinder vorne, Vollgummireifen, 4 Ventile, seitliche Schaltwippe, Kabine mit Heizung, höherer OHG-Wert, GRAMMAR-Federungssitz, Ladegerät D80V-200A, Lithium-Ionen-Akku, Joysticks, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05025DU9691</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6050,7 +6050,7 @@
     <reference_number>20260410</reference_number>
     <brand>HELI</brand>
     <model>CPD30-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3000</capacity_kg>
     <tonnage>3.0</tonnage>
     <price>34000.00</price>
@@ -6064,7 +6064,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front Double Cylinder / Joystick Control / ADAS System / Lithum battery cloud, ZSM470, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side shift, Cabin and heater, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, Lithum battery cloud, Joysticks, LED Lights, ADAS System</special_options>
+    <special_options>Doppelzylinder vorne / Joystick-Steuerung / ADAS-System / Lithium-Ionen-Akku, ZSM470, Doppelzylinder vorne, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebel, Kabine mit Heizung, höheres OHG-Gewinde, HELI PREMIER Federsitz, Ladegerät D80V-200A, Lithium-Ionen-Akku, Joysticks, LED-Beleuchtung, ADAS-System</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05030DT7660</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6081,7 +6081,7 @@
     <reference_number>D260531-D260534</reference_number>
     <brand>HELI</brand>
     <model>CPD30-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3000</capacity_kg>
     <tonnage>3.0</tonnage>
     <price>29000.00</price>
@@ -6095,7 +6095,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Double front cylinders, ZSM470, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side shift, Top Window, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, Lithum battery cloud, LED Lights</special_options>
+    <special_options>Doppelzylinder vorne, ZSM470, Doppelzylinder vorne, Vollgummireifen, 4 Ventile, seitlicher Schalthebel, Dachfenster, höheres OHG, HELI PREMIER FEDERNSITZ, Ladegerät D80V-200A, Lithium-Batterie-Cloud, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05030DU1270, 05030DU1271, 05030DU1272</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6112,7 +6112,7 @@
     <reference_number>D260535-D260538</reference_number>
     <brand>HELI</brand>
     <model>CPD30-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3000</capacity_kg>
     <tonnage>3.0</tonnage>
     <price>31200.00</price>
@@ -6126,7 +6126,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Double front cylinders, ZSM470, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side shift, Cabin and heater, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, Lithum battery cloud, LED Lights</special_options>
+    <special_options>Doppelzylinder vorne, ZSM470, Doppelzylinder vorne, Vollgummireifen, 4 Ventile, seitlicher Schalthebel, Kabine mit Heizung, höheres OHG-Gewinde, HELI PREMIER GEFÖRMTER SITZ, Ladegerät D80V-200A, Lithium-Batterie-Cloud, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05030DU1273, 05030DU1274, 05030DU1275, 05030DU1276</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6143,7 +6143,7 @@
     <reference_number>D261895-D261897</reference_number>
     <brand>HELI</brand>
     <model>CPD30-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3000</capacity_kg>
     <tonnage>3.0</tonnage>
     <price>32700.00</price>
@@ -6157,7 +6157,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Double front cylinders, ZSM540, Front Double cylinders, Solid Tyres, 4 Valves, Hook on Side shift, Cabin and heater, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, LED Lights, FICS System+ 5-Year Service</special_options>
+    <special_options>Doppelzylinder vorne, ZSM540, Doppelzylinder vorne, Vollgummireifen, 4 Ventile, seitlicher Schalthebel, Kabine mit Heizung, höheres OHG-Gewinde, HELI PREMIER-Federungssitz, Ladegerät D80V-200A, LED-Beleuchtung, FICS-System + 5 Jahre Service</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05030DU9837, 05030DU9836, 05030DU9835</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6174,7 +6174,7 @@
     <reference_number>G251504-G251505</reference_number>
     <brand>HELI</brand>
     <model>CPD35-A3LIH4-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>22600.00</price>
@@ -6188,7 +6188,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>M330</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>M330, SOLID TYRE, 4 VALVES and DUAL IHR, Heli SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, On-board Charger D80V-35A, Top window, Lithium Battery Cloud</special_options>
+    <special_options>M330, Vollgummireifen, 4 Ventile und doppelte IHR, Helikopter-Federungssitz, OPS, Helikopter-Haken am Seitenschalthebel, LED-Beleuchtung, Bordladegerät D80V-35A, Dachfenster, Lithium-Akku-Cloud</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DR8221</serial_number>
     <image_url>https://account.bcs.tools/image/1162997/H4_1.5-3.8t.webp</image_url>
@@ -6205,7 +6205,7 @@
     <reference_number>L251507-L251514</reference_number>
     <brand>HELI</brand>
     <model>CPD35-A6LIK3-H</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>23000.00</price>
@@ -6219,12 +6219,12 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM450</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM450, 4 Valves&amp;dual hoses, No-marking Solid Tyres, hook on S, HELI suspensation seat, full OPS, Fast charger D80V100A</special_options>
+    <special_options>ZSM450, 4 Ventile &amp; Doppelschläuche, abriebfeste Vollgummireifen, S-Haken, HELI-Federungssitz, vollständiges OPS, Schnellladegerät D80V100A</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <image_url>https://account.bcs.tools/image/1163049/G3_%2BCPD15-35GE2DLI.webp</image_url>
     <series>K3</series>
     <attachments>HELI Hook-on Side Shift</attachments>
-    <cabin>Half cabin</cabin>
+    <cabin>Halbkabine</cabin>
     <photo_match>family 55: G3_+CPD15-35GE2DLI.webp</photo_match>
     <photo_name>G3_+CPD15-35GE2DLI.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163049/G3_%2BCPD15-35GE2DLI.webp</photo_link>
@@ -6235,7 +6235,7 @@
     <reference_number>L250529-L250531</reference_number>
     <brand>HELI</brand>
     <model>CPD35-A7LIH2</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>23320.00</price>
@@ -6249,13 +6249,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM450</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>NEW VERSION, ZSM450, 4 Valves&amp;dual hoses, Solid tyre, hook on S, HELI suspensation seat, full OPS, Internal charger 80V 35A</special_options>
+    <special_options>NEUE VERSION, ZSM450, 4 Ventile &amp; Doppelschläuche, Vollgummireifen, S-Haken, HELI-Federungssitz, vollständiges OPS, internes Ladegerät 80V 35A</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050359EM722, 050359EM721</serial_number>
     <image_url>https://account.bcs.tools/image/1163049/G3_%2BCPD15-35GE2DLI.webp</image_url>
     <series>H2</series>
     <attachments>HELI Hook-on Side Shift</attachments>
-    <cabin>High Half cabin</cabin>
+    <cabin>Hohe Halbkabine</cabin>
     <photo_match>family 57: G3_+CPD15-35GE2DLI.webp</photo_match>
     <photo_name>G3_+CPD15-35GE2DLI.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163049/G3_%2BCPD15-35GE2DLI.webp</photo_link>
@@ -6266,7 +6266,7 @@
     <reference_number>L251569-L251578</reference_number>
     <brand>HELI</brand>
     <model>CPD35-A7LIH2</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>23820.00</price>
@@ -6280,7 +6280,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM450</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>NEW VERSION, ZSM450, 4 Valves&amp;dual hoses, Solid tyre, hook on S, HELI suspensation seat, full OPS, Internal charger 80V 35A</special_options>
+    <special_options>NEUE VERSION, ZSM450, 4 Ventile &amp; Doppelschläuche, Vollgummireifen, S-Haken, HELI-Federungssitz, vollständiges OPS, internes Ladegerät 80V 35A</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050359EV071, 050359EV072, 050359EV069</serial_number>
     <image_url>https://account.bcs.tools/image/1163049/G3_%2BCPD15-35GE2DLI.webp</image_url>
@@ -6297,7 +6297,7 @@
     <reference_number>D260620-D260623</reference_number>
     <brand>HELI</brand>
     <model>CPD35-A7LIH2</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>22500.00</price>
@@ -6311,7 +6311,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM450</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>NEW VERSION, ZSM450, 4 Valves&amp;dual hoses, Solid tyre, hook on S, HELI suspensation seat, full OPS, Internal charger 80V 35A</special_options>
+    <special_options>NEUE VERSION, ZSM450, 4 Ventile &amp; Doppelschläuche, Vollgummireifen, S-Haken, HELI-Federungssitz, vollständiges OPS, internes Ladegerät 80V 35A</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050359EX427, 050359EX425, 050359EX424</serial_number>
     <image_url>https://account.bcs.tools/image/1163049/G3_%2BCPD15-35GE2DLI.webp</image_url>
@@ -6328,7 +6328,7 @@
     <reference_number>L251549-L251558</reference_number>
     <brand>HELI</brand>
     <model>CPD35-A7LIH2</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>23320.00</price>
@@ -6342,7 +6342,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM450</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>Special painting RAL6018, 4 Valves&amp;dual hoses, HELI suspensation seat, full OPS, Internal charger 80V 35A, without Heli logo</special_options>
+    <special_options>Sonderlackierung RAL 6018, 4 Ventile &amp; Doppelschläuche, HELI-Federungssitz, vollständiges OPS, internes Ladegerät 80 V 35 A, ohne Heli-Logo</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050359EV603, 050359EV601, 050359EV784, 050359EV783, 050359EV781, 050359EV600, 050359EV785, 050359EV782, 050359EV604, 050359EV602</serial_number>
     <image_url>https://account.bcs.tools/image/1163049/G3_%2BCPD15-35GE2DLI.webp</image_url>
@@ -6359,7 +6359,7 @@
     <reference_number>D260608-D260613</reference_number>
     <brand>HELI</brand>
     <model>CPD35-A7LIH2</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>23320.00</price>
@@ -6373,7 +6373,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM450</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>NEW VERSION, 4 Valves&amp;dual hoses, HELI suspensation seat, full OPS, Internal charger 80V 35A</special_options>
+    <special_options>NEUE VERSION, 4 Ventile &amp; Doppelschläuche, HELI-Federungssitz, volle OPS-Ausstattung, internes Ladegerät 80V 35A</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050359EY060, 050359EY056</serial_number>
     <image_url>https://account.bcs.tools/image/1163049/G3_%2BCPD15-35GE2DLI.webp</image_url>
@@ -6390,7 +6390,7 @@
     <reference_number>G253425</reference_number>
     <brand>HELI</brand>
     <model>CPD35-D11LIG2-P</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>30360.00</price>
@@ -6404,7 +6404,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>AI monitoring, anti-collision system, 4 VALVES and DUAL IHR, SUSPENSION SEAT, OPS, LED lights, 115V-100A charger, lithium battery cloud</special_options>
+    <special_options>KI-Überwachung, Antikollisionssystem, 4 Ventile und doppelte IHR, Federungssitz, OPS, LED-Beleuchtung, 115V-100A-Ladegerät, Lithium-Ionen-Akku</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050353N9332</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6421,7 +6421,7 @@
     <reference_number>D260580-D260591</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>28900.00</price>
@@ -6435,7 +6435,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front duble cylinder, ZSM470, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side shift, Top Window, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, Lithum battery cloud, LED Lights</special_options>
+    <special_options>Doppelzylinder vorne, ZSM470, Doppelzylinder vorne, keine Markierungen, Vollgummireifen, 4 Ventile, seitlicher Schalthebel, oberes Fenster, höheres OHG, HELI PREMIER GEFÖRMTER SITZ, Ladegerät D80V-200A, Lithium-Batterie-Cloud, LED-Leuchten</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DU1038, 05035DU1039, 05035DU1040, 05035DU1041</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6452,7 +6452,7 @@
     <reference_number>G240781-G240788</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>28750.00</price>
@@ -6466,7 +6466,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>mast is not on, please double check, ZSM470, No marking Solid Tyres, 4 Valves, Hook on Side shift, Top Window, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, Lithum battery cloud, LED Lights, mast is not on, please double check</special_options>
+    <special_options>Mast nicht montiert, bitte überprüfen, ZSM470, keine Markierungen, Vollgummireifen, 4 Ventile, seitlicher Schalthaken, Dachfenster, GRAMMAR-Federungssitz, Ladegerät D80V-200A, Lithium-Ionen-Akku, LED-Beleuchtung, Mast nicht montiert, bitte überprüfen</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DR0142</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6483,7 +6483,7 @@
     <reference_number>G253860-G253863</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>29290.00</price>
@@ -6497,7 +6497,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>M400</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>M400, No marking Solid Tyres, 4 Valves, Hook on Side shift, Cabin and heater, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, Lithum battery cloud, LED Lights</special_options>
+    <special_options>M400, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebel, Kabine mit Heizung, höhere Kopffreiheit, GRAMMAR-Federungssitz, Ladegerät D80V-200A, Lithium-Ionen-Akku, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DS7206, 05035DS7205, 05035DS7204, 05035DS7203</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6514,7 +6514,7 @@
     <reference_number>L250484-L250485</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>29280.00</price>
@@ -6528,7 +6528,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>M400</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>M400, No marking Solid Tyres, 4 Valves, Hook on Side shift, Cabin and heater, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, Lithum battery cloud, LED Lights</special_options>
+    <special_options>M400, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebel, Kabine mit Heizung, höheres OHG-Gewinde, HELI PREMIER Federsitz, Ladegerät D80V-200A, Lithium-Ionen-Akku, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DS7880</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6545,7 +6545,7 @@
     <reference_number>L250889-L250890</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>27650.00</price>
@@ -6559,7 +6559,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>M330</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>M330, No marking Solid Tyres, 4 Valves, Hook on Side shift, Top Window, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, LED Lights</special_options>
+    <special_options>M330, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebel, Dachfenster, höhere Dachhöhe, GRAMMAR-Federungssitz, Ladegerät D80V-200A, LED-Leuchten</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DT1283, 05035DT1282</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6576,7 +6576,7 @@
     <reference_number>D260576-D260579</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>26800.00</price>
@@ -6590,7 +6590,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>M330</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>M330, No marking Solid Tyres, 4 Valves, Hook on Side shift, Top Window, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, Lithum battery cloud, LED Lights</special_options>
+    <special_options>M330, Keine Markierung, Vollgummireifen, 4 Ventile, seitlicher Schalthebel, Dachfenster, höherer Luftdruck, HELI PREMIER-Federungssitz, Ladegerät D80V-200A, Lithium-Batterie-Cloud, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DU0988, 05035DU0989, 05035DU0990, 05035DU0991</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6607,7 +6607,7 @@
     <reference_number>D260592-D260603</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>31100.00</price>
@@ -6621,7 +6621,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front duble cylinder, ZSM470, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side shift, Cabin and heater, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, Lithum battery cloud, LED Lights</special_options>
+    <special_options>Vorderer Doppelzylinder, ZSM470, Vordere Doppelzylinder, Keine Markierung, Vollgummireifen, 4 Ventile, seitlicher Schalthebel, Kabine und Heizung, höherer Luftdruck, HELI PREMIER-Federungssitz, Ladegerät D80V-200A, Lithium-Batterie-Cloud, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DU2682, 05035DU2680</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6638,7 +6638,7 @@
     <reference_number>D261988-D261992</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>36600.00</price>
@@ -6652,8 +6652,8 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Joystick control, Double pedals, Doubles front cylinders, ZSM470, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side shift, Cabin and heater, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, Joysticks, LED Lights, Rear Bluespot</special_options>
-    <delivery_status>Friedberg-Hessen / End of Sep.</delivery_status>
+    <special_options>Joystick-Steuerung, Doppelpedale, Doppelzylinder vorne, ZSM470, Doppelzylinder vorne, Vollgummireifen ohne Markierungen, 4 Ventile, seitliche Schaltwippe, Kabine mit Heizung, höherer OHG-Wert, GRAMMAR-Federungssitz, Ladegerät D80V-200A, Joysticks, LED-Beleuchtung, Bluespot-Rückleuchten</special_options>
+    <delivery_status>Friedberg-Hessen / Ende September.</delivery_status>
     <serial_number>05035DV3334, 05035DV3335, 05035DV3336, 05035DV3337, 05035DV3338</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2</series>
@@ -6669,7 +6669,7 @@
     <reference_number>D261995-D261996</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>37800.00</price>
@@ -6683,11 +6683,11 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Joystick control, Double pedals, Doubles front cylinders, ZSM470, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side Shift and Fork Positioner, Cabin and heater, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, Joysticks, LED Lights, Rear Bluespot</special_options>
+    <special_options>Joystick-Steuerung, Doppelpedale, Doppelzylinder vorne, ZSM470, Doppelzylinder vorne, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebel und Gabelverstellung, Kabine mit Heizung, höheres OHG-Gewinde, GRAMMAR-Federungssitz, Ladegerät D80V-200A, Joysticks, LED-Beleuchtung, Rücklicht Bluespot</special_options>
     <delivery_status>Friedberg-Hessen / 18.09.2026</delivery_status>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2</series>
-    <attachments>HELI hook on side shift and fork positioner</attachments>
+    <attachments>HELI-Haken am Seitenschalthebel und Gabelversteller</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
     <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
@@ -6699,7 +6699,7 @@
     <reference_number>L250490-L250491</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>24200.00</price>
@@ -6713,7 +6713,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>M400, SOLID TYRE, 4 VALVES and DUAL IHR, HELI NEW SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, On-board charger 80V-35A, Cabin and heater</special_options>
+    <special_options>M400, Vollgummireifen, 4 Ventile und doppelte IHR, HELI NEUER FEDERNSITZ, OPS, HELI seitlicher Schalthebel, LED-Beleuchtung, Bordladegerät 80V-35A, Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DS7747</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6730,7 +6730,7 @@
     <reference_number>D260539-D260546</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>26500.00</price>
@@ -6744,7 +6744,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front double cylinder, ZSM470, No marking SOLID TYRE, 4 VALVES and DUAL IHR, Grammer SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, Charger D80V-200A, Top window, FICS + 5-YEAR SERVICE</special_options>
+    <special_options>Vorderer Doppelzylinder, ZSM470, Keine Markierung, Vollgummireifen, 4 Ventile und doppelte IHR, Grammer-Federungssitz, OPS, HELI seitlicher Schalthebel Schalthebel, LED-Beleuchtung, Ladegerät D80V-200A, Dachfenster, FICS + 5 Jahre Service</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DU0914, 05035DU0915, 05035DU0912, 05035DU0917, 05035DU0916, 05035DU0918, 05035DU0919</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6761,7 +6761,7 @@
     <reference_number>L251185-L251214</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>25860.00</price>
@@ -6775,7 +6775,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front Double Cylinder, ZSM470, No marking Solid Tyres, 4 VALVES and DUAL IHR, SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, On board charger 80V 35A, Higher Cabin and heater</special_options>
+    <special_options>Vorderer Doppelzylinder, ZSM470, keine Markierungen, Vollgummireifen, 4 Ventile und doppelte IHR, gefederter Sitz, OPS, Hubschrauberhaken am Seitenschalthebel, LED-Beleuchtung, Bordladegerät 80V 35A, höhere Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DT5193, 05035DT5192, 05035DT5199, 05035DT5196, 05035DT5202, 05035DT5201, 05035DT5200, 05035DT5189, 05035DT5188, 05035DT5187, 05035DT5186, 05035DT5197, 05035DT5203, 05035DT5198, 05035DT5184</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6792,7 +6792,7 @@
     <reference_number>L251466-L251480</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>25760.00</price>
@@ -6806,7 +6806,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front Double cylinder, ZSM470, No marking SOLID TYRE, 4 VALVES and DUAL IHR, HELI SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, On board Charger D80V-35A, Cabin and heater</special_options>
+    <special_options>Doppelzylinder vorne, ZSM470, keine Markierung, Vollgummireifen, 4 Ventile und doppelte IHR, Helikopter-Federungssitz, OPS, Helikopterhaken am Seitenschalthebel, LED-Beleuchtung, Bordladegerät D80V-35A, Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DT8644, 05035DT8643, 05035DT8641, 05035DT8640, 05035DT8639, 05035DT9170, 05035DT9169, 05035DT9168, 05035DT9171, 05035DT9172, 05035DT9173</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6823,7 +6823,7 @@
     <reference_number>D260547-D260554</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>23700.00</price>
@@ -6837,7 +6837,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>M350</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front double cylinder, M350, No marking SOLID TYRE, 4 VALVES and DUAL IHR, HELI SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, Charger D80V-200A, Top window, Lithum battery cloud</special_options>
+    <special_options>Vorderer Doppelzylinder, M350, keine Markierungen, Vollgummireifen, 4 Ventile und doppelte IHR, Hubschrauber-gefederter Sitz, OPS, Hubschrauberhaken am Seitenschalthebel, LED-Beleuchtung, Ladegerät D80V-200A, Dachfenster, Lithium-Ionen-Akku</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DU0421, 05035DU0422, 05035DU0423, 05035DU0424, 05035DU0425, 05035DU0426</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6854,7 +6854,7 @@
     <reference_number>D260555-D260562</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>27200.00</price>
@@ -6868,7 +6868,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front double cylinder, ZSM470, No marking SOLID TYRE, 4 VALVES and DUAL IHR, HELI SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, Charger D80V-200A, Cabin and heater, FICS + 5-YEAR SERVICE</special_options>
+    <special_options>Vorderer Doppelzylinder, ZSM470, keine Markierungen, Vollgummireifen, 4 Ventile und doppelte IHR, Hubschrauber-gefederter Sitz, OPS, Hubschrauberhaken am Seitenschalthebel, LED-Beleuchtung, Ladegerät D80V-200A, Kabine und Heizung, FICS + 5 Jahre SERVICE</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DU1169, 05035DU1170, 05035DU1172, 05035DU1173, 05035DU1171, 05035DU1168</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6885,7 +6885,7 @@
     <reference_number>D260640-D260651</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>25760.00</price>
@@ -6899,7 +6899,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front double cylinder, ZSM470, No marking SOLID TYRE, 4 VALVES and DUAL IHR, HELI SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, Charger D80V-35A, Cabin and heater</special_options>
+    <special_options>Vorderer Doppelzylinder, ZSM470, keine Markierung, Vollgummireifen, 4 Ventile und doppelte IHR, Heli-Federungssitz, OPS, Heli-Haken am Seitenschalthebel, LED-Beleuchtung, Ladegerät D80V-35A, Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DU1857, 05035DU1856, 05035DU1855, 05035DU1854, 05035DU2422, 05035DU2423, 05035DU2424, 05035DU2425, 05035DU1858, 05035DU1859, 05035DU1860, 05035DU2421</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6916,7 +6916,7 @@
     <reference_number>D260656-D260659</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>26300.00</price>
@@ -6930,7 +6930,7 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front Double Cylinder, ZSM540, No marking SOLID TYRE, 4 VALVES and DUAL IHR, HELI SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, Charger D80V-35A, Cabin and heater</special_options>
+    <special_options>Vorderer Doppelzylinder, ZSM540, keine Markierung, Vollgummireifen, 4 Ventile und doppelte IHR, Heli-Federungssitz, OPS, Heli-Haken am Seitenschalthebel, LED-Beleuchtung, Ladegerät D80V-35A, Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DU1864</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -6947,7 +6947,7 @@
     <reference_number>DE262186-DE262193</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>23860.00</price>
@@ -6961,13 +6961,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front double cylinder, ZSM470, No marking SOLID TYRE, 4 VALVES and DUAL IHR, HELI PREMIER SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, Charger D80V-35A, High Top, Front Window</special_options>
+    <special_options>Vorderer Doppelzylinder, ZSM470, keine Markierung, Vollgummireifen, 4 Ventile und doppelte IHR, Heli-Premier-Federungssitz, OPS, Heli-Haken am Seitenschalthebel, LED-Beleuchtung, Ladegerät D80V-35A, Hochdach, Frontscheibe</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DV1519, 05035DV1518, 05035DV1517, 05035DV1516</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2</series>
     <attachments>HELI Hook-on Sideshift</attachments>
-    <cabin>High Top/Front Window</cabin>
+    <cabin>Hochdach/Frontscheibe</cabin>
     <photo_match>family 120: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
@@ -6978,7 +6978,7 @@
     <reference_number>DE262198-DE262201</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>24500.00</price>
@@ -6992,13 +6992,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front double cylinder, ZSM470, No marking SOLID TYRE, 4 VALVES and DUAL IHR, HELI PREMIER SUSPENSION SEAT, OPS, HELI Hook-on Side-shift and fork positioner, LED lights, Charger D80V-35A, High Top, Front Window</special_options>
+    <special_options>Vorderer Doppelzylinder, ZSM470, keine Markierung, Vollgummireifen, 4 Ventile und doppelte IHR, HELI PREMIER FEDERUNGSSITZ, OPS, HELI Seitenschalthebel und Gabelverstellung, LED-Beleuchtung, Ladegerät D80V-35A, Hochdach, Frontscheibe</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DV1786, 05035DV1785</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2</series>
     <attachments>HELI Hook-on Seitenschub und Gabelversteller</attachments>
-    <cabin>High Top/Front Window</cabin>
+    <cabin>Hochdach/Frontscheibe</cabin>
     <photo_match>family 120: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
@@ -7009,7 +7009,7 @@
     <reference_number>DE262202-DE262205</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>24300.00</price>
@@ -7023,13 +7023,13 @@
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front double cylinder, ZSM540, No marking SOLID TYRE, 4 VALVES and DUAL IHR, HELI PREMIER SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, Charger D80V-35A, High Top, Front Window</special_options>
+    <special_options>Vorderer Doppelzylinder, ZSM540, Keine Markierungen, Vollgummireifen, 4 Ventile und Dual IHR, HELI PREMIER FEDERUNGSSITZ, OPS, HELI Seitenschalthebel, LED-Beleuchtung, Ladegerät D80V-35A, Hochdach, Frontscheibe</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DV1643</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
     <series>G2</series>
     <attachments>HELI Hook-on Sideshift</attachments>
-    <cabin>High Top/Front Window</cabin>
+    <cabin>Hochdach/Frontscheibe</cabin>
     <photo_match>family 120: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
     <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
@@ -7040,7 +7040,7 @@
     <reference_number>D260563-D260566</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>31000.00</price>
@@ -7054,7 +7054,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front double cylinder, FICS + 5-YEAR SERVICE, ZSM470, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side Shift and Fork Positioner, Top Window, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, LED Lights</special_options>
+    <special_options>Vorderer Doppelzylinder, FICS + 5-Jahres-Service, ZSM470, Vordere Doppelzylinder, Keine Markierungen, Vollgummireifen, 4 Ventile, Seitenschalthebel und Gabelverstellung, Dachscheibe, Höherer OHG, HELI PREMIER FEDERUNGSSITZ, Ladegerät D80V-200A, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DU1054, 05035DU1055, 05035DU1052</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -7071,7 +7071,7 @@
     <reference_number>D260567-D260570</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>31500.00</price>
@@ -7085,7 +7085,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front double cylinder, FICS + 5-YEAR SERVICE, ZSM540, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side Shift and Fork Positioner, Top Window, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, LED Lights</special_options>
+    <special_options>Vorderer Doppelzylinder, FICS + 5-Jahres-Service, ZSM540, Vordere Doppelzylinder, Keine Markierungen, Vollgummireifen, 4 Ventile, Seitenschalthebel und Gabelverstellung, oberes Sichtfenster, höheres OHG, HELI PREMIER FEDERUNGSSITZ, Ladegerät D80V-200A, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DU1630, 05035DU1629</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -7102,7 +7102,7 @@
     <reference_number>D260571-D260574</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>30500.00</price>
@@ -7116,7 +7116,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front double cylinder, FICS + 5-YEAR SERVICE, ZSM540, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side shift, Top Window, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, LED Lights</special_options>
+    <special_options>Vorderer Doppelzylinder, FICS + 5-Jahres-Service, ZSM540, Vordere Doppelzylinder, abriebfeste Vollgummireifen, 4 Ventile, seitlicher Schalthebel, oberes Sichtfenster, höheres OHG, HELI PREMIER FEDERUNGSSITZ, Ladegerät D80V-200A, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DU1633, 05035DU1632, 05035DU1635, 05035DU1634</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -7133,7 +7133,7 @@
     <reference_number>L250846-L250847</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>38000.00</price>
@@ -7147,7 +7147,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ADAS system, Dual pedals, Front double cylinder, ZSM470, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side Shift and Fork Positioner, Cabin and heater, Higher OHG, GRAMMAR SUSPENSION SEAT, Charger D80V-200A, Double Pedals, LED Lights</special_options>
+    <special_options>ADAS-System, Doppelpedale, Vorderer Doppelzylinder, ZSM470, Vordere Doppelzylinder, abriebfeste Vollgummireifen, 4 Ventile, seitlicher Schalthebel und Gabelverstellung, Kabine mit Heizung, höheres OHG, GRAMMAR FEDERUNGSSITZ, Ladegerät D80V-200A, Doppelpedale, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DT4513</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -7164,7 +7164,7 @@
     <reference_number>D261900-D261901</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>34600.00</price>
@@ -7178,7 +7178,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front double cylinder, ZSM470, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side Shift and Fork Positioner, Cabin and heater, Higher OHG, HELI PREMIER SUSPENSION SEAT, Charger D80V-200A, LED Lights, FICS System</special_options>
+    <special_options>Vorderer Doppelzylinder, ZSM470, Vordere Doppelzylinder, abriebfeste Vollgummireifen, 4 Ventile, seitlicher Schalthebel und Gabelverstellung, Kabine mit Heizung, höheres OHG HELI PREMIER FEDERUNGSSITZ, Ladegerät D80V-200A, LED-Leuchten, FICS-System</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DU9838, 05035DU9839</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -7195,7 +7195,7 @@
     <reference_number>D261919-D261920</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GD2LI-M</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>39700.00</price>
@@ -7209,7 +7209,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Front double cylinder, Double Pedals, Joysticks, ZSM540, Front Double cylinders, No marking Solid Tyres, 4 Valves, Hook on Side Shift and Fork Positioner, Cabin and heater, Higher OHG, GRAMMER SUSPENSION SEAT, Charger D80V-200A, LED Lights, FICS System</special_options>
+    <special_options>Doppelzylinder vorne, Doppelpedale, Joysticks, ZSM540, Doppelzylinder vorne, abriebfeste Vollgummireifen, 4 Ventile, seitlicher Schalthebel und Gabelverstellung, Kabine mit Heizung, höherer OHG-Wert, GRAMMER-Federungssitz, Ladegerät D80V-200A, LED-Beleuchtung, FICS-System</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>05035DU9840, 05035DU9841</serial_number>
     <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
@@ -7226,7 +7226,7 @@
     <reference_number>D261981-D261982</reference_number>
     <brand>HELI</brand>
     <model>CPD50-A2DLIG3</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>58300.00</price>
@@ -7240,12 +7240,12 @@
     <forks_dimensions>2400</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Joystick control, Double pedals, ZSM470, No-marking Solid Tyres, 4 VALVES and DUAL IHR, Grammer SUSPENSION SEAT, OPS, HELI hook on side shift, LED lights, Charger D80V-200A, Front and Rear blue light, High Cabin and heater</special_options>
-    <delivery_status>Friedberg-Hessen / End of Sep.</delivery_status>
+    <special_options>Joystick-Steuerung, Doppelpedale, ZSM470, abriebfeste Vollgummireifen, 4 Ventile und Dual-IHR, Grammer-Federungssitz, OPS, HELI-Seitenschalthebel, LED-Beleuchtung, Ladegerät D80V-200A, blaue Front- und Rückleuchten, hohe Kabine mit Heizung</special_options>
+    <delivery_status>Friedberg-Hessen / Ende September.</delivery_status>
     <serial_number>05050DV5853</serial_number>
     <image_url>https://account.bcs.tools/image/1162999/CPD50-A2DLIG3.webp</image_url>
     <series>G3</series>
-    <attachments>HELI hook on side shift and fork positioner</attachments>
+    <attachments>HELI-Haken am Seitenschalthebel und Gabelversteller</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
     <photo_match>exact 900: CPD50-A2DLIG3.webp</photo_match>
     <photo_name>CPD50-A2DLIG3.webp</photo_name>
@@ -7257,7 +7257,7 @@
     <reference_number>D261650-1</reference_number>
     <brand>HELI</brand>
     <model>CPD50-G2A11LI</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>56200.00</price>
@@ -7271,12 +7271,12 @@
     <forks_dimensions>1520</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Weight system, Finger tips, ADAS System, ZSM470, Dual IHR, 4valve, No Marking Solid tire, Hook on fork positioner&amp;sideshift, Grammer suspension seat with Full OPS, LED front and rear lights, 150V-100A Charger, Cabin and heater</special_options>
+    <special_options>Gewichtssystem, Fingertips, ADAS-System, ZSM470, Dual-IHR, 4 Ventile, abriebfeste Vollgummireifen, seitlicher Schalthebel und Gabelverstellung, Grammer-Federungssitz mit vollständigem OPS, LED-Front- und Rückleuchten, 150V-100A-Ladegerät, Kabine mit Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050503T6880, 050503T6881</serial_number>
     <image_url>https://account.bcs.tools/image/1163048/G2_CPD40-50-G2A.webp</image_url>
     <series>G2</series>
-    <attachments>Hook on Fork Positioner with Sideshift TY45GK-B11</attachments>
+    <attachments>Seitlicher Schalthebel mit Seitenverstellung TY45GK-B11</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
     <photo_match>family 120: G2_CPD40-50-G2A.webp</photo_match>
     <photo_name>G2_CPD40-50-G2A.webp</photo_name>
@@ -7288,7 +7288,7 @@
     <reference_number>D261650-2</reference_number>
     <brand>HELI</brand>
     <model>CPD50-G2A11LI</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>55000.00</price>
@@ -7302,13 +7302,13 @@
     <forks_dimensions>1520</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>Weight system, Finger tips, ADAS System, ZSM470, Dual IHR, 4valve, No Marking Solid tire, Hook on fork positioner&amp;sideshift, Grammer suspension seat with Full OPS, LED front and rear lights, 150V-100A Charger, Cabin and heater</special_options>
+    <special_options>Gewichtssystem, Fingertips, ADAS-System, ZSM470, Dual-IHR, 4 Ventile, abriebfeste Vollgummireifen, seitlicher Schalthebel und Gabelverstellung, Grammer-Federungssitz mit vollständigem OPS, LED-Front- und Rückleuchten, 150V-100A-Ladegerät, Kabine mit Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050503T6423</serial_number>
     <image_url>https://account.bcs.tools/image/1163048/G2_CPD40-50-G2A.webp</image_url>
     <series>G2</series>
-    <attachments>Hook on Fork Positioner with Sideshift TY45GK-B11</attachments>
-    <cabin>High Semi cabin</cabin>
+    <attachments>Seitlicher Schalthebel mit Seitenverstellung TY45GK-B11</attachments>
+    <cabin>Hochkabine</cabin>
     <photo_match>family 120: G2_CPD40-50-G2A.webp</photo_match>
     <photo_name>G2_CPD40-50-G2A.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163048/G2_CPD40-50-G2A.webp</photo_link>
@@ -7319,7 +7319,7 @@
     <reference_number>D260345-D260347</reference_number>
     <brand>HELI</brand>
     <model>CPD50-G2A11LI-600</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>49500.00</price>
@@ -7333,12 +7333,12 @@
     <forks_dimensions>1600</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM470, Dual IHR, 4valve, No Marking Solid tire, Hook on fork positioner&amp;sideshift, Grammer suspension seat with Full OPS, LED front and rear lights, 150V-100A Charger, Cabin and heater</special_options>
+    <special_options>ZSM470, Doppel-IHR, 4 Ventile, Vollgummireifen ohne Markierungen, Gabelverstellung und Seitenschaltung, Grammer-Federungssitz mit vollständiger OPS, LED-Front- und Rückleuchten, 150V-100A-Ladegerät, Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050503S3995</serial_number>
     <image_url>https://account.bcs.tools/image/1163048/G2_CPD40-50-G2A.webp</image_url>
     <series>G2</series>
-    <attachments>Hook on Fork Positioner with Sideshift</attachments>
+    <attachments>Haken-Gabelverstellung mit Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
     <photo_match>family 120: G2_CPD40-50-G2A.webp</photo_match>
     <photo_name>G2_CPD40-50-G2A.webp</photo_name>
@@ -7350,7 +7350,7 @@
     <reference_number>D261911</reference_number>
     <brand>HELI</brand>
     <model>CPD50-G2A11LI-600</model>
-    <type>Electric 4 wheel Lithium battery</type>
+    <type>Elektrischer 4-Rad-Lithium-Akku</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>49500.00</price>
@@ -7364,12 +7364,12 @@
     <forks_dimensions>1600</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <special_options>ZSM470, Dual IHR, 4valve, No Marking Solid tire, Hook on fork positioner&amp;sideshift, Grammer suspension seat with Full OPS, LED front and rear lights, 150V-100A Charger, Cabin and heater</special_options>
+    <special_options>ZSM470, Doppel-IHR, 4 Ventile, Vollgummireifen ohne Markierungen, Gabelverstellung und Seitenschaltung, Grammer-Federungssitz mit vollständiger OPS, LED-Front- und Rückleuchten, 150V-100A-Ladegerät, Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050503T9300</serial_number>
     <image_url>https://account.bcs.tools/image/1163048/G2_CPD40-50-G2A.webp</image_url>
     <series>G2</series>
-    <attachments>Hook on Fork Positioner with Sideshift</attachments>
+    <attachments>Haken-Gabelverstellung mit Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
     <photo_match>family 120: G2_CPD40-50-G2A.webp</photo_match>
     <photo_name>G2_CPD40-50-G2A.webp</photo_name>
@@ -7381,7 +7381,7 @@
     <reference_number>L251149-L251151</reference_number>
     <brand>HELI</brand>
     <model>CPYD25-KU1RG3</model>
-    <type>IC LPG stage V</type>
+    <type>IC LPG Stufe V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>25780.00</price>
@@ -7392,7 +7392,7 @@
     <forks_dimensions>1220</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>4 VALVES and double IHR, HELI New SUSPENSION SEAT, OPS, LED lights</special_options>
+    <special_options>4 Ventile und Doppel-IHR, HELI-Federungssitz, OPS, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>230253R5302</serial_number>
     <image_url>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</image_url>
@@ -7409,7 +7409,7 @@
     <reference_number>D261969-D261972</reference_number>
     <brand>HELI</brand>
     <model>CPYD50-KUG3</model>
-    <type>IC LPG stage V</type>
+    <type>IC LPG Stufe V</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>36500.00</price>
@@ -7420,12 +7420,12 @@
     <forks_dimensions>1520</forks_dimensions>
     <mast>M350</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>4 valves, Dual IHR, Grammer Suspension seat, Full LED Lights and beacon, OPS</special_options>
+    <special_options>4 Ventile, Doppel-IHR, Grammer-Federungssitz, vollständige LED-Beleuchtung und Rundumleuchte, OPS</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>230504A2225, 230504A2224</serial_number>
     <image_url>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</image_url>
     <series>G3</series>
-    <attachments>Hook on Side Shift and Fork Positioner</attachments>
+    <attachments>Seitenschaltung und Gabelverstellung</attachments>
     <cabin>Kabine und Heizung</cabin>
     <photo_match>series 85: G3_IC _5-10t.webp</photo_match>
     <photo_name>G3_IC _5-10t.webp</photo_name>
@@ -7437,7 +7437,7 @@
     <reference_number>D261973-D261976</reference_number>
     <brand>HELI</brand>
     <model>CPYD50-KUG3</model>
-    <type>IC LPG stage V</type>
+    <type>IC LPG Stufe V</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>38900.00</price>
@@ -7448,12 +7448,12 @@
     <forks_dimensions>1520</forks_dimensions>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <special_options>4 valves, Dual IHR, Grammer Suspension seat, Full LED Lights and beacon, OPS</special_options>
+    <special_options>4 Ventile, Doppel-IHR, Grammer-Federungssitz, vollständige LED-Beleuchtung und Rundumleuchte, OPS</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>230504A2229, 230504A2228, 230504A2227, 230504A2226</serial_number>
     <image_url>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</image_url>
     <series>G3</series>
-    <attachments>Hook on Side Shift and Fork Positioner</attachments>
+    <attachments>Seitenschaltung und Gabelverstellung</attachments>
     <cabin>Kabine und Heizung</cabin>
     <photo_match>series 85: G3_IC _5-10t.webp</photo_match>
     <photo_name>G3_IC _5-10t.webp</photo_name>
@@ -7465,7 +7465,7 @@
     <reference_number>D260527-D260528</reference_number>
     <brand>HELI</brand>
     <model>CQD16-GB2SHDLI</model>
-    <type>Reach truck</type>
+    <type>Schubmaststapler</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>38580.00</price>
@@ -7478,14 +7478,14 @@
     <battery_capacity>202</battery_capacity>
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM950</mast>
-    <tyres>PU Tyres</tyres>
-    <special_options>Fingertips Control, ZSM950 4 valve, Grammer suspension seat, Charger 80V-200A, fork monitor, Height pre-selector, New finger tips</special_options>
+    <tyres>PU-Reifen</tyres>
+    <special_options>Fingertips-Steuerung, ZSM950 4 Ventile, Grammer-Federungssitz, Ladegerät 80V-200A, Gabelmonitor, Höhenvorwahl, neue Fingertips</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>07016DU1331, 07016DU1330</serial_number>
     <image_url>https://account.bcs.tools/image/1163027/G2%20reach%20%201.6-2t.webp</image_url>
     <series>G2</series>
-    <attachments>Integrated Side-shift</attachments>
-    <cabin>Frame</cabin>
+    <attachments>Integrierter Seitenschalthebel</attachments>
+    <cabin>Rahmen</cabin>
     <photo_match>series 120: G2 reach 1.6-2t.webp</photo_match>
     <photo_name>G2 reach 1.6-2t.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163027/G2%20reach%20%201.6-2t.webp</photo_link>
@@ -7496,7 +7496,7 @@
     <reference_number>L251493</reference_number>
     <brand>HELI</brand>
     <model>CQD20-GB2SHDLI</model>
-    <type>Reach truck</type>
+    <type>Schubmaststapler</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>39200.00</price>
@@ -7509,14 +7509,14 @@
     <battery_capacity>280</battery_capacity>
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM1000</mast>
-    <tyres>PU Tyres</tyres>
-    <special_options>Fingertips Control, ZSM1000 4 valve, Grammer suspension seat, Charger 80V-200A, fork monitor, Height pre-selector, finger tips</special_options>
+    <tyres>PU-Reifen</tyres>
+    <special_options>Fingertips-Steuerung, ZSM1000 4 Ventile, Grammer-Federungssitz, Ladegerät 80 V, 200 A, Gabelmonitor, Höhenvorwahl, Fingertipp-Steuerung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>07020DT8126</serial_number>
     <image_url>https://account.bcs.tools/image/1163027/G2%20reach%20%201.6-2t.webp</image_url>
     <series>G2</series>
-    <attachments>Integrated Side-shift</attachments>
-    <cabin>Frame</cabin>
+    <attachments>Integrierter Seitenschalthebel</attachments>
+    <cabin>Rahmen</cabin>
     <photo_match>series 120: G2 reach 1.6-2t.webp</photo_match>
     <photo_name>G2 reach 1.6-2t.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163027/G2%20reach%20%201.6-2t.webp</photo_link>
@@ -7527,7 +7527,7 @@
     <reference_number>L251494</reference_number>
     <brand>HELI</brand>
     <model>CQD20-GB2SHDLI</model>
-    <type>Reach truck</type>
+    <type>Schubmaststapler</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>37500.00</price>
@@ -7540,14 +7540,14 @@
     <battery_capacity>280</battery_capacity>
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM900</mast>
-    <tyres>PU Tyres</tyres>
-    <special_options>Fingertips Control, ZSM900 4 valve, Grammer suspension seat, Charger 80V-200A, fork monitor, Height pre-selector, finger tips</special_options>
+    <tyres>PU-Reifen</tyres>
+    <special_options>Fingertipp-Steuerung, ZSM900 4-Ventil, Grammer-Federsattel, Ladegerät 80 V, 200 A, Gabelmonitor, Höhenvorwahl, Fingertipp-Steuerung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>07020DT8127</serial_number>
     <image_url>https://account.bcs.tools/image/1163027/G2%20reach%20%201.6-2t.webp</image_url>
     <series>G2</series>
-    <attachments>Integrated Side-shift</attachments>
-    <cabin>Frame</cabin>
+    <attachments>Integrierter Seitenschalthebel</attachments>
+    <cabin>Rahmen</cabin>
     <photo_match>series 120: G2 reach 1.6-2t.webp</photo_match>
     <photo_name>G2 reach 1.6-2t.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163027/G2%20reach%20%201.6-2t.webp</photo_link>
@@ -7558,7 +7558,7 @@
     <reference_number>D260529-D260530</reference_number>
     <brand>HELI</brand>
     <model>CQD20-GB2SHDLI</model>
-    <type>Reach truck</type>
+    <type>Schubmaststapler</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>38000.00</price>
@@ -7571,14 +7571,14 @@
     <battery_capacity>280</battery_capacity>
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM950</mast>
-    <tyres>PU Tyres</tyres>
-    <special_options>Fingertips Control, ZSM950 4 valve, Grammer suspension seat, Charger 80V-200A, fork monitor, Height pre-selector, finger tips</special_options>
+    <tyres>PU-Reifen</tyres>
+    <special_options>Fingertipp-Steuerung, ZSM950 4-Ventil, Grammer-Federsattel, Ladegerät 80 V, 200 A, Gabelmonitor, Höhenvorwahl, Fingertipp-Steuerung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>07020DU0805, 07020DU0806, 07020DU8677</serial_number>
     <image_url>https://account.bcs.tools/image/1163027/G2%20reach%20%201.6-2t.webp</image_url>
     <series>G2</series>
-    <attachments>Integrated Side-shift</attachments>
-    <cabin>Frame</cabin>
+    <attachments>Integrierter Seitenschalthebel</attachments>
+    <cabin>Rahmen</cabin>
     <photo_match>series 120: G2 reach 1.6-2t.webp</photo_match>
     <photo_name>G2 reach 1.6-2t.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163027/G2%20reach%20%201.6-2t.webp</photo_link>
@@ -7589,7 +7589,7 @@
     <reference_number>L251321</reference_number>
     <brand>HELI</brand>
     <model>CQD20-GB2SHDLI</model>
-    <type>Reach truck</type>
+    <type>Schubmaststapler</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>41000.00</price>
@@ -7602,14 +7602,14 @@
     <battery_capacity>280</battery_capacity>
     <forks_dimensions>1200</forks_dimensions>
     <mast>ZSM1150</mast>
-    <tyres>PU Tyres</tyres>
-    <special_options>Fingertips Control, ZSM1150 4 valve, Grammer suspension seat, Charger 80V-200A, fork monitor, Height pre-selector, finger tips</special_options>
+    <tyres>PU-Reifen</tyres>
+    <special_options>Fingertipp-Steuerung, ZSM1150 4-Ventil, Grammer-Federsattel, Ladegerät 80 V, 200 A, Gabelmonitor, Höhenvorwahl, Fingertipp-Steuerung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>07020DT6053</serial_number>
     <image_url>https://account.bcs.tools/image/1163027/G2%20reach%20%201.6-2t.webp</image_url>
     <series>G2</series>
-    <attachments>Integrated Side-shift</attachments>
-    <cabin>Frame</cabin>
+    <attachments>Integrierter Seitenschalthebel</attachments>
+    <cabin>Rahmen</cabin>
     <photo_match>series 120: G2 reach 1.6-2t.webp</photo_match>
     <photo_name>G2 reach 1.6-2t.webp</photo_name>
     <photo_link>https://account.bcs.tools/image/1163027/G2%20reach%20%201.6-2t.webp</photo_link>
@@ -7620,7 +7620,7 @@
     <reference_number>G25GC06</reference_number>
     <brand>HELI</brand>
     <model>OPD20L-A2LIH</model>
-    <type>Order picker</type>
+    <type>Kommissionierer</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>10800.00</price>
@@ -7632,7 +7632,7 @@
     <voltage>24</voltage>
     <battery_capacity>404</battery_capacity>
     <forks_dimensions>540x2400</forks_dimensions>
-    <special_options>External Charger</special_options>
+    <special_options>Externes Ladegerät</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>22020YC6552</serial_number>
     <image_url>https://account.bcs.tools/image/1163053/OPSM-2.webp</image_url>
@@ -7647,7 +7647,7 @@
     <reference_number>G251771-G251776</reference_number>
     <brand>HELI</brand>
     <model>OPD25L-A2LIH</model>
-    <type>Order picker</type>
+    <type>Kommissionierer</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>15370.00</price>
@@ -7659,7 +7659,7 @@
     <voltage>24</voltage>
     <battery_capacity>404</battery_capacity>
     <forks_dimensions>540x2400</forks_dimensions>
-    <special_options>External Charger</special_options>
+    <special_options>Externes Ladegerät</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>22025YC4373</serial_number>
     <image_url>https://account.bcs.tools/image/1163053/OPSM-2.webp</image_url>
