@@ -74,6 +74,60 @@ jobs:
               sys.exit(1)
           PY
 
+      - name: Normalize XML (усі теги в кожному товарі)
+        run: |
+          # Імпортер biz24 падає з "Cannot read properties of undefined (reading 'toString')",
+          # якщо в якомусь товарі немає тегу. Тут кожен товар доповнюється ВСІМА тегами
+          # (порожніми, якщо значення немає) і довгі тексти обрізаються до 255 символів.
+          # Працює незалежно від того, яка версія doGet розгорнута в Apps Script.
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+          from xml.sax.saxutils import escape
+
+          MAX_LEN = 255
+          path = "/tmp/feed.new.xml"
+          root = ET.parse(path).getroot()
+
+          if root.tag != "products":
+              print("Формат не <products> — нормалізацію пропущено")
+              raise SystemExit(0)
+
+          products = [p for p in root if p.tag == "product"]
+
+          # Повний список тегів у порядку першої появи
+          tags = []
+          for p in products:
+              for ch in p:
+                  if ch.tag not in tags:
+                      tags.append(ch.tag)
+
+          def clean(v):
+              v = (v or "").strip()
+              if v.strip("/-. ") == "":
+                  return ""
+              if len(v) > MAX_LEN:
+                  cut = v[:MAX_LEN - 1]
+                  if ", " in cut:
+                      cut = cut[:cut.rfind(", ")]
+                  v = cut + "…"
+              return v
+
+          added = 0
+          out = ['<?xml version="1.0" encoding="UTF-8"?>', "<products>"]
+          for p in products:
+              vals = {ch.tag: ch.text for ch in p}
+              out.append("  <product>")
+              for t in tags:
+                  if t not in vals:
+                      added += 1
+                  out.append("    <%s>%s</%s>" % (t, escape(clean(vals.get(t))), t))
+              out.append("  </product>")
+          out.append("</products>")
+
+          open(path, "w", encoding="utf-8").write("\n".join(out) + "\n")
+          print("Товарів: %d · тегів у кожному: %d · дописано порожніх тегів: %d" % (len(products), len(tags), added))
+          PY
+
       - name: Commit and push if it changed
         run: |
           git config --local user.name "GitHub Action"
