@@ -5,7 +5,7 @@
     <reference_number>G240616-G240695</reference_number>
     <brand>HELI</brand>
     <model>CBD15-BLIH</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>1500.00</price>
@@ -26,6 +26,8 @@
     <photo_link>https://account.bcs.tools/image/1162995/CBD15-20-A-BLIH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD15-BLIH (G240616-G240695)</name>
+    <markup>350</markup>
+    <price_owner_504>1850.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -37,7 +39,7 @@
     <reference_number>L251744-L251757</reference_number>
     <brand>HELI</brand>
     <model>CBD15-BLIH</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>1500.00</price>
@@ -58,6 +60,8 @@
     <photo_link>https://account.bcs.tools/image/1162995/CBD15-20-A-BLIH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD15-BLIH (L251744-L251757)</name>
+    <markup>350</markup>
+    <price_owner_504>1850.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -69,7 +73,7 @@
     <reference_number>L250575</reference_number>
     <brand>HELI</brand>
     <model>CBD15C-LI4</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>1360.00</price>
@@ -90,6 +94,8 @@
     <photo_link>https://account.bcs.tools/image/1162988/CBD15-18-20J-LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD15C-LI4</name>
+    <markup>350</markup>
+    <price_owner_504>1710.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -101,7 +107,7 @@
     <reference_number>G250000-G250119</reference_number>
     <brand>HELI</brand>
     <model>CBD15J-LI3</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>1360.00</price>
@@ -122,6 +128,8 @@
     <photo_link>https://account.bcs.tools/image/1162994/CBD15-18-20J-LI3.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD15J-LI3 (G250000-G250119)</name>
+    <markup>350</markup>
+    <price_owner_504>1710.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -133,7 +141,7 @@
     <reference_number>DE262006-DE262025</reference_number>
     <brand>HELI</brand>
     <model>CBD15J-LI3</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>1360.00</price>
@@ -146,7 +154,7 @@
     <battery_capacity>30</battery_capacity>
     <forks_dimensions>550x1150</forks_dimensions>
     <special_options>Ladegerät, Balancerad</special_options>
-    <delivery_status>Friedberg-Hessen / ENDE SEP.</delivery_status>
+    <delivery_status>Friedberg-Hessen / END OF SEP.</delivery_status>
     <serial_number></serial_number>
     <image_url>https://account.bcs.tools/image/1162994/CBD15-18-20J-LI3.webp</image_url>
     <photo_match>family 105: CBD15-18-20J-LI3.webp</photo_match>
@@ -154,6 +162,8 @@
     <photo_link>https://account.bcs.tools/image/1162994/CBD15-18-20J-LI3.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD15J-LI3 (DE262006-DE262025)</name>
+    <markup>350</markup>
+    <price_owner_504>1710.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -165,7 +175,7 @@
     <reference_number>D261420-D261421</reference_number>
     <brand>HELI</brand>
     <model>CBD16-C2LIH</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>5000.00</price>
@@ -186,6 +196,8 @@
     <photo_link>https://account.bcs.tools/image/1162996/CBD16_20-C2LiH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD16-C2LIH</name>
+    <markup>350</markup>
+    <price_owner_504>5350.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -197,7 +209,7 @@
     <reference_number>G253651-G253710</reference_number>
     <brand>HELI</brand>
     <model>CBD18J-LI3</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1800</capacity_kg>
     <tonnage>1.8</tonnage>
     <price>1650.00</price>
@@ -218,6 +230,8 @@
     <photo_link>https://account.bcs.tools/image/1162994/CBD15-18-20J-LI3.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD18J-LI3</name>
+    <markup>350</markup>
+    <price_owner_504>2000.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -229,7 +243,7 @@
     <reference_number>G250610</reference_number>
     <brand>HELI</brand>
     <model>CBD20-A2SZLIH</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>12640.00</price>
@@ -250,6 +264,8 @@
     <photo_link>https://account.bcs.tools/image/1162991/CBD20-A2SZLIH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD20-A2SZLIH</name>
+    <markup>350</markup>
+    <price_owner_504>12990.00</price_owner_504>
     <series>H4</series>
     <mast></mast>
     <tyres></tyres>
@@ -261,7 +277,7 @@
     <reference_number>D261149-D261156</reference_number>
     <brand>HELI</brand>
     <model>CBD20-C2LIH</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>5200.00</price>
@@ -282,6 +298,8 @@
     <photo_link>https://account.bcs.tools/image/1162996/CBD16_20-C2LiH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD20-C2LIH (D261149-D261156)</name>
+    <markup>350</markup>
+    <price_owner_504>5550.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -293,7 +311,7 @@
     <reference_number>D261424-D261427</reference_number>
     <brand>HELI</brand>
     <model>CBD20-C2LIH</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>5200.00</price>
@@ -306,7 +324,7 @@
     <battery_capacity>150</battery_capacity>
     <forks_dimensions>550x1150</forks_dimensions>
     <special_options>100-A-Ladegerät, Ausgleichsrad</special_options>
-    <delivery_status>Friedberg-Hessen / ENDE SEP.</delivery_status>
+    <delivery_status>Friedberg-Hessen / END OF SEP.</delivery_status>
     <serial_number>08020XC1936, 08020XC1937, 08020XC1934, 08020XC1935</serial_number>
     <image_url>https://account.bcs.tools/image/1162996/CBD16_20-C2LiH.webp</image_url>
     <photo_match>family 105: CBD16_20-C2LiH.webp</photo_match>
@@ -314,6 +332,8 @@
     <photo_link>https://account.bcs.tools/image/1162996/CBD16_20-C2LiH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD20-C2LIH (D261424-D261427)</name>
+    <markup>350</markup>
+    <price_owner_504>5550.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -325,7 +345,7 @@
     <reference_number>D261428-D261431</reference_number>
     <brand>HELI</brand>
     <model>CBD20-C2LIH</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>5200.00</price>
@@ -346,6 +366,8 @@
     <photo_link>https://account.bcs.tools/image/1162996/CBD16_20-C2LiH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD20-C2LIH (D261428-D261431)</name>
+    <markup>350</markup>
+    <price_owner_504>5550.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -357,7 +379,7 @@
     <reference_number>L250576</reference_number>
     <brand>HELI</brand>
     <model>CBD20C-LI4</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>1610.00</price>
@@ -378,6 +400,8 @@
     <photo_link>https://account.bcs.tools/image/1162988/CBD15-18-20J-LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD20C-LI4</name>
+    <markup>350</markup>
+    <price_owner_504>1960.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -389,7 +413,7 @@
     <reference_number>D260104-D260223</reference_number>
     <brand>HELI</brand>
     <model>CBD20J-LI3</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>1650.00</price>
@@ -410,6 +434,8 @@
     <photo_link>https://account.bcs.tools/image/1162994/CBD15-18-20J-LI3.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD20J-LI3 (D260104-D260223)</name>
+    <markup>350</markup>
+    <price_owner_504>2000.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -421,7 +447,7 @@
     <reference_number>D261300-D261419</reference_number>
     <brand>HELI</brand>
     <model>CBD20J-LI3</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>1650.00</price>
@@ -442,6 +468,8 @@
     <photo_link>https://account.bcs.tools/image/1162994/CBD15-18-20J-LI3.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD20J-LI3 (D261300-D261419)</name>
+    <markup>350</markup>
+    <price_owner_504>2000.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -453,7 +481,7 @@
     <reference_number>L251613-L251622</reference_number>
     <brand>HELI</brand>
     <model>CBD25-A2FLIH</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>9100.00</price>
@@ -474,6 +502,8 @@
     <photo_link>https://account.bcs.tools/image/1163033/CBD20-25-30J-RLi.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD25-A2FLIH (L251613-L251622)</name>
+    <markup>350</markup>
+    <price_owner_504>9450.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -485,7 +515,7 @@
     <reference_number>L250640-L250659</reference_number>
     <brand>HELI</brand>
     <model>CBD25-A2FLIH</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>9100.00</price>
@@ -506,6 +536,8 @@
     <photo_link>https://account.bcs.tools/image/1163033/CBD20-25-30J-RLi.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD25-A2FLIH (L250640-L250659)</name>
+    <markup>350</markup>
+    <price_owner_504>9450.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -517,7 +549,7 @@
     <reference_number>D261157-D261171</reference_number>
     <brand>HELI</brand>
     <model>CBD25-A2FLIH</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>9100.00</price>
@@ -538,6 +570,8 @@
     <photo_link>https://account.bcs.tools/image/1163033/CBD20-25-30J-RLi.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD25-A2FLIH (D261157-D261171)</name>
+    <markup>350</markup>
+    <price_owner_504>9450.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -549,7 +583,7 @@
     <reference_number>L251362-L251371</reference_number>
     <brand>HELI</brand>
     <model>CBD25-A2FLIH</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>9100.00</price>
@@ -570,6 +604,8 @@
     <photo_link>https://account.bcs.tools/image/1163033/CBD20-25-30J-RLi.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD25-A2FLIH (L251362-L251371)</name>
+    <markup>350</markup>
+    <price_owner_504>9450.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -581,7 +617,7 @@
     <reference_number>D261432-D261441</reference_number>
     <brand>HELI</brand>
     <model>CBD25-A2FLIH</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>9100.00</price>
@@ -602,6 +638,8 @@
     <photo_link>https://account.bcs.tools/image/1163033/CBD20-25-30J-RLi.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD25-A2FLIH (D261432-D261441)</name>
+    <markup>350</markup>
+    <price_owner_504>9450.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -613,7 +651,7 @@
     <reference_number>D261522-D261525</reference_number>
     <brand>HELI</brand>
     <model>CBD25-A2FLIH</model>
-    <type>Palettenwagen mit Lithiumbatterie</type>
+    <type>Niederhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>9100.00</price>
@@ -634,6 +672,8 @@
     <photo_link>https://account.bcs.tools/image/1163033/CBD20-25-30J-RLi.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CBD25-A2FLIH (D261522-D261525)</name>
+    <markup>350</markup>
+    <price_owner_504>9450.00</price_owner_504>
     <series></series>
     <mast></mast>
     <tyres></tyres>
@@ -645,7 +685,7 @@
     <reference_number>D261442-D261475</reference_number>
     <brand>HELI</brand>
     <model>CDD12J</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>2610.00</price>
@@ -666,6 +706,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12J (D261442-D261475)</name>
+    <markup>350</markup>
+    <price_owner_504>2960.00</price_owner_504>
     <series></series>
     <mast>M250</mast>
     <tyres></tyres>
@@ -677,7 +719,7 @@
     <reference_number>D261526-D261559</reference_number>
     <brand>HELI</brand>
     <model>CDD12J</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>2610.00</price>
@@ -698,6 +740,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12J (D261526-D261559)</name>
+    <markup>350</markup>
+    <price_owner_504>2960.00</price_owner_504>
     <series></series>
     <mast>M250</mast>
     <tyres></tyres>
@@ -709,7 +753,7 @@
     <reference_number>DE262026-DE262035</reference_number>
     <brand>HELI</brand>
     <model>CDD12J</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>2610.00</price>
@@ -730,6 +774,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12J (DE262026-DE262035)</name>
+    <markup>350</markup>
+    <price_owner_504>2960.00</price_owner_504>
     <series></series>
     <mast>M250</mast>
     <tyres></tyres>
@@ -741,7 +787,7 @@
     <reference_number>D261041-D261050</reference_number>
     <brand>HELI</brand>
     <model>CDD12J</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>2610.00</price>
@@ -762,6 +808,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12J (D261041-D261050)</name>
+    <markup>350</markup>
+    <price_owner_504>2960.00</price_owner_504>
     <series></series>
     <mast>M350</mast>
     <tyres></tyres>
@@ -773,7 +821,7 @@
     <reference_number>D261476-D261509</reference_number>
     <brand>HELI</brand>
     <model>CDD12J</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>2610.00</price>
@@ -794,6 +842,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12J (D261476-D261509)</name>
+    <markup>350</markup>
+    <price_owner_504>2960.00</price_owner_504>
     <series></series>
     <mast>M350</mast>
     <tyres></tyres>
@@ -805,7 +855,7 @@
     <reference_number>D261594-D261627</reference_number>
     <brand>HELI</brand>
     <model>CDD12J</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>2610.00</price>
@@ -826,6 +876,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12J (D261594-D261627)</name>
+    <markup>350</markup>
+    <price_owner_504>2960.00</price_owner_504>
     <series></series>
     <mast>M350</mast>
     <tyres></tyres>
@@ -837,7 +889,7 @@
     <reference_number>DE262046-DE262059</reference_number>
     <brand>HELI</brand>
     <model>CDD12J</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>2610.00</price>
@@ -858,6 +910,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12J (DE262046-DE262059)</name>
+    <markup>350</markup>
+    <price_owner_504>2960.00</price_owner_504>
     <series></series>
     <mast>M350</mast>
     <tyres></tyres>
@@ -869,7 +923,7 @@
     <reference_number>D261510-D261526</reference_number>
     <brand>HELI</brand>
     <model>CDD12J-LI</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>3310.00</price>
@@ -890,6 +944,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12J-LI (D261510-D261526)</name>
+    <markup>350</markup>
+    <price_owner_504>3660.00</price_owner_504>
     <series></series>
     <mast>M250</mast>
     <tyres></tyres>
@@ -901,7 +957,7 @@
     <reference_number>D261628-D261661</reference_number>
     <brand>HELI</brand>
     <model>CDD12J-LI</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>3310.00</price>
@@ -922,6 +978,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12J-LI (D261628-D261661)</name>
+    <markup>350</markup>
+    <price_owner_504>3660.00</price_owner_504>
     <series></series>
     <mast>M250</mast>
     <tyres></tyres>
@@ -933,7 +991,7 @@
     <reference_number>D260242-D260257</reference_number>
     <brand>HELI</brand>
     <model>CDD12J-LI</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>3310.00</price>
@@ -954,6 +1012,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12J-LI (D260242-D260257)</name>
+    <markup>350</markup>
+    <price_owner_504>3660.00</price_owner_504>
     <series></series>
     <mast>M250</mast>
     <tyres></tyres>
@@ -965,7 +1025,7 @@
     <reference_number>D261676-D261685</reference_number>
     <brand>HELI</brand>
     <model>CDD12J-LI</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>3500.00</price>
@@ -986,6 +1046,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12J-LI (D261676-D261685)</name>
+    <markup>350</markup>
+    <price_owner_504>3850.00</price_owner_504>
     <series></series>
     <mast>M350</mast>
     <tyres></tyres>
@@ -997,7 +1059,7 @@
     <reference_number>DE262060-DE262069</reference_number>
     <brand>HELI</brand>
     <model>CDD12J-LI</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>3310.00</price>
@@ -1010,7 +1072,7 @@
     <battery_capacity>60</battery_capacity>
     <forks_dimensions>570x1150</forks_dimensions>
     <special_options>Ladegerät 24V-30A</special_options>
-    <delivery_status>Friedberg-Hessen / ENDE SEP.</delivery_status>
+    <delivery_status>Friedberg-Hessen / END OF SEP.</delivery_status>
     <serial_number>08012JVS377, 08012JVS376, 08012JVS375, 08012JVS374, 08012JVS373, 08012JVS372, 08012JVS371, 08012JVS370, 08012JVS369, 08012JVS368</serial_number>
     <image_url>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</image_url>
     <photo_match>family 105: CDD12-15J-LI.webp</photo_match>
@@ -1018,6 +1080,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12J-LI (DE262060-DE262069)</name>
+    <markup>350</markup>
+    <price_owner_504>3660.00</price_owner_504>
     <series></series>
     <mast>M250</mast>
     <tyres></tyres>
@@ -1029,7 +1093,7 @@
     <reference_number>DE262070-DE262079</reference_number>
     <brand>HELI</brand>
     <model>CDD12J-LI</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>3310.00</price>
@@ -1042,7 +1106,7 @@
     <battery_capacity>60</battery_capacity>
     <forks_dimensions>570x1150</forks_dimensions>
     <special_options>Ladegerät 24V-30A</special_options>
-    <delivery_status>Friedberg-Hessen / ENDE SEP.</delivery_status>
+    <delivery_status>Friedberg-Hessen / END OF SEP.</delivery_status>
     <serial_number>08012JVS387, 08012JVS386, 08012JVS385, 08012JVS384, 08012JVS383, 08012JVS382, 08012JVS381, 08012JVS380, 08012JVS379, 08012JVS378</serial_number>
     <image_url>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</image_url>
     <photo_match>family 105: CDD12-15J-LI.webp</photo_match>
@@ -1050,6 +1114,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12J-LI (DE262070-DE262079)</name>
+    <markup>350</markup>
+    <price_owner_504>3660.00</price_owner_504>
     <series></series>
     <mast>M300</mast>
     <tyres></tyres>
@@ -1061,7 +1127,7 @@
     <reference_number>DE262080-DE262083</reference_number>
     <brand>HELI</brand>
     <model>CDD12J-LI</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>3500.00</price>
@@ -1074,7 +1140,7 @@
     <battery_capacity>60</battery_capacity>
     <forks_dimensions>570x1150</forks_dimensions>
     <special_options>Ladegerät 24V-30A</special_options>
-    <delivery_status>Friedberg-Hessen / ENDE SEP.</delivery_status>
+    <delivery_status>Friedberg-Hessen / END OF SEP.</delivery_status>
     <serial_number>08012JVS401, 08012JVS400, 08012JVS399, 08012JVS398, 08012JVS397, 08012JVS396, 08012JVS395, 08012JVS394, 08012JVS393, 08012JVS392, 08012JVS391, 08012JVS390, 08012JVS389, 08012JVS388</serial_number>
     <image_url>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</image_url>
     <photo_match>family 105: CDD12-15J-LI.webp</photo_match>
@@ -1082,6 +1148,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12J-LI (DE262080-DE262083)</name>
+    <markup>350</markup>
+    <price_owner_504>3850.00</price_owner_504>
     <series></series>
     <mast>M350</mast>
     <tyres></tyres>
@@ -1093,7 +1161,7 @@
     <reference_number>D261560-D26157</reference_number>
     <brand>HELI</brand>
     <model>CDD12JD</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>2610.00</price>
@@ -1114,6 +1182,8 @@
     <photo_link>https://account.bcs.tools/image/1163064/CDD12JD.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12JD</name>
+    <markup>350</markup>
+    <price_owner_504>2960.00</price_owner_504>
     <series></series>
     <mast>M160</mast>
     <tyres></tyres>
@@ -1125,7 +1195,7 @@
     <reference_number>L250660-L250668</reference_number>
     <brand>HELI</brand>
     <model>CDD12R-S</model>
-    <type>Erster Hub Elektrostapler</type>
+    <type>Hochhubwagen mit Initialhub</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>4420.00</price>
@@ -1146,6 +1216,8 @@
     <photo_link>https://account.bcs.tools/image/1163059/CDD10-12RD-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12R-S (L250660-L250668)</name>
+    <markup>350</markup>
+    <price_owner_504>4770.00</price_owner_504>
     <series></series>
     <mast>M250</mast>
     <tyres></tyres>
@@ -1157,7 +1229,7 @@
     <reference_number>L251280-L251283</reference_number>
     <brand>HELI</brand>
     <model>CDD12R-S</model>
-    <type>Erster Hub Elektrostapler</type>
+    <type>Hochhubwagen mit Initialhub</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>4560.00</price>
@@ -1178,6 +1250,8 @@
     <photo_link>https://account.bcs.tools/image/1163059/CDD10-12RD-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12R-S (L251280-L251283)</name>
+    <markup>350</markup>
+    <price_owner_504>4910.00</price_owner_504>
     <series></series>
     <mast>M330</mast>
     <tyres></tyres>
@@ -1189,7 +1263,7 @@
     <reference_number>L251271-L251279</reference_number>
     <brand>HELI</brand>
     <model>CDD12R-S</model>
-    <type>Erster Hub Elektrostapler</type>
+    <type>Hochhubwagen mit Initialhub</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>4420.00</price>
@@ -1210,6 +1284,8 @@
     <photo_link>https://account.bcs.tools/image/1163059/CDD10-12RD-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD12R-S (L251271-L251279)</name>
+    <markup>350</markup>
+    <price_owner_504>4770.00</price_owner_504>
     <series></series>
     <mast>M300</mast>
     <tyres></tyres>
@@ -1221,7 +1297,7 @@
     <reference_number>DE262128-DE262041</reference_number>
     <brand>HELI</brand>
     <model>CDD15C-S</model>
-    <type>Erster Hub Elektrostapler</type>
+    <type>Hochhubwagen mit Initialhub</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>3300.00</price>
@@ -1242,6 +1318,8 @@
     <photo_link>https://account.bcs.tools/image/1163066/CDD15-20J-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15C-S (DE262128-DE262041)</name>
+    <markup>350</markup>
+    <price_owner_504>3650.00</price_owner_504>
     <series></series>
     <mast>M250</mast>
     <tyres></tyres>
@@ -1253,7 +1331,7 @@
     <reference_number>DE262142-DE262155</reference_number>
     <brand>HELI</brand>
     <model>CDD15C-S</model>
-    <type>Erster Hub Elektrostapler</type>
+    <type>Hochhubwagen mit Initialhub</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>3300.00</price>
@@ -1274,6 +1352,8 @@
     <photo_link>https://account.bcs.tools/image/1163066/CDD15-20J-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15C-S (DE262142-DE262155)</name>
+    <markup>350</markup>
+    <price_owner_504>3650.00</price_owner_504>
     <series></series>
     <mast>M300</mast>
     <tyres></tyres>
@@ -1285,7 +1365,7 @@
     <reference_number>DE262156-DE262161</reference_number>
     <brand>HELI</brand>
     <model>CDD15C-S</model>
-    <type>Erster Hub Elektrostapler</type>
+    <type>Hochhubwagen mit Initialhub</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>3800.00</price>
@@ -1306,6 +1386,8 @@
     <photo_link>https://account.bcs.tools/image/1163066/CDD15-20J-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15C-S (DE262156-DE262161)</name>
+    <markup>350</markup>
+    <price_owner_504>4150.00</price_owner_504>
     <series></series>
     <mast>M350</mast>
     <tyres></tyres>
@@ -1317,7 +1399,7 @@
     <reference_number>D260762-D260777</reference_number>
     <brand>HELI</brand>
     <model>CDD15J</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>3370.00</price>
@@ -1338,6 +1420,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15J (D260762-D260777)</name>
+    <markup>350</markup>
+    <price_owner_504>3720.00</price_owner_504>
     <series></series>
     <mast>M300</mast>
     <tyres></tyres>
@@ -1349,7 +1433,7 @@
     <reference_number>D260778-D260795</reference_number>
     <brand>HELI</brand>
     <model>CDD15J</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>3370.00</price>
@@ -1370,6 +1454,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15J (D260778-D260795)</name>
+    <markup>350</markup>
+    <price_owner_504>3720.00</price_owner_504>
     <series></series>
     <mast>M350</mast>
     <tyres></tyres>
@@ -1381,7 +1467,7 @@
     <reference_number>L251708-L251723</reference_number>
     <brand>HELI</brand>
     <model>CDD15J</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>3100.00</price>
@@ -1402,6 +1488,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15J (L251708-L251723)</name>
+    <markup>350</markup>
+    <price_owner_504>3450.00</price_owner_504>
     <series></series>
     <mast>M300</mast>
     <tyres></tyres>
@@ -1413,7 +1501,7 @@
     <reference_number>L251724-L251741</reference_number>
     <brand>HELI</brand>
     <model>CDD15J</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>3370.00</price>
@@ -1434,6 +1522,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15J (L251724-L251741)</name>
+    <markup>350</markup>
+    <price_owner_504>3720.00</price_owner_504>
     <series></series>
     <mast>M350</mast>
     <tyres></tyres>
@@ -1445,7 +1535,7 @@
     <reference_number>D261093-D261105</reference_number>
     <brand>HELI</brand>
     <model>CDD15J</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>3100.00</price>
@@ -1466,6 +1556,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15J (D261093-D261105)</name>
+    <markup>350</markup>
+    <price_owner_504>3450.00</price_owner_504>
     <series></series>
     <mast>M300</mast>
     <tyres></tyres>
@@ -1477,7 +1569,7 @@
     <reference_number>D261106-D261118</reference_number>
     <brand>HELI</brand>
     <model>CDD15J</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>3370.00</price>
@@ -1498,6 +1590,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15J (D261106-D261118)</name>
+    <markup>350</markup>
+    <price_owner_504>3720.00</price_owner_504>
     <series></series>
     <mast>M350</mast>
     <tyres></tyres>
@@ -1509,7 +1603,7 @@
     <reference_number>D261696-D261729</reference_number>
     <brand>HELI</brand>
     <model>CDD15J</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>3100.00</price>
@@ -1530,6 +1624,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15J (D261696-D261729)</name>
+    <markup>350</markup>
+    <price_owner_504>3450.00</price_owner_504>
     <series></series>
     <mast>M250</mast>
     <tyres></tyres>
@@ -1541,7 +1637,7 @@
     <reference_number>D261730-D261763</reference_number>
     <brand>HELI</brand>
     <model>CDD15J</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>3100.00</price>
@@ -1562,6 +1658,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15J (D261730-D261763)</name>
+    <markup>350</markup>
+    <price_owner_504>3450.00</price_owner_504>
     <series></series>
     <mast>M300</mast>
     <tyres></tyres>
@@ -1573,7 +1671,7 @@
     <reference_number>D261764-D261797</reference_number>
     <brand>HELI</brand>
     <model>CDD15J</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>3370.00</price>
@@ -1594,6 +1692,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15J (D261764-D261797)</name>
+    <markup>350</markup>
+    <price_owner_504>3720.00</price_owner_504>
     <series></series>
     <mast>M350</mast>
     <tyres></tyres>
@@ -1605,7 +1705,7 @@
     <reference_number>D261798-D261811</reference_number>
     <brand>HELI</brand>
     <model>CDD15J-LI</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>3490.00</price>
@@ -1626,6 +1726,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15J-LI (D261798-D261811)</name>
+    <markup>350</markup>
+    <price_owner_504>3840.00</price_owner_504>
     <series></series>
     <mast>M300</mast>
     <tyres></tyres>
@@ -1637,7 +1739,7 @@
     <reference_number>D261812-D261831</reference_number>
     <brand>HELI</brand>
     <model>CDD15J-LI</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>3700.00</price>
@@ -1658,6 +1760,8 @@
     <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15J-LI (D261812-D261831)</name>
+    <markup>350</markup>
+    <price_owner_504>4050.00</price_owner_504>
     <series></series>
     <mast>M350</mast>
     <tyres></tyres>
@@ -1669,7 +1773,7 @@
     <reference_number>D261121-D261130</reference_number>
     <brand>HELI</brand>
     <model>CDD15J-ZSM</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>8240.00</price>
@@ -1690,6 +1794,8 @@
     <photo_link>https://account.bcs.tools/image/1163065/CDD15-ZSM.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15J-ZSM (D261121-D261130)</name>
+    <markup>350</markup>
+    <price_owner_504>8590.00</price_owner_504>
     <series></series>
     <mast>ZSM400</mast>
     <tyres></tyres>
@@ -1701,7 +1807,7 @@
     <reference_number>D261131-D261140</reference_number>
     <brand>HELI</brand>
     <model>CDD15J-ZSM</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>8240.00</price>
@@ -1722,6 +1828,8 @@
     <photo_link>https://account.bcs.tools/image/1163065/CDD15-ZSM.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15J-ZSM (D261131-D261140)</name>
+    <markup>350</markup>
+    <price_owner_504>8590.00</price_owner_504>
     <series></series>
     <mast>ZSM460</mast>
     <tyres></tyres>
@@ -1733,7 +1841,7 @@
     <reference_number>D261172-D261181</reference_number>
     <brand>HELI</brand>
     <model>CDD15J-ZSM-LI</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>6800.00</price>
@@ -1754,6 +1862,8 @@
     <photo_link>https://account.bcs.tools/image/1163040/CDD15J-ZSM-Li.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15J-ZSM-LI (D261172-D261181)</name>
+    <markup>350</markup>
+    <price_owner_504>7150.00</price_owner_504>
     <series></series>
     <mast>ZSM400</mast>
     <tyres></tyres>
@@ -1765,7 +1875,7 @@
     <reference_number>D261182-D261191</reference_number>
     <brand>HELI</brand>
     <model>CDD15J-ZSM-LI</model>
-    <type>Elektrischer Stapler</type>
+    <type>Hochhubwagen</type>
     <capacity_kg>1500</capacity_kg>
     <tonnage>1.5</tonnage>
     <price>7200.00</price>
@@ -1786,6 +1896,8 @@
     <photo_link>https://account.bcs.tools/image/1163040/CDD15J-ZSM-Li.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD15J-ZSM-LI (D261182-D261191)</name>
+    <markup>350</markup>
+    <price_owner_504>7550.00</price_owner_504>
     <series></series>
     <mast>ZSM460</mast>
     <tyres></tyres>
@@ -1797,7 +1909,7 @@
     <reference_number>L251629-L251634</reference_number>
     <brand>HELI</brand>
     <model>CDD16-A2FLIH</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>12650.00</price>
@@ -1818,6 +1930,8 @@
     <photo_link>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD16-A2FLIH (L251629-L251634)</name>
+    <markup>350</markup>
+    <price_owner_504>13000.00</price_owner_504>
     <series></series>
     <mast>ZSM540</mast>
     <tyres></tyres>
@@ -1829,7 +1943,7 @@
     <reference_number>L251372-L251377</reference_number>
     <brand>HELI</brand>
     <model>CDD16-A2FLIH</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>12460.00</price>
@@ -1850,6 +1964,8 @@
     <photo_link>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD16-A2FLIH (L251372-L251377)</name>
+    <markup>350</markup>
+    <price_owner_504>12810.00</price_owner_504>
     <series></series>
     <mast>ZSM540</mast>
     <tyres></tyres>
@@ -1861,7 +1977,7 @@
     <reference_number>L250517-L250519</reference_number>
     <brand>HELI</brand>
     <model>CDD16-A2LIH</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>11400.00</price>
@@ -1882,6 +1998,8 @@
     <photo_link>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD16-A2LIH (L250517-L250519)</name>
+    <markup>350</markup>
+    <price_owner_504>11750.00</price_owner_504>
     <series></series>
     <mast>ZSM500</mast>
     <tyres></tyres>
@@ -1893,7 +2011,7 @@
     <reference_number>D261578-D261581</reference_number>
     <brand>HELI</brand>
     <model>CDD16-A2LIH</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>11200.00</price>
@@ -1914,6 +2032,8 @@
     <photo_link>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD16-A2LIH (D261578-D261581)</name>
+    <markup>350</markup>
+    <price_owner_504>11550.00</price_owner_504>
     <series></series>
     <mast>ZSM450</mast>
     <tyres></tyres>
@@ -1925,7 +2045,7 @@
     <reference_number>D261582-D261585</reference_number>
     <brand>HELI</brand>
     <model>CDD16-A2LIH</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>11250.00</price>
@@ -1946,6 +2066,8 @@
     <photo_link>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD16-A2LIH (D261582-D261585)</name>
+    <markup>350</markup>
+    <price_owner_504>11600.00</price_owner_504>
     <series></series>
     <mast>ZSM470</mast>
     <tyres></tyres>
@@ -1957,7 +2079,7 @@
     <reference_number>D261586-D261589</reference_number>
     <brand>HELI</brand>
     <model>CDD16-A2LIH</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>11350.00</price>
@@ -1978,6 +2100,8 @@
     <photo_link>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD16-A2LIH (D261586-D261589)</name>
+    <markup>350</markup>
+    <price_owner_504>11700.00</price_owner_504>
     <series></series>
     <mast>ZSM500</mast>
     <tyres></tyres>
@@ -1989,7 +2113,7 @@
     <reference_number>D261590-D261593</reference_number>
     <brand>HELI</brand>
     <model>CDD16-A2LIH</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>11400.00</price>
@@ -2010,6 +2134,8 @@
     <photo_link>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD16-A2LIH (D261590-D261593)</name>
+    <markup>350</markup>
+    <price_owner_504>11750.00</price_owner_504>
     <series></series>
     <mast>ZSM540</mast>
     <tyres></tyres>
@@ -2021,7 +2147,7 @@
     <reference_number>G25GC03</reference_number>
     <brand>HELI</brand>
     <model>CDD20-A2FLIH</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>13260.00</price>
@@ -2042,6 +2168,8 @@
     <photo_link>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD20-A2FLIH</name>
+    <markup>350</markup>
+    <price_owner_504>13610.00</price_owner_504>
     <series></series>
     <mast>ZSM470</mast>
     <tyres></tyres>
@@ -2053,7 +2181,7 @@
     <reference_number>W245883</reference_number>
     <brand>HELI</brand>
     <model>CDD20-A2LIH</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>10600.00</price>
@@ -2074,6 +2202,8 @@
     <photo_link>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD20-A2LIH (W245883)</name>
+    <markup>350</markup>
+    <price_owner_504>10950.00</price_owner_504>
     <series></series>
     <mast>M350</mast>
     <tyres></tyres>
@@ -2085,7 +2215,7 @@
     <reference_number>G251791</reference_number>
     <brand>HELI</brand>
     <model>CDD20-A2LIH</model>
-    <type>Lithium-Batterie-Stapler-LKW</type>
+    <type>Hochhubwagen mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>10600.00</price>
@@ -2106,6 +2236,8 @@
     <photo_link>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CDD20-A2LIH (G251791)</name>
+    <markup>350</markup>
+    <price_owner_504>10950.00</price_owner_504>
     <series></series>
     <mast>M350</mast>
     <tyres></tyres>
@@ -2117,7 +2249,7 @@
     <reference_number>D260830-D260831</reference_number>
     <brand>HELI</brand>
     <model>CPCD100-YC2G3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>10000</capacity_kg>
     <tonnage>10.0</tonnage>
     <price>70680.00</price>
@@ -2138,6 +2270,8 @@
     <photo_link>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD100-YC2G3</name>
+    <markup>750</markup>
+    <price_owner_504>71430.00</price_owner_504>
     <series>G3</series>
     <mast>M450</mast>
     <tyres>Vordere Doppel-Vollgummireifen</tyres>
@@ -2149,7 +2283,7 @@
     <reference_number>L250528-L250536</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-KU20H</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>24500.00</price>
@@ -2170,6 +2304,8 @@
     <photo_link>https://account.bcs.tools/image/1163071/H3_IC_1-3%2C5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-KU20H</name>
+    <markup>750</markup>
+    <price_owner_504>25250.00</price_owner_504>
     <series>H3</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -2181,7 +2317,7 @@
     <reference_number>G252871-G252872</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>27620.00</price>
@@ -2202,6 +2338,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-KU24RG3 (G252871-G252872)</name>
+    <markup>750</markup>
+    <price_owner_504>28370.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM600</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2213,7 +2351,7 @@
     <reference_number>G252868-G252870</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>27210.00</price>
@@ -2234,6 +2372,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-KU24RG3 (G252868-G252870)</name>
+    <markup>750</markup>
+    <price_owner_504>27960.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM540</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2245,7 +2385,7 @@
     <reference_number>G253439-G253440</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>24900.00</price>
@@ -2266,6 +2406,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-KU24RG3 (G253439-G253440)</name>
+    <markup>750</markup>
+    <price_owner_504>25650.00</price_owner_504>
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2277,7 +2419,7 @@
     <reference_number>D260354-D260358</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>28500.00</price>
@@ -2298,6 +2440,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-KU24RG3 (D260354-D260358)</name>
+    <markup>750</markup>
+    <price_owner_504>29250.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2309,7 +2453,7 @@
     <reference_number>D260359-D260363</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>27000.00</price>
@@ -2330,6 +2474,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-KU24RG3 (D260359-D260363)</name>
+    <markup>750</markup>
+    <price_owner_504>27750.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2341,7 +2487,7 @@
     <reference_number>G253876-G253878</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>24900.00</price>
@@ -2362,6 +2508,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-KU24RG3 (G253876-G253878)</name>
+    <markup>750</markup>
+    <price_owner_504>25650.00</price_owner_504>
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2373,7 +2521,7 @@
     <reference_number>G253886-G253895</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>27890.00</price>
@@ -2394,6 +2542,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-KU24RG3 (G253886-G253895)</name>
+    <markup>750</markup>
+    <price_owner_504>28640.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2405,7 +2555,7 @@
     <reference_number>D260841-D260843</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>27500.00</price>
@@ -2426,6 +2576,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-KU24RG3 (D260841-D260843)</name>
+    <markup>750</markup>
+    <price_owner_504>28250.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2437,7 +2589,7 @@
     <reference_number>D261616-D261617</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>27700.00</price>
@@ -2458,6 +2610,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-KU24RG3 (D261616-D261617)</name>
+    <markup>750</markup>
+    <price_owner_504>28450.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2469,7 +2623,7 @@
     <reference_number>D261618-D261619</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>25000.00</price>
@@ -2490,6 +2644,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-KU24RG3 (D261618-D261619)</name>
+    <markup>750</markup>
+    <price_owner_504>25750.00</price_owner_504>
     <series>G3</series>
     <mast>M330</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2522,6 +2678,8 @@
     <photo_link>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-KU5Y4G3</name>
+    <markup>350</markup>
+    <price_owner_504>34850.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Luftreifen</tyres>
@@ -2533,7 +2691,7 @@
     <reference_number>G253915-G253917</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-XC26RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>20920.00</price>
@@ -2554,6 +2712,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-XC26RG3 (G253915-G253917)</name>
+    <markup>750</markup>
+    <price_owner_504>21670.00</price_owner_504>
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2565,7 +2725,7 @@
     <reference_number>D260364-D260368</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-XC26RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>22000.00</price>
@@ -2586,6 +2746,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-XC26RG3 (D260364-D260368)</name>
+    <markup>750</markup>
+    <price_owner_504>22750.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2597,7 +2759,7 @@
     <reference_number>D260369-D260373</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-XC26RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>19500.00</price>
@@ -2618,6 +2780,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-XC26RG3 (D260369-D260373)</name>
+    <markup>750</markup>
+    <price_owner_504>20250.00</price_owner_504>
     <series>G3</series>
     <mast>M350</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2629,7 +2793,7 @@
     <reference_number>D260379-D260383</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-XC26RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>20850.00</price>
@@ -2650,6 +2814,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-XC26RG3 (D260379-D260383)</name>
+    <markup>750</markup>
+    <price_owner_504>21600.00</price_owner_504>
     <series>G3</series>
     <mast>M350</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2661,7 +2827,7 @@
     <reference_number>D260386-D260387</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-XC26RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>21000.00</price>
@@ -2682,6 +2848,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-XC26RG3 (D260386-D260387)</name>
+    <markup>750</markup>
+    <price_owner_504>21750.00</price_owner_504>
     <series>G3</series>
     <mast>M350</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2693,7 +2861,7 @@
     <reference_number>D260390-D260391</reference_number>
     <brand>HELI</brand>
     <model>CPCD25-XC26RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>22300.00</price>
@@ -2714,6 +2882,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD25-XC26RG3 (D260390-D260391)</name>
+    <markup>750</markup>
+    <price_owner_504>23050.00</price_owner_504>
     <series>G3</series>
     <mast>M350</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2725,7 +2895,7 @@
     <reference_number>G240471</reference_number>
     <brand>HELI</brand>
     <model>CPCD250-V1Z-12G2</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>25000</capacity_kg>
     <tonnage>25.0</tonnage>
     <price>314600.00</price>
@@ -2746,6 +2916,8 @@
     <photo_link>https://account.bcs.tools/image/1163074/G2_IC_12-46t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD250-V1Z-12G2</name>
+    <markup>750</markup>
+    <price_owner_504>315350.00</price_owner_504>
     <series>G2</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2757,7 +2929,7 @@
     <reference_number>L250523-L250527</reference_number>
     <brand>HELI</brand>
     <model>CPCD30-KU20H</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3000</capacity_kg>
     <tonnage>3.0</tonnage>
     <price>27700.00</price>
@@ -2778,6 +2950,8 @@
     <photo_link>https://account.bcs.tools/image/1163071/H3_IC_1-3%2C5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD30-KU20H (L250523-L250527)</name>
+    <markup>750</markup>
+    <price_owner_504>28450.00</price_owner_504>
     <series>H3</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -2789,7 +2963,7 @@
     <reference_number>L250527-L250547</reference_number>
     <brand>HELI</brand>
     <model>CPCD30-KU20H</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3000</capacity_kg>
     <tonnage>3.0</tonnage>
     <price>27000.00</price>
@@ -2810,6 +2984,8 @@
     <photo_link>https://account.bcs.tools/image/1163071/H3_IC_1-3%2C5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD30-KU20H (L250527-L250547)</name>
+    <markup>750</markup>
+    <price_owner_504>27750.00</price_owner_504>
     <series>H3</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -2821,7 +2997,7 @@
     <reference_number>G253443-G253444</reference_number>
     <brand>HELI</brand>
     <model>CPCD35-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>27310.00</price>
@@ -2842,6 +3018,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-KU24RG3 (G253443-G253444)</name>
+    <markup>750</markup>
+    <price_owner_504>28060.00</price_owner_504>
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2853,7 +3031,7 @@
     <reference_number>G253910-G253914</reference_number>
     <brand>HELI</brand>
     <model>CPCD35-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>30560.00</price>
@@ -2874,6 +3052,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-KU24RG3 (G253910-G253914)</name>
+    <markup>750</markup>
+    <price_owner_504>31310.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2885,7 +3065,7 @@
     <reference_number>G253899-G253902</reference_number>
     <brand>HELI</brand>
     <model>CPCD35-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>29810.00</price>
@@ -2906,6 +3086,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-KU24RG3 (G253899-G253902)</name>
+    <markup>750</markup>
+    <price_owner_504>30560.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM600</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2917,7 +3099,7 @@
     <reference_number>B11725245</reference_number>
     <brand>HELI</brand>
     <model>CPCD35-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>31200.00</price>
@@ -2938,6 +3120,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-KU24RG3 (B11725245)</name>
+    <markup>750</markup>
+    <price_owner_504>31950.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2949,7 +3133,7 @@
     <reference_number>L250577</reference_number>
     <brand>HELI</brand>
     <model>CPCD35-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>31640.00</price>
@@ -2970,6 +3154,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-KU24RG3 (L250577)</name>
+    <markup>750</markup>
+    <price_owner_504>32390.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -2981,7 +3167,7 @@
     <reference_number>D260844-D260846</reference_number>
     <brand>HELI</brand>
     <model>CPCD35-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>26500.00</price>
@@ -3002,6 +3188,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-KU24RG3 (D260844-D260846)</name>
+    <markup>750</markup>
+    <price_owner_504>27250.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3013,7 +3201,7 @@
     <reference_number>D260847-D260850</reference_number>
     <brand>HELI</brand>
     <model>CPCD35-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>28820.00</price>
@@ -3034,6 +3222,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-KU24RG3 (D260847-D260850)</name>
+    <markup>750</markup>
+    <price_owner_504>29570.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3045,7 +3235,7 @@
     <reference_number>D261622-D261623</reference_number>
     <brand>HELI</brand>
     <model>CPCD35-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>29700.00</price>
@@ -3066,6 +3256,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-KU24RG3 (D261622-D261623)</name>
+    <markup>750</markup>
+    <price_owner_504>30450.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3077,7 +3269,7 @@
     <reference_number>D261929-D261932</reference_number>
     <brand>HELI</brand>
     <model>CPCD35-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>28820.00</price>
@@ -3098,6 +3290,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-KU24RG3 (D261929-D261932)</name>
+    <markup>750</markup>
+    <price_owner_504>29570.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM540</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3109,7 +3303,7 @@
     <reference_number>D262449-D262452</reference_number>
     <brand>HELI</brand>
     <model>CPCD35-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>28500.00</price>
@@ -3130,6 +3324,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-KU24RG3 (D262449-D262452)</name>
+    <markup>750</markup>
+    <price_owner_504>29250.00</price_owner_504>
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3141,7 +3337,7 @@
     <reference_number>D262453-D262454</reference_number>
     <brand>HELI</brand>
     <model>CPCD35-KU24RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>29500.00</price>
@@ -3162,6 +3358,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-KU24RG3 (D262453-D262454)</name>
+    <markup>750</markup>
+    <price_owner_504>30250.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3194,6 +3392,8 @@
     <photo_link>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-KU5Y4G3</name>
+    <markup>350</markup>
+    <price_owner_504>41210.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Luftreifen</tyres>
@@ -3226,6 +3426,8 @@
     <photo_link>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-KU6Y4R-3 (D260395-D260398)</name>
+    <markup>350</markup>
+    <price_owner_504>40150.00</price_owner_504>
     <series>R</series>
     <mast>M400</mast>
     <tyres>Luftreifen</tyres>
@@ -3258,6 +3460,8 @@
     <photo_link>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-KU6Y4R-3 (D260399-D260402)</name>
+    <markup>350</markup>
+    <price_owner_504>41780.00</price_owner_504>
     <series>R</series>
     <mast>ZSM470</mast>
     <tyres>Luftreifen</tyres>
@@ -3269,7 +3473,7 @@
     <reference_number>D260403-D260410</reference_number>
     <brand>HELI</brand>
     <model>CPCD35-XC26RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>23500.00</price>
@@ -3290,6 +3494,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-XC26RG3 (D260403-D260410)</name>
+    <markup>750</markup>
+    <price_owner_504>24250.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3301,7 +3507,7 @@
     <reference_number>D260411-D260418</reference_number>
     <brand>HELI</brand>
     <model>CPCD35-XC26RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>22500.00</price>
@@ -3322,6 +3528,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-XC26RG3 (D260411-D260418)</name>
+    <markup>750</markup>
+    <price_owner_504>23250.00</price_owner_504>
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3333,7 +3541,7 @@
     <reference_number>D260419-D260426</reference_number>
     <brand>HELI</brand>
     <model>CPCD35-XC26RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>25000.00</price>
@@ -3354,6 +3562,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-XC26RG3 (D260419-D260426)</name>
+    <markup>750</markup>
+    <price_owner_504>25750.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3365,7 +3575,7 @@
     <reference_number>G253923-G253926</reference_number>
     <brand>HELI</brand>
     <model>CPCD35-XC26RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>23700.00</price>
@@ -3386,6 +3596,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-XC26RG3 (G253923-G253926)</name>
+    <markup>750</markup>
+    <price_owner_504>24450.00</price_owner_504>
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3397,7 +3609,7 @@
     <reference_number>D262455-D262458</reference_number>
     <brand>HELI</brand>
     <model>CPCD35-XC26RG3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>26000.00</price>
@@ -3418,6 +3630,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD35-XC26RG3 (D262455-D262458)</name>
+    <markup>750</markup>
+    <price_owner_504>26750.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3429,7 +3643,7 @@
     <reference_number>D261933-D261935</reference_number>
     <brand>HELI</brand>
     <model>CPCD50-KU4G3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>43200.00</price>
@@ -3450,6 +3664,8 @@
     <photo_link>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD50-KU4G3</name>
+    <markup>750</markup>
+    <price_owner_504>43950.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3482,6 +3698,8 @@
     <photo_link>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD50-KU4Y4R-3-06 (G252497-G252498)</name>
+    <markup>350</markup>
+    <price_owner_504>57250.00</price_owner_504>
     <series>R</series>
     <mast>ZSM470</mast>
     <tyres>Luftreifen</tyres>
@@ -3514,6 +3732,8 @@
     <photo_link>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD50-KU4Y4R-3-06 (L250449-L250451)</name>
+    <markup>350</markup>
+    <price_owner_504>57250.00</price_owner_504>
     <series>R</series>
     <mast>ZSM470</mast>
     <tyres>Luftreifen</tyres>
@@ -3546,6 +3766,8 @@
     <photo_link>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD50-KU4Y4R-3-06 (L250753-L250755)</name>
+    <markup>350</markup>
+    <price_owner_504>57250.00</price_owner_504>
     <series>R</series>
     <mast>ZSM470</mast>
     <tyres>Luftreifen</tyres>
@@ -3557,7 +3779,7 @@
     <reference_number>D260336-D260338</reference_number>
     <brand>HELI</brand>
     <model>CPCD50-YC4G3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>35200.00</price>
@@ -3578,6 +3800,8 @@
     <photo_link>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD50-YC4G3 (D260336-D260338)</name>
+    <markup>750</markup>
+    <price_owner_504>35950.00</price_owner_504>
     <series>G3</series>
     <mast>M350</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3589,7 +3813,7 @@
     <reference_number>D260339-D260341</reference_number>
     <brand>HELI</brand>
     <model>CPCD50-YC4G3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>42270.00</price>
@@ -3610,6 +3834,8 @@
     <photo_link>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD50-YC4G3 (D260339-D260341)</name>
+    <markup>750</markup>
+    <price_owner_504>43020.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3621,7 +3847,7 @@
     <reference_number>D260832-D260834</reference_number>
     <brand>HELI</brand>
     <model>CPCD50-YC4G3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>35700.00</price>
@@ -3642,6 +3868,8 @@
     <photo_link>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD50-YC4G3 (D260832-D260834)</name>
+    <markup>750</markup>
+    <price_owner_504>36450.00</price_owner_504>
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3653,7 +3881,7 @@
     <reference_number>D261651-D261653</reference_number>
     <brand>HELI</brand>
     <model>CPCD50-YC4G3</model>
-    <type>IC DIESEL Stufe V</type>
+    <type>Dieselstapler Stage V</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>35700.00</price>
@@ -3674,6 +3902,8 @@
     <photo_link>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCD50-YC4G3 (D261651-D261653)</name>
+    <markup>750</markup>
+    <price_owner_504>36450.00</price_owner_504>
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3685,7 +3915,7 @@
     <reference_number>G250942-G250946</reference_number>
     <brand>HELI</brand>
     <model>CPCJ25-KU3Y4G3</model>
-    <type>Kompakter Geländestapler</type>
+    <type>Kompakt-Geländestapler</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>58030.00</price>
@@ -3706,6 +3936,8 @@
     <photo_link>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPCJ25-KU3Y4G3</name>
+    <markup>350</markup>
+    <price_owner_504>58380.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM370</mast>
     <tyres>Luftreifen</tyres>
@@ -3717,7 +3949,7 @@
     <reference_number>G250845-G2506846</reference_number>
     <brand>HELI</brand>
     <model>CPD100-A11LIG2-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>10000</capacity_kg>
     <tonnage>10.0</tonnage>
     <price>112770.00</price>
@@ -3738,6 +3970,8 @@
     <photo_link>https://account.bcs.tools/image/1163047/G3_CPD60-100GB2D-GB2DLI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD100-A11LIG2-M</name>
+    <markup>750</markup>
+    <price_owner_504>113520.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -3749,7 +3983,7 @@
     <reference_number>G253247-G253248</reference_number>
     <brand>HELI</brand>
     <model>CPD100-GB2DLI</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>10000</capacity_kg>
     <tonnage>10.0</tonnage>
     <price>107240.00</price>
@@ -3770,6 +4004,8 @@
     <photo_link>https://account.bcs.tools/image/1163047/G3_CPD60-100GB2D-GB2DLI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD100-GB2DLI (G253247-G253248)</name>
+    <markup>750</markup>
+    <price_owner_504>107990.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM600</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3781,7 +4017,7 @@
     <reference_number>L250840-L250841</reference_number>
     <brand>HELI</brand>
     <model>CPD100-GB2DLI</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>10000</capacity_kg>
     <tonnage>10.0</tonnage>
     <price>105070.00</price>
@@ -3802,6 +4038,8 @@
     <photo_link>https://account.bcs.tools/image/1163047/G3_CPD60-100GB2D-GB2DLI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD100-GB2DLI (L250840-L250841)</name>
+    <markup>750</markup>
+    <price_owner_504>105820.00</price_owner_504>
     <series>G3</series>
     <mast>M450</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -3813,7 +4051,7 @@
     <reference_number>25207-23</reference_number>
     <brand>HELI</brand>
     <model>CPD12SQ-A1LIH4</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>12600.00</price>
@@ -3834,6 +4072,8 @@
     <photo_link>https://account.bcs.tools/image/1163054/H4_CPD08-12SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD12SQ-A1LIH4 (25207-23)</name>
+    <markup>750</markup>
+    <price_owner_504>13350.00</price_owner_504>
     <series>H4</series>
     <mast>ZSM435</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3845,7 +4085,7 @@
     <reference_number>D260900-D260910</reference_number>
     <brand>HELI</brand>
     <model>CPD12SQ-A1LIH4</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>12500.00</price>
@@ -3866,6 +4106,8 @@
     <photo_link>https://account.bcs.tools/image/1163054/H4_CPD08-12SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD12SQ-A1LIH4 (D260900-D260910)</name>
+    <markup>750</markup>
+    <price_owner_504>13250.00</price_owner_504>
     <series>H4</series>
     <mast>ZSM450</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -3877,7 +4119,7 @@
     <reference_number>D260896</reference_number>
     <brand>HELI</brand>
     <model>CPD160-A19LLIG-12</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>16000</capacity_kg>
     <tonnage>16.0</tonnage>
     <price>271000.00</price>
@@ -3898,6 +4140,8 @@
     <photo_link></photo_link>
     <has_image>0</has_image>
     <name>HELI CPD160-A19LLIG-12</name>
+    <markup>750</markup>
+    <price_owner_504>271750.00</price_owner_504>
     <series>G</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
@@ -3909,7 +4153,7 @@
     <reference_number>L251443-L251446</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>25850.00</price>
@@ -3930,6 +4174,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A2LIG3-M (L251443-L251446)</name>
+    <markup>750</markup>
+    <price_owner_504>26600.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -3941,7 +4187,7 @@
     <reference_number>G253829-G253830</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>24450.00</price>
@@ -3962,6 +4208,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A2LIG3-M (G253829-G253830)</name>
+    <markup>750</markup>
+    <price_owner_504>25200.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM600</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -3973,7 +4221,7 @@
     <reference_number>L251417-L251426</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20600.00</price>
@@ -3994,6 +4242,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A2LIG3-M (L251417-L251426)</name>
+    <markup>750</markup>
+    <price_owner_504>21350.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4005,7 +4255,7 @@
     <reference_number>L250604-L250607</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>25850.00</price>
@@ -4026,6 +4276,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A2LIG3-M (L250604-L250607)</name>
+    <markup>750</markup>
+    <price_owner_504>26600.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4037,7 +4289,7 @@
     <reference_number>L250842-L250843</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>23070.00</price>
@@ -4058,6 +4310,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A2LIG3-M (L250842-L250843)</name>
+    <markup>750</markup>
+    <price_owner_504>23820.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4069,7 +4323,7 @@
     <reference_number>L250918-L250927</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20600.00</price>
@@ -4090,6 +4344,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A2LIG3-M (L250918-L250927)</name>
+    <markup>750</markup>
+    <price_owner_504>21350.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4101,7 +4357,7 @@
     <reference_number>L251306-L251307</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>26000.00</price>
@@ -4122,6 +4378,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A2LIG3-M (L251306-L251307)</name>
+    <markup>750</markup>
+    <price_owner_504>26750.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4133,7 +4391,7 @@
     <reference_number>L251217-L251231</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20600.00</price>
@@ -4154,6 +4412,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A2LIG3-M (L251217-L251231)</name>
+    <markup>750</markup>
+    <price_owner_504>21350.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4165,7 +4425,7 @@
     <reference_number>L250983-L250986</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20600.00</price>
@@ -4186,6 +4446,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A2LIG3-M (L250983-L250986)</name>
+    <markup>750</markup>
+    <price_owner_504>21350.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4197,7 +4459,7 @@
     <reference_number>D260427-D260442</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20600.00</price>
@@ -4218,6 +4480,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A2LIG3-M (D260427-D260442)</name>
+    <markup>750</markup>
+    <price_owner_504>21350.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4229,7 +4493,7 @@
     <reference_number>D260443-D260458</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20650.00</price>
@@ -4250,6 +4514,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A2LIG3-M (D260443-D260458)</name>
+    <markup>750</markup>
+    <price_owner_504>21400.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4261,7 +4527,7 @@
     <reference_number>D261941-D261943</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20600.00</price>
@@ -4282,6 +4548,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A2LIG3-M (D261941-D261943)</name>
+    <markup>750</markup>
+    <price_owner_504>21350.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4293,7 +4561,7 @@
     <reference_number>L251286-L251295</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20600.00</price>
@@ -4314,6 +4582,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A2LIG3-M (L251286-L251295)</name>
+    <markup>750</markup>
+    <price_owner_504>21350.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4325,7 +4595,7 @@
     <reference_number>D261944-D261946</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>28000.00</price>
@@ -4346,6 +4616,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A2LIG3-M (D261944-D261946)</name>
+    <markup>750</markup>
+    <price_owner_504>28750.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4357,7 +4629,7 @@
     <reference_number>D261997-D262001</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>28600.00</price>
@@ -4378,6 +4650,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A2LIG3-M (D261997-D262001)</name>
+    <markup>750</markup>
+    <price_owner_504>29350.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4389,7 +4663,7 @@
     <reference_number>L251427-L251436</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A6LIG3-S</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>19560.00</price>
@@ -4410,6 +4684,8 @@
     <photo_link>https://account.bcs.tools/image/1163009/CPD16SQ-A6LIG3-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A6LIG3-S (L251427-L251436)</name>
+    <markup>750</markup>
+    <price_owner_504>20310.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4421,7 +4697,7 @@
     <reference_number>L250610-L250617</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A6LIG3-S</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>19560.00</price>
@@ -4442,6 +4718,8 @@
     <photo_link>https://account.bcs.tools/image/1163009/CPD16SQ-A6LIG3-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A6LIG3-S (L250610-L250617)</name>
+    <markup>750</markup>
+    <price_owner_504>20310.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4453,7 +4731,7 @@
     <reference_number>D261192-D261201</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A6LIG3-S</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>19560.00</price>
@@ -4474,6 +4752,8 @@
     <photo_link>https://account.bcs.tools/image/1163009/CPD16SQ-A6LIG3-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A6LIG3-S (D261192-D261201)</name>
+    <markup>750</markup>
+    <price_owner_504>20310.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4485,7 +4765,7 @@
     <reference_number>D261202-D261205</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A6LIG3-S</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>20800.00</price>
@@ -4506,6 +4786,8 @@
     <photo_link>https://account.bcs.tools/image/1163009/CPD16SQ-A6LIG3-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A6LIG3-S (D261202-D261205)</name>
+    <markup>750</markup>
+    <price_owner_504>21550.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4517,7 +4799,7 @@
     <reference_number>DE262180-DE262185</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A6LIG3-S</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>19800.00</price>
@@ -4538,6 +4820,8 @@
     <photo_link>https://account.bcs.tools/image/1163009/CPD16SQ-A6LIG3-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A6LIG3-S (DE262180-DE262185)</name>
+    <markup>750</markup>
+    <price_owner_504>20550.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4549,7 +4833,7 @@
     <reference_number>DE262174-DE262179</reference_number>
     <brand>HELI</brand>
     <model>CPD16SQ-A6LIG3-S</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1600</capacity_kg>
     <tonnage>1.6</tonnage>
     <price>19560.00</price>
@@ -4570,6 +4854,8 @@
     <photo_link>https://account.bcs.tools/image/1163009/CPD16SQ-A6LIG3-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD16SQ-A6LIG3-S (DE262174-DE262179)</name>
+    <markup>750</markup>
+    <price_owner_504>20310.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4581,7 +4867,7 @@
     <reference_number>G251839-G251840</reference_number>
     <brand>HELI</brand>
     <model>CPD18-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1800</capacity_kg>
     <tonnage>1.8</tonnage>
     <price>25940.00</price>
@@ -4602,6 +4888,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD18-GB2LI-M (G251839-G251840)</name>
+    <markup>750</markup>
+    <price_owner_504>26690.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM600</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4613,7 +4901,7 @@
     <reference_number>D261624-D261628</reference_number>
     <brand>HELI</brand>
     <model>CPD18-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>1800</capacity_kg>
     <tonnage>1.8</tonnage>
     <price>28500.00</price>
@@ -4634,6 +4922,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD18-GB2LI-M (D261624-D261628)</name>
+    <markup>750</markup>
+    <price_owner_504>29250.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4645,7 +4935,7 @@
     <reference_number>L250618-L250621</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>26000.00</price>
@@ -4666,6 +4956,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A2LIG3-M (L250618-L250621)</name>
+    <markup>750</markup>
+    <price_owner_504>26750.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4677,7 +4969,7 @@
     <reference_number>L250711-L250714</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>28500.00</price>
@@ -4698,6 +4990,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A2LIG3-M (L250711-L250714)</name>
+    <markup>750</markup>
+    <price_owner_504>29250.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4709,7 +5003,7 @@
     <reference_number>L250938-L250940</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>26500.00</price>
@@ -4730,6 +5024,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A2LIG3-M (L250938-L250940)</name>
+    <markup>750</markup>
+    <price_owner_504>27250.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4741,7 +5037,7 @@
     <reference_number>L251447-L251450</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>26000.00</price>
@@ -4762,6 +5058,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A2LIG3-M (L251447-L251450)</name>
+    <markup>750</markup>
+    <price_owner_504>26750.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4773,7 +5071,7 @@
     <reference_number>D260477-D260492</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>22230.00</price>
@@ -4794,6 +5092,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A2LIG3-M (D260477-D260492)</name>
+    <markup>750</markup>
+    <price_owner_504>22980.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4805,7 +5105,7 @@
     <reference_number>D260493-D260500</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>22200.00</price>
@@ -4826,6 +5126,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A2LIG3-M (D260493-D260500)</name>
+    <markup>750</markup>
+    <price_owner_504>22950.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4837,7 +5139,7 @@
     <reference_number>D260501-D260502</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>22700.00</price>
@@ -4858,6 +5160,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A2LIG3-M (D260501-D260502)</name>
+    <markup>750</markup>
+    <price_owner_504>23450.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM600</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4869,7 +5173,7 @@
     <reference_number>D260505-D260506</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>26300.00</price>
@@ -4890,6 +5194,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A2LIG3-M (D260505-D260506)</name>
+    <markup>750</markup>
+    <price_owner_504>27050.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4901,7 +5207,7 @@
     <reference_number>06020DT5878</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>22000.00</price>
@@ -4922,6 +5228,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A2LIG3-M (06020DT5878)</name>
+    <markup>750</markup>
+    <price_owner_504>22750.00</price_owner_504>
     <series>G3</series>
     <mast>ZM300</mast>
     <tyres>Vollgummireifen</tyres>
@@ -4933,7 +5241,7 @@
     <reference_number>L251232-L251246</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>22240.00</price>
@@ -4954,6 +5262,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A2LIG3-M (L251232-L251246)</name>
+    <markup>750</markup>
+    <price_owner_504>22990.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4965,7 +5275,7 @@
     <reference_number>D260856-D260870</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>22230.00</price>
@@ -4986,6 +5296,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A2LIG3-M (D260856-D260870)</name>
+    <markup>750</markup>
+    <price_owner_504>22980.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -4997,7 +5309,7 @@
     <reference_number>D261947-D261949</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>22240.00</price>
@@ -5018,6 +5330,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A2LIG3-M (D261947-D261949)</name>
+    <markup>750</markup>
+    <price_owner_504>22990.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5029,7 +5343,7 @@
     <reference_number>D261950-D261952</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A2LIG3-M</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>28800.00</price>
@@ -5050,6 +5364,8 @@
     <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A2LIG3-M (D261950-D261952)</name>
+    <markup>750</markup>
+    <price_owner_504>29550.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5061,7 +5377,7 @@
     <reference_number>G250201</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A6LIG3-S</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>21970.00</price>
@@ -5082,6 +5398,8 @@
     <photo_link>https://account.bcs.tools/image/1163007/CPD20SQ-A6LIG3-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A6LIG3-S (G250201)</name>
+    <markup>750</markup>
+    <price_owner_504>22720.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5093,7 +5411,7 @@
     <reference_number>L250596-L250603</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A6LIG3-S</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>20350.00</price>
@@ -5114,6 +5432,8 @@
     <photo_link>https://account.bcs.tools/image/1163007/CPD20SQ-A6LIG3-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A6LIG3-S (L250596-L250603)</name>
+    <markup>750</markup>
+    <price_owner_504>21100.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5125,7 +5445,7 @@
     <reference_number>L250857-L250861</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A6LIG3-S</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>20350.00</price>
@@ -5146,6 +5466,8 @@
     <photo_link>https://account.bcs.tools/image/1163007/CPD20SQ-A6LIG3-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A6LIG3-S (L250857-L250861)</name>
+    <markup>750</markup>
+    <price_owner_504>21100.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5157,7 +5479,7 @@
     <reference_number>L250993-L250994</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A6LIG3-S</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>20660.00</price>
@@ -5178,6 +5500,8 @@
     <photo_link>https://account.bcs.tools/image/1163007/CPD20SQ-A6LIG3-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A6LIG3-S (L250993-L250994)</name>
+    <markup>750</markup>
+    <price_owner_504>21410.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5189,7 +5513,7 @@
     <reference_number>L250995-L251000</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A6LIG3-S</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>20350.00</price>
@@ -5210,6 +5534,8 @@
     <photo_link>https://account.bcs.tools/image/1163007/CPD20SQ-A6LIG3-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A6LIG3-S (L250995-L251000)</name>
+    <markup>750</markup>
+    <price_owner_504>21100.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5221,7 +5547,7 @@
     <reference_number>D260871-D260885</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A6LIG3-S</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>20350.00</price>
@@ -5242,6 +5568,8 @@
     <photo_link>https://account.bcs.tools/image/1163007/CPD20SQ-A6LIG3-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A6LIG3-S (D260871-D260885)</name>
+    <markup>750</markup>
+    <price_owner_504>21100.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5253,7 +5581,7 @@
     <reference_number>D261610-D261615</reference_number>
     <brand>HELI</brand>
     <model>CPD20SQ-A6LIG3-S</model>
-    <type>Elektrischer 3-Rad-Lithium-Akku</type>
+    <type>3-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2000</capacity_kg>
     <tonnage>2.0</tonnage>
     <price>20740.00</price>
@@ -5274,6 +5602,8 @@
     <photo_link>https://account.bcs.tools/image/1163007/CPD20SQ-A6LIG3-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD20SQ-A6LIG3-S (D261610-D261615)</name>
+    <markup>750</markup>
+    <price_owner_504>21490.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5285,7 +5615,7 @@
     <reference_number>L251485-L251488</reference_number>
     <brand>HELI</brand>
     <model>CPD25-A3LIH4-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>22200.00</price>
@@ -5306,6 +5636,8 @@
     <photo_link>https://account.bcs.tools/image/1162997/H4_1.5-3.8t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-A3LIH4-M</name>
+    <markup>750</markup>
+    <price_owner_504>22950.00</price_owner_504>
     <series>H4</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -5317,7 +5649,7 @@
     <reference_number>D260891-D260895</reference_number>
     <brand>HELI</brand>
     <model>CPD25-A6LIK3-H</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>18500.00</price>
@@ -5338,6 +5670,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-A6LIK3-H</name>
+    <markup>750</markup>
+    <price_owner_504>19250.00</price_owner_504>
     <series>K3</series>
     <mast>ZSM450</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5349,7 +5683,7 @@
     <reference_number>G253467</reference_number>
     <brand>HELI</brand>
     <model>CPD25-A7LIH2</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>18600.00</price>
@@ -5370,6 +5704,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-A7LIH2 (G253467)</name>
+    <markup>750</markup>
+    <price_owner_504>19350.00</price_owner_504>
     <series>H2</series>
     <mast>M330</mast>
     <tyres>Vollgummireifen</tyres>
@@ -5381,7 +5717,7 @@
     <reference_number>L251539-L251548</reference_number>
     <brand>HELI</brand>
     <model>CPD25-A7LIH2</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>21500.00</price>
@@ -5402,6 +5738,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-A7LIH2 (L251539-L251548)</name>
+    <markup>750</markup>
+    <price_owner_504>22250.00</price_owner_504>
     <series>H2</series>
     <mast>ZSM450</mast>
     <tyres>Vollgummireifen</tyres>
@@ -5413,7 +5751,7 @@
     <reference_number>D260614-D260619</reference_number>
     <brand>HELI</brand>
     <model>CPD25-A7LIH2</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>21500.00</price>
@@ -5434,6 +5772,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-A7LIH2 (D260614-D260619)</name>
+    <markup>750</markup>
+    <price_owner_504>22250.00</price_owner_504>
     <series>H2</series>
     <mast>ZSM450</mast>
     <tyres>Vollgummireifen</tyres>
@@ -5445,7 +5785,7 @@
     <reference_number>G253420</reference_number>
     <brand>HELI</brand>
     <model>CPD25-D11LIG2-P</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>25500.00</price>
@@ -5466,6 +5806,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-D11LIG2-P (G253420)</name>
+    <markup>750</markup>
+    <price_owner_504>26250.00</price_owner_504>
     <series>G2</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
@@ -5477,7 +5819,7 @@
     <reference_number>G253421-G253422</reference_number>
     <brand>HELI</brand>
     <model>CPD25-D11LIG2-P</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>26980.00</price>
@@ -5498,6 +5840,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-D11LIG2-P (G253421-G253422)</name>
+    <markup>750</markup>
+    <price_owner_504>27730.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -5509,7 +5853,7 @@
     <reference_number>G253423</reference_number>
     <brand>HELI</brand>
     <model>CPD25-D11LIG2-P</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>26980.00</price>
@@ -5530,6 +5874,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-D11LIG2-P (G253423)</name>
+    <markup>750</markup>
+    <price_owner_504>27730.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -5541,7 +5887,7 @@
     <reference_number>G250625</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>21970.00</price>
@@ -5562,6 +5908,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GB2LI-M (G250625)</name>
+    <markup>750</markup>
+    <price_owner_504>22720.00</price_owner_504>
     <series>G2</series>
     <mast>M400</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5573,7 +5921,7 @@
     <reference_number>G250624</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>21800.00</price>
@@ -5594,6 +5942,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GB2LI-M (G250624)</name>
+    <markup>750</markup>
+    <price_owner_504>22550.00</price_owner_504>
     <series>G2</series>
     <mast>M370</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5605,7 +5955,7 @@
     <reference_number>G252185</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>21970.00</price>
@@ -5626,6 +5976,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GB2LI-M (G252185)</name>
+    <markup>750</markup>
+    <price_owner_504>22720.00</price_owner_504>
     <series>G2</series>
     <mast>M400</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5637,7 +5989,7 @@
     <reference_number>L250717-L250720</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>23550.00</price>
@@ -5658,6 +6010,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GB2LI-M (L250717-L250720)</name>
+    <markup>750</markup>
+    <price_owner_504>24300.00</price_owner_504>
     <series>G2</series>
     <mast>M330</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5669,7 +6023,7 @@
     <reference_number>L250866-L250868</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>22120.00</price>
@@ -5690,6 +6044,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GB2LI-M (L250866-L250868)</name>
+    <markup>750</markup>
+    <price_owner_504>22870.00</price_owner_504>
     <series>G2</series>
     <mast>M330</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5701,7 +6057,7 @@
     <reference_number>L250944-L250946</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>22560.00</price>
@@ -5722,6 +6078,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GB2LI-M (L250944-L250946)</name>
+    <markup>750</markup>
+    <price_owner_504>23310.00</price_owner_504>
     <series>G2</series>
     <mast>M330</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5733,7 +6091,7 @@
     <reference_number>L250592-L250595</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>23000.00</price>
@@ -5754,6 +6112,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GC6LI-S (L250592-L250595)</name>
+    <markup>750</markup>
+    <price_owner_504>23750.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5765,7 +6125,7 @@
     <reference_number>L250881-L250888</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>23000.00</price>
@@ -5786,6 +6146,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GC6LI-S (L250881-L250888)</name>
+    <markup>750</markup>
+    <price_owner_504>23750.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5797,7 +6159,7 @@
     <reference_number>L250959-L250966</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>19880.00</price>
@@ -5818,6 +6180,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GC6LI-S (L250959-L250966)</name>
+    <markup>750</markup>
+    <price_owner_504>20630.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5829,7 +6193,7 @@
     <reference_number>L250947-L250950</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>19880.00</price>
@@ -5850,6 +6214,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GC6LI-S (L250947-L250950)</name>
+    <markup>750</markup>
+    <price_owner_504>20630.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5861,7 +6227,7 @@
     <reference_number>L250951-L250958</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>19880.00</price>
@@ -5882,6 +6248,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GC6LI-S (L250951-L250958)</name>
+    <markup>750</markup>
+    <price_owner_504>20630.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5893,7 +6261,7 @@
     <reference_number>L251155-L251184</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>22740.00</price>
@@ -5914,6 +6282,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GC6LI-S (L251155-L251184)</name>
+    <markup>750</markup>
+    <price_owner_504>23490.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5925,7 +6295,7 @@
     <reference_number>L251451-L251465</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>22740.00</price>
@@ -5946,6 +6316,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GC6LI-S (L251451-L251465)</name>
+    <markup>750</markup>
+    <price_owner_504>23490.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5957,7 +6329,7 @@
     <reference_number>D260628-D260639</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>22740.00</price>
@@ -5978,6 +6350,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GC6LI-S (D260628-D260639)</name>
+    <markup>750</markup>
+    <price_owner_504>23490.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -5989,7 +6363,7 @@
     <reference_number>D260652-D260655</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>23200.00</price>
@@ -6010,6 +6384,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GC6LI-S (D260652-D260655)</name>
+    <markup>750</markup>
+    <price_owner_504>23950.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6021,7 +6397,7 @@
     <reference_number>D260477-D260480</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>24900.00</price>
@@ -6042,6 +6418,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D260477-D260480)</name>
+    <markup>750</markup>
+    <price_owner_504>25650.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6053,7 +6431,7 @@
     <reference_number>D260507-D260514</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>24400.00</price>
@@ -6074,6 +6452,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D260507-D260514)</name>
+    <markup>750</markup>
+    <price_owner_504>25150.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6085,7 +6465,7 @@
     <reference_number>D260515-D260526</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>26600.00</price>
@@ -6106,6 +6486,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D260515-D260526)</name>
+    <markup>750</markup>
+    <price_owner_504>27350.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6117,7 +6499,7 @@
     <reference_number>D260485-D260489</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>27000.00</price>
@@ -6138,6 +6520,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D260485-D260489)</name>
+    <markup>750</markup>
+    <price_owner_504>27750.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6149,7 +6533,7 @@
     <reference_number>D260490-D260494</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>24000.00</price>
@@ -6170,6 +6554,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D260490-D260494)</name>
+    <markup>750</markup>
+    <price_owner_504>24750.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>M350</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6181,7 +6567,7 @@
     <reference_number>L251604-L251608</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>27300.00</price>
@@ -6202,6 +6588,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (L251604-L251608)</name>
+    <markup>750</markup>
+    <price_owner_504>28050.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6213,7 +6601,7 @@
     <reference_number>D260495-D260502</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>26600.00</price>
@@ -6234,6 +6622,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D260495-D260502)</name>
+    <markup>750</markup>
+    <price_owner_504>27350.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6245,7 +6635,7 @@
     <reference_number>L250848-L250850</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>29500.00</price>
@@ -6266,6 +6656,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (L250848-L250850)</name>
+    <markup>750</markup>
+    <price_owner_504>30250.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6277,7 +6669,7 @@
     <reference_number>L251599-L251603</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>29000.00</price>
@@ -6298,6 +6690,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (L251599-L251603)</name>
+    <markup>750</markup>
+    <price_owner_504>29750.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6309,7 +6703,7 @@
     <reference_number>D261212-D261217</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>27000.00</price>
@@ -6330,6 +6724,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D261212-D261217)</name>
+    <markup>750</markup>
+    <price_owner_504>27750.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM540</mast>
     <tyres>Vollgummireifen</tyres>
@@ -6341,7 +6737,7 @@
     <reference_number>D261218-D261220</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>29500.00</price>
@@ -6362,6 +6758,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D261218-D261220)</name>
+    <markup>750</markup>
+    <price_owner_504>30250.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -6373,7 +6771,7 @@
     <reference_number>D261236-D261238</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>30800.00</price>
@@ -6394,6 +6792,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D261236-D261238)</name>
+    <markup>750</markup>
+    <price_owner_504>31550.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -6405,7 +6805,7 @@
     <reference_number>D261221-D261223</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>30800.00</price>
@@ -6426,6 +6826,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D261221-D261223)</name>
+    <markup>750</markup>
+    <price_owner_504>31550.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -6437,7 +6839,7 @@
     <reference_number>D261242-D261246</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>32200.00</price>
@@ -6458,6 +6860,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D261242-D261246)</name>
+    <markup>750</markup>
+    <price_owner_504>32950.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -6469,7 +6873,7 @@
     <reference_number>D261247-D261252</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>32800.00</price>
@@ -6490,6 +6894,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D261247-D261252)</name>
+    <markup>750</markup>
+    <price_owner_504>33550.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -6501,7 +6907,7 @@
     <reference_number>D261239-D261241</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>32000.00</price>
@@ -6522,6 +6928,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D261239-D261241)</name>
+    <markup>750</markup>
+    <price_owner_504>32750.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -6533,7 +6941,7 @@
     <reference_number>D261224-D261229</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>26200.00</price>
@@ -6554,6 +6962,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D261224-D261229)</name>
+    <markup>750</markup>
+    <price_owner_504>26950.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM540</mast>
     <tyres>Vollgummireifen</tyres>
@@ -6565,7 +6975,7 @@
     <reference_number>D261230-D261235</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>27500.00</price>
@@ -6586,6 +6996,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D261230-D261235)</name>
+    <markup>750</markup>
+    <price_owner_504>28250.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM540</mast>
     <tyres>Vollgummireifen</tyres>
@@ -6597,7 +7009,7 @@
     <reference_number>D261206-D261211</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>25000.00</price>
@@ -6618,6 +7030,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D261206-D261211)</name>
+    <markup>750</markup>
+    <price_owner_504>25750.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM540</mast>
     <tyres>Vollgummireifen</tyres>
@@ -6629,7 +7043,7 @@
     <reference_number>D261983-D261987</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>32000.00</price>
@@ -6650,6 +7064,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D261983-D261987)</name>
+    <markup>750</markup>
+    <price_owner_504>32750.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6661,7 +7077,7 @@
     <reference_number>D261993-D261994</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>33000.00</price>
@@ -6682,6 +7098,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D261993-D261994)</name>
+    <markup>750</markup>
+    <price_owner_504>33750.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6693,7 +7111,7 @@
     <reference_number>D261915-D261916</reference_number>
     <brand>HELI</brand>
     <model>CPD25-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>31200.00</price>
@@ -6714,6 +7132,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD25-GD2LI-M (D261915-D261916)</name>
+    <markup>750</markup>
+    <price_owner_504>31950.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6725,7 +7145,7 @@
     <reference_number>20260410</reference_number>
     <brand>HELI</brand>
     <model>CPD30-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3000</capacity_kg>
     <tonnage>3.0</tonnage>
     <price>34000.00</price>
@@ -6746,6 +7166,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD30-GD2LI-M (20260410)</name>
+    <markup>750</markup>
+    <price_owner_504>34750.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6757,7 +7179,7 @@
     <reference_number>D260531-D260534</reference_number>
     <brand>HELI</brand>
     <model>CPD30-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3000</capacity_kg>
     <tonnage>3.0</tonnage>
     <price>29000.00</price>
@@ -6778,6 +7200,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD30-GD2LI-M (D260531-D260534)</name>
+    <markup>750</markup>
+    <price_owner_504>29750.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6789,7 +7213,7 @@
     <reference_number>D260535-D260538</reference_number>
     <brand>HELI</brand>
     <model>CPD30-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3000</capacity_kg>
     <tonnage>3.0</tonnage>
     <price>31200.00</price>
@@ -6810,6 +7234,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD30-GD2LI-M (D260535-D260538)</name>
+    <markup>750</markup>
+    <price_owner_504>31950.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6821,7 +7247,7 @@
     <reference_number>D261895-D261897</reference_number>
     <brand>HELI</brand>
     <model>CPD30-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3000</capacity_kg>
     <tonnage>3.0</tonnage>
     <price>32700.00</price>
@@ -6842,6 +7268,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD30-GD2LI-M (D261895-D261897)</name>
+    <markup>750</markup>
+    <price_owner_504>33450.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6853,7 +7281,7 @@
     <reference_number>G251504-G251505</reference_number>
     <brand>HELI</brand>
     <model>CPD35-A3LIH4-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>22600.00</price>
@@ -6874,6 +7302,8 @@
     <photo_link>https://account.bcs.tools/image/1162997/H4_1.5-3.8t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-A3LIH4-M</name>
+    <markup>750</markup>
+    <price_owner_504>23350.00</price_owner_504>
     <series>H4</series>
     <mast>M330</mast>
     <tyres>Vollgummireifen</tyres>
@@ -6885,7 +7315,7 @@
     <reference_number>L251507-L251514</reference_number>
     <brand>HELI</brand>
     <model>CPD35-A6LIK3-H</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>23000.00</price>
@@ -6906,6 +7336,8 @@
     <photo_link>https://account.bcs.tools/image/1163049/G3_%2BCPD15-35GE2DLI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-A6LIK3-H</name>
+    <markup>750</markup>
+    <price_owner_504>23750.00</price_owner_504>
     <series>K3</series>
     <mast>ZSM450</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -6917,7 +7349,7 @@
     <reference_number>L250529-L250531</reference_number>
     <brand>HELI</brand>
     <model>CPD35-A7LIH2</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>23320.00</price>
@@ -6938,6 +7370,8 @@
     <photo_link>https://account.bcs.tools/image/1163049/G3_%2BCPD15-35GE2DLI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-A7LIH2 (L250529-L250531)</name>
+    <markup>750</markup>
+    <price_owner_504>24070.00</price_owner_504>
     <series>H2</series>
     <mast>ZSM450</mast>
     <tyres>Vollgummireifen</tyres>
@@ -6949,7 +7383,7 @@
     <reference_number>L251569-L251578</reference_number>
     <brand>HELI</brand>
     <model>CPD35-A7LIH2</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>23820.00</price>
@@ -6970,6 +7404,8 @@
     <photo_link>https://account.bcs.tools/image/1163049/G3_%2BCPD15-35GE2DLI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-A7LIH2 (L251569-L251578)</name>
+    <markup>750</markup>
+    <price_owner_504>24570.00</price_owner_504>
     <series>H2</series>
     <mast>ZSM450</mast>
     <tyres>Vollgummireifen</tyres>
@@ -6981,7 +7417,7 @@
     <reference_number>D260620-D260623</reference_number>
     <brand>HELI</brand>
     <model>CPD35-A7LIH2</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>22500.00</price>
@@ -7002,6 +7438,8 @@
     <photo_link>https://account.bcs.tools/image/1163049/G3_%2BCPD15-35GE2DLI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-A7LIH2 (D260620-D260623)</name>
+    <markup>750</markup>
+    <price_owner_504>23250.00</price_owner_504>
     <series>H2</series>
     <mast>ZSM450</mast>
     <tyres>Vollgummireifen</tyres>
@@ -7013,7 +7451,7 @@
     <reference_number>L251549-L251558</reference_number>
     <brand>HELI</brand>
     <model>CPD35-A7LIH2</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>23320.00</price>
@@ -7034,6 +7472,8 @@
     <photo_link>https://account.bcs.tools/image/1163049/G3_%2BCPD15-35GE2DLI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-A7LIH2 (L251549-L251558)</name>
+    <markup>750</markup>
+    <price_owner_504>24070.00</price_owner_504>
     <series>H2</series>
     <mast>ZSM450</mast>
     <tyres>Vollgummireifen</tyres>
@@ -7045,7 +7485,7 @@
     <reference_number>D260608-D260613</reference_number>
     <brand>HELI</brand>
     <model>CPD35-A7LIH2</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>23320.00</price>
@@ -7066,6 +7506,8 @@
     <photo_link>https://account.bcs.tools/image/1163049/G3_%2BCPD15-35GE2DLI.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-A7LIH2 (D260608-D260613)</name>
+    <markup>750</markup>
+    <price_owner_504>24070.00</price_owner_504>
     <series>H2</series>
     <mast>ZSM450</mast>
     <tyres>Vollgummireifen</tyres>
@@ -7077,7 +7519,7 @@
     <reference_number>G253425</reference_number>
     <brand>HELI</brand>
     <model>CPD35-D11LIG2-P</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>30360.00</price>
@@ -7098,6 +7540,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-D11LIG2-P</name>
+    <markup>750</markup>
+    <price_owner_504>31110.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -7109,7 +7553,7 @@
     <reference_number>D260580-D260591</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>28900.00</price>
@@ -7130,6 +7574,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GB2LI-M (D260580-D260591)</name>
+    <markup>750</markup>
+    <price_owner_504>29650.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7141,7 +7587,7 @@
     <reference_number>G240781-G240788</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>28750.00</price>
@@ -7162,6 +7608,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GB2LI-M (G240781-G240788)</name>
+    <markup>750</markup>
+    <price_owner_504>29500.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7173,7 +7621,7 @@
     <reference_number>G253860-G253863</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>29290.00</price>
@@ -7194,6 +7642,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GB2LI-M (G253860-G253863)</name>
+    <markup>750</markup>
+    <price_owner_504>30040.00</price_owner_504>
     <series>G2</series>
     <mast>M400</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7205,7 +7655,7 @@
     <reference_number>L250484-L250485</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>29280.00</price>
@@ -7226,6 +7676,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GB2LI-M (L250484-L250485)</name>
+    <markup>750</markup>
+    <price_owner_504>30030.00</price_owner_504>
     <series>G2</series>
     <mast>M400</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7237,7 +7689,7 @@
     <reference_number>L250889-L250890</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>27650.00</price>
@@ -7258,6 +7710,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GB2LI-M (L250889-L250890)</name>
+    <markup>750</markup>
+    <price_owner_504>28400.00</price_owner_504>
     <series>G2</series>
     <mast>M330</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7269,7 +7723,7 @@
     <reference_number>D260576-D260579</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>26800.00</price>
@@ -7290,6 +7744,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GB2LI-M (D260576-D260579)</name>
+    <markup>750</markup>
+    <price_owner_504>27550.00</price_owner_504>
     <series>G2</series>
     <mast>M330</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7301,7 +7757,7 @@
     <reference_number>D260592-D260603</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>31100.00</price>
@@ -7322,6 +7778,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GB2LI-M (D260592-D260603)</name>
+    <markup>750</markup>
+    <price_owner_504>31850.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7333,7 +7791,7 @@
     <reference_number>D261988-D261992</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>36600.00</price>
@@ -7354,6 +7812,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GB2LI-M (D261988-D261992)</name>
+    <markup>750</markup>
+    <price_owner_504>37350.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7365,7 +7825,7 @@
     <reference_number>D261995-D261996</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GB2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>37800.00</price>
@@ -7386,6 +7846,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GB2LI-M (D261995-D261996)</name>
+    <markup>750</markup>
+    <price_owner_504>38550.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7397,7 +7859,7 @@
     <reference_number>L250490-L250491</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>24200.00</price>
@@ -7418,6 +7880,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GC6LI-S (L250490-L250491)</name>
+    <markup>750</markup>
+    <price_owner_504>24950.00</price_owner_504>
     <series>G2</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
@@ -7429,7 +7893,7 @@
     <reference_number>D260539-D260546</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>26500.00</price>
@@ -7450,6 +7914,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GC6LI-S (D260539-D260546)</name>
+    <markup>750</markup>
+    <price_owner_504>27250.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7461,7 +7927,7 @@
     <reference_number>L251185-L251214</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>25860.00</price>
@@ -7482,6 +7948,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GC6LI-S (L251185-L251214)</name>
+    <markup>750</markup>
+    <price_owner_504>26610.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7493,7 +7961,7 @@
     <reference_number>L251466-L251480</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>25760.00</price>
@@ -7514,6 +7982,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GC6LI-S (L251466-L251480)</name>
+    <markup>750</markup>
+    <price_owner_504>26510.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7525,7 +7995,7 @@
     <reference_number>D260547-D260554</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>23700.00</price>
@@ -7546,6 +8016,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GC6LI-S (D260547-D260554)</name>
+    <markup>750</markup>
+    <price_owner_504>24450.00</price_owner_504>
     <series>G2</series>
     <mast>M350</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7557,7 +8029,7 @@
     <reference_number>D260555-D260562</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>27200.00</price>
@@ -7578,6 +8050,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GC6LI-S (D260555-D260562)</name>
+    <markup>750</markup>
+    <price_owner_504>27950.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7589,7 +8063,7 @@
     <reference_number>D260640-D260651</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>25760.00</price>
@@ -7610,6 +8084,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GC6LI-S (D260640-D260651)</name>
+    <markup>750</markup>
+    <price_owner_504>26510.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7621,7 +8097,7 @@
     <reference_number>D260656-D260659</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>26300.00</price>
@@ -7642,6 +8118,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GC6LI-S (D260656-D260659)</name>
+    <markup>750</markup>
+    <price_owner_504>27050.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7653,7 +8131,7 @@
     <reference_number>DE262186-DE262193</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>23860.00</price>
@@ -7674,6 +8152,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GC6LI-S (DE262186-DE262193)</name>
+    <markup>750</markup>
+    <price_owner_504>24610.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7685,7 +8165,7 @@
     <reference_number>DE262198-DE262201</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>24500.00</price>
@@ -7706,6 +8186,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GC6LI-S (DE262198-DE262201)</name>
+    <markup>750</markup>
+    <price_owner_504>25250.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7717,7 +8199,7 @@
     <reference_number>DE262202-DE262205</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GC6LI-S</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>24300.00</price>
@@ -7738,6 +8220,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GC6LI-S (DE262202-DE262205)</name>
+    <markup>750</markup>
+    <price_owner_504>25050.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7749,7 +8233,7 @@
     <reference_number>D260563-D260566</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>31000.00</price>
@@ -7770,6 +8254,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GD2LI-M (D260563-D260566)</name>
+    <markup>750</markup>
+    <price_owner_504>31750.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7781,7 +8267,7 @@
     <reference_number>D260567-D260570</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>31500.00</price>
@@ -7802,6 +8288,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GD2LI-M (D260567-D260570)</name>
+    <markup>750</markup>
+    <price_owner_504>32250.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7813,7 +8301,7 @@
     <reference_number>D260571-D260574</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>30500.00</price>
@@ -7834,6 +8322,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GD2LI-M (D260571-D260574)</name>
+    <markup>750</markup>
+    <price_owner_504>31250.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7845,7 +8335,7 @@
     <reference_number>L250846-L250847</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>38000.00</price>
@@ -7866,6 +8356,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GD2LI-M (L250846-L250847)</name>
+    <markup>750</markup>
+    <price_owner_504>38750.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7877,7 +8369,7 @@
     <reference_number>D261900-D261901</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>34600.00</price>
@@ -7898,6 +8390,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GD2LI-M (D261900-D261901)</name>
+    <markup>750</markup>
+    <price_owner_504>35350.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7909,7 +8403,7 @@
     <reference_number>D261919-D261920</reference_number>
     <brand>HELI</brand>
     <model>CPD35-GD2LI-M</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
     <price>39700.00</price>
@@ -7930,6 +8424,8 @@
     <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD35-GD2LI-M (D261919-D261920)</name>
+    <markup>750</markup>
+    <price_owner_504>40450.00</price_owner_504>
     <series>G2-PLUS</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7941,7 +8437,7 @@
     <reference_number>D261981-D261982</reference_number>
     <brand>HELI</brand>
     <model>CPD50-A2DLIG3</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>58300.00</price>
@@ -7962,6 +8458,8 @@
     <photo_link>https://account.bcs.tools/image/1162999/CPD50-A2DLIG3.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD50-A2DLIG3</name>
+    <markup>750</markup>
+    <price_owner_504>59050.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -7973,7 +8471,7 @@
     <reference_number>D261650-1</reference_number>
     <brand>HELI</brand>
     <model>CPD50-G2A11LI</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>56200.00</price>
@@ -7994,6 +8492,8 @@
     <photo_link>https://account.bcs.tools/image/1163048/G2_CPD40-50-G2A.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD50-G2A11LI (D261650-1)</name>
+    <markup>750</markup>
+    <price_owner_504>56950.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -8005,7 +8505,7 @@
     <reference_number>D261650-2</reference_number>
     <brand>HELI</brand>
     <model>CPD50-G2A11LI</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>55000.00</price>
@@ -8026,6 +8526,8 @@
     <photo_link>https://account.bcs.tools/image/1163048/G2_CPD40-50-G2A.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD50-G2A11LI (D261650-2)</name>
+    <markup>750</markup>
+    <price_owner_504>55750.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -8037,7 +8539,7 @@
     <reference_number>D260345-D260347</reference_number>
     <brand>HELI</brand>
     <model>CPD50-G2A11LI-600</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>49500.00</price>
@@ -8058,6 +8560,8 @@
     <photo_link>https://account.bcs.tools/image/1163048/G2_CPD40-50-G2A.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD50-G2A11LI-600 (D260345-D260347)</name>
+    <markup>750</markup>
+    <price_owner_504>50250.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -8069,7 +8573,7 @@
     <reference_number>D261911</reference_number>
     <brand>HELI</brand>
     <model>CPD50-G2A11LI-600</model>
-    <type>Elektrischer 4-Rad-Lithium-Akku</type>
+    <type>4-Rad-Stapler mit Lithium-Ionen-Batterie</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>49500.00</price>
@@ -8090,6 +8594,8 @@
     <photo_link>https://account.bcs.tools/image/1163048/G2_CPD40-50-G2A.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPD50-G2A11LI-600 (D261911)</name>
+    <markup>750</markup>
+    <price_owner_504>50250.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
@@ -8101,7 +8607,7 @@
     <reference_number>L251149-L251151</reference_number>
     <brand>HELI</brand>
     <model>CPYD25-KU1RG3</model>
-    <type>IC LPG Stufe V</type>
+    <type>Treibgasstapler Stage V</type>
     <capacity_kg>2500</capacity_kg>
     <tonnage>2.5</tonnage>
     <price>25780.00</price>
@@ -8122,6 +8628,8 @@
     <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPYD25-KU1RG3</name>
+    <markup>750</markup>
+    <price_owner_504>26530.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -8133,7 +8641,7 @@
     <reference_number>D261969-D261972</reference_number>
     <brand>HELI</brand>
     <model>CPYD50-KUG3</model>
-    <type>IC LPG Stufe V</type>
+    <type>Treibgasstapler Stage V</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>36500.00</price>
@@ -8154,6 +8662,8 @@
     <photo_link>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPYD50-KUG3 (D261969-D261972)</name>
+    <markup>750</markup>
+    <price_owner_504>37250.00</price_owner_504>
     <series>G3</series>
     <mast>M350</mast>
     <tyres>Vollgummireifen</tyres>
@@ -8165,7 +8675,7 @@
     <reference_number>D261973-D261976</reference_number>
     <brand>HELI</brand>
     <model>CPYD50-KUG3</model>
-    <type>IC LPG Stufe V</type>
+    <type>Treibgasstapler Stage V</type>
     <capacity_kg>5000</capacity_kg>
     <tonnage>5.0</tonnage>
     <price>38900.00</price>
@@ -8186,6 +8696,8 @@
     <photo_link>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CPYD50-KUG3 (D261973-D261976)</name>
+    <markup>750</markup>
+    <price_owner_504>39650.00</price_owner_504>
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
@@ -8218,6 +8730,8 @@
     <photo_link>https://account.bcs.tools/image/1163027/G2%20reach%20%201.6-2t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CQD16-GB2SHDLI</name>
+    <markup>350</markup>
+    <price_owner_504>38930.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM950</mast>
     <tyres>PU-Reifen</tyres>
@@ -8250,6 +8764,8 @@
     <photo_link>https://account.bcs.tools/image/1163027/G2%20reach%20%201.6-2t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CQD20-GB2SHDLI (L251493)</name>
+    <markup>350</markup>
+    <price_owner_504>39550.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM1000</mast>
     <tyres>PU-Reifen</tyres>
@@ -8282,6 +8798,8 @@
     <photo_link>https://account.bcs.tools/image/1163027/G2%20reach%20%201.6-2t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CQD20-GB2SHDLI (L251494)</name>
+    <markup>350</markup>
+    <price_owner_504>37850.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM900</mast>
     <tyres>PU-Reifen</tyres>
@@ -8314,6 +8832,8 @@
     <photo_link>https://account.bcs.tools/image/1163027/G2%20reach%20%201.6-2t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CQD20-GB2SHDLI (D260529-D260530)</name>
+    <markup>350</markup>
+    <price_owner_504>38350.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM950</mast>
     <tyres>PU-Reifen</tyres>
@@ -8346,6 +8866,8 @@
     <photo_link>https://account.bcs.tools/image/1163027/G2%20reach%20%201.6-2t.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI CQD20-GB2SHDLI (L251321)</name>
+    <markup>350</markup>
+    <price_owner_504>41350.00</price_owner_504>
     <series>G2</series>
     <mast>ZSM1150</mast>
     <tyres>PU-Reifen</tyres>
@@ -8378,6 +8900,8 @@
     <photo_link>https://account.bcs.tools/image/1163053/OPSM-2.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI OPD20L-A2LIH</name>
+    <markup>350</markup>
+    <price_owner_504>11150.00</price_owner_504>
     <series>H4</series>
     <mast></mast>
     <tyres></tyres>
@@ -8410,6 +8934,8 @@
     <photo_link>https://account.bcs.tools/image/1163053/OPSM-2.webp</photo_link>
     <has_image>1</has_image>
     <name>HELI OPD25L-A2LIH</name>
+    <markup>350</markup>
+    <price_owner_504>15720.00</price_owner_504>
     <series>H4</series>
     <mast></mast>
     <tyres></tyres>
