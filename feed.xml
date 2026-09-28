@@ -719,7 +719,7 @@
     <reference_number>D261526-D261559</reference_number>
     <brand>HELI</brand>
     <model>CDD12J</model>
-    <type>Hochhubwagen</type>
+    <type>CDD12J</type>
     <capacity_kg>1200</capacity_kg>
     <tonnage>1.2</tonnage>
     <price>2610.00</price>
