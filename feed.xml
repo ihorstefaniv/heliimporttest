@@ -2275,7 +2275,7 @@
     <series>G3</series>
     <mast>M450</mast>
     <tyres>Vordere Doppel-Vollgummireifen</tyres>
-    <attachments>Integrierter Gabelversteller mit Seitenverschiebung</attachments>
+    <attachments>Integrierter Gabelversteller mit Seitenschaltung</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -2343,7 +2343,7 @@
     <series>G3</series>
     <mast>ZSM600</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -2377,7 +2377,7 @@
     <series>G3</series>
     <mast>ZSM540</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -2411,7 +2411,7 @@
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -2513,7 +2513,7 @@
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -2547,7 +2547,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -2581,7 +2581,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -2615,7 +2615,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -2649,7 +2649,7 @@
     <series>G3</series>
     <mast>M330</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -2717,7 +2717,7 @@
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -2751,7 +2751,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -2785,7 +2785,7 @@
     <series>G3</series>
     <mast>M350</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -2819,7 +2819,7 @@
     <series>G3</series>
     <mast>M350</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -2907,7 +2907,7 @@
     <voltage></voltage>
     <battery_capacity></battery_capacity>
     <forks_dimensions>2440</forks_dimensions>
-    <special_options>Zentrale automatische Schmieranlage / Wiegesystem, M400 4-Ventil, Gabelverstellung und Seitenschub, Vollgummireifen, zentrale automatische Schmieranlage, Wiegesystem, Grammar-Federungssitz, OPS, Rückfahrradar, Kabine und Klimaanlage</special_options>
+    <special_options>Zentrale automatische Schmierung / Wiegesystem, M400 4-Ventil, Gabelversteller und Seitenschaltung, Vollgummireifen, Zentrale automatische Schmierung, Wiegesystem, Grammar-Federungssitz, OPS, Rückfahrradar, Kabine und Klimaanlage</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>012503K0710</serial_number>
     <image_url>https://account.bcs.tools/image/1163074/G2_IC_12-46t.webp</image_url>
@@ -2921,7 +2921,7 @@
     <series>G2</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>Integrierter Gabelversteller mit Seitenverschiebung</attachments>
+    <attachments>Integrierter Gabelversteller mit Seitenschaltung</attachments>
     <cabin>Kabine, Heizung und Klimaanlage</cabin>
   </product>
   <product>
@@ -2955,7 +2955,7 @@
     <series>H3</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3023,7 +3023,7 @@
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3057,7 +3057,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3091,7 +3091,7 @@
     <series>G3</series>
     <mast>ZSM600</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3125,7 +3125,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3159,7 +3159,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3193,7 +3193,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -3227,7 +3227,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3295,7 +3295,7 @@
     <series>G3</series>
     <mast>ZSM540</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3397,7 +3397,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Luftreifen</tyres>
-    <attachments>Haken am Seitenschalthebel</attachments>
+    <attachments>Seitenschaltung mit Haken</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3465,7 +3465,7 @@
     <series>R</series>
     <mast>ZSM470</mast>
     <tyres>Luftreifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3499,7 +3499,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Halbkabine</cabin>
   </product>
   <product>
@@ -3533,7 +3533,7 @@
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Halbkabine</cabin>
   </product>
   <product>
@@ -3567,7 +3567,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3601,7 +3601,7 @@
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3669,7 +3669,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>Integrierter Gabelversteller mit Seitenverschiebung</attachments>
+    <attachments>Integrierter Gabelversteller mit Seitenschaltung</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3689,7 +3689,7 @@
     <voltage></voltage>
     <battery_capacity></battery_capacity>
     <forks_dimensions>1520</forks_dimensions>
-    <special_options>FEM III, 4-Ventil, Gramma-Federungssitz, Seitenschalthebel und Gabelversteller TY45G-B3, LED-Beleuchtung</special_options>
+    <special_options>FEM III, 4-Ventil, Grammar-Federungssitz, Seitenschaltung und Gabelversteller TY45G-B3, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>010506L7063</serial_number>
     <image_url>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</image_url>
@@ -3757,7 +3757,7 @@
     <voltage></voltage>
     <battery_capacity></battery_capacity>
     <forks_dimensions>1520</forks_dimensions>
-    <special_options>FEM III, 4 Ventile, Grammer-Federungssitz, Seitenschieber und Gabelverstellung, LED-Beleuchtung</special_options>
+    <special_options>FEM III, 4-Ventil, Grammar-Federungssitz, Seitenschaltung und Gabelversteller, LED-Beleuchtung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>010506M2060</serial_number>
     <image_url>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</image_url>
@@ -3805,7 +3805,7 @@
     <series>G3</series>
     <mast>M350</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>Integrierter Gabelversteller mit Seitenverschiebung</attachments>
+    <attachments>Integrierter Gabelversteller mit Seitenschaltung</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3839,7 +3839,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>Integrierter Gabelversteller mit Seitenverschiebung</attachments>
+    <attachments>Integrierter Gabelversteller mit Seitenschaltung</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3873,7 +3873,7 @@
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>Haken-Gabelverstellung mit Seitenschieber</attachments>
+    <attachments>Gabelversteller mit Haken und Seitenschaltung</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3907,7 +3907,7 @@
     <series>G3</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>Haken-Gabelverstellung mit Seitenschieber</attachments>
+    <attachments>Gabelversteller mit Haken und Seitenschaltung</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -3927,7 +3927,7 @@
     <voltage></voltage>
     <battery_capacity></battery_capacity>
     <forks_dimensions>1200</forks_dimensions>
-    <special_options>4 Ventile, Haken-Seitenschieber, Grammer-Federungssitz, OPS, LED-Rundumleuchte und Arbeitsscheinwerfer hinten</special_options>
+    <special_options>4-Ventil, Seitenschaltung mit Haken, Grammar-Federungssitz, OPS, LED-Rundumleuchte und Arbeitsscheinwerfer hinten</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>390254X1326, 390254X1325, 390254X1323, 390254Y9376, 390254Y9377, 390254Y9378, 390254Y9375, 390254Y9373, 390254Y9374, 390254Y9379, 390254Y9370, 390254Y9371, 390254Y9372</serial_number>
     <image_url>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</image_url>
@@ -3975,7 +3975,7 @@
     <series>G2</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>Integrierter Gabelversteller mit Seitenverschiebung</attachments>
+    <attachments>Integrierter Gabelversteller mit Seitenschaltung</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -4097,7 +4097,7 @@
     <voltage>24</voltage>
     <battery_capacity>280</battery_capacity>
     <forks_dimensions>1200</forks_dimensions>
-    <special_options>ZSM450, Einzel-IHR, 3 Ventile, abriebfeste Vollgummireifen, integrierter Seitenschalthebel, LED-Beleuchtung, Bordladegerät</special_options>
+    <special_options>Dreifachmast450, Einzel-IHR, 3 Ventile, abriebfeste Vollgummireifen, integrierter Seitenschalthebel, LED-Beleuchtung, Bordladegerät</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>060124Z1100, 060124Z1099, 060124Z1098, 060124Z1097, 060124Z8704, 060124Z8705, 060124Z8706</serial_number>
     <image_url>https://account.bcs.tools/image/1163054/H4_CPD08-12SQ.webp</image_url>
@@ -4131,7 +4131,7 @@
     <voltage>618.24</voltage>
     <battery_capacity>302</battery_capacity>
     <forks_dimensions>2400</forks_dimensions>
-    <special_options>Gabelverstellung mit Seitenschalthebel, Vollgummireifen, LED-Beleuchtung, blauer Spot, LED-Rundumleuchte, 750V 160A 120kW, Grammer-Federungssitz, automatisches Zentralschmiersystem, Rückfahrkamera mit Sensoren, Fingertips</special_options>
+    <special_options>Gabelversteller mit Seitenschaltung, Vollgummireifen, LED-Beleuchtung, Blaulicht, LED-Rundumleuchte, 750 V 160 A 120 kW, Grammar-Federungssitz, Automatische zentrale Schmierung, Rückfahrkamera mit Sensoren, Fingertips</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>051603T2789</serial_number>
     <image_url></image_url>
@@ -4145,7 +4145,7 @@
     <series>G</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>Seitenschalthebel und Gabelverstellung</attachments>
+    <attachments>Seitenschaltung und Gabelverstellung</attachments>
     <cabin>Kabine, Heizung und Klimaanlage</cabin>
   </product>
   <product>
@@ -4179,7 +4179,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -4213,7 +4213,7 @@
     <series>G3</series>
     <mast>ZSM600</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -4247,7 +4247,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -4281,7 +4281,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -4315,7 +4315,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -4349,7 +4349,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -4383,7 +4383,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -4417,7 +4417,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -4451,7 +4451,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -4485,7 +4485,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -4519,7 +4519,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -4553,7 +4553,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -4587,7 +4587,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -4621,7 +4621,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -4655,7 +4655,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -4689,7 +4689,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -4723,7 +4723,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -4757,7 +4757,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -4791,7 +4791,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -4859,7 +4859,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -4893,7 +4893,7 @@
     <series>G2</series>
     <mast>ZSM600</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>Haken-Gabelverstellung mit Seitenschalthebel</attachments>
+    <attachments>Einhänge-Gabelverstellung mit Seitenverstellung</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -4927,7 +4927,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Halbkabine</cabin>
   </product>
   <product>
@@ -4961,7 +4961,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -4995,7 +4995,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>Haken am Seitenschalthebel</attachments>
+    <attachments>Seitenschaltung mit Haken</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -5029,7 +5029,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -5063,7 +5063,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -5097,7 +5097,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Dachfenster</cabin>
   </product>
   <product>
@@ -5131,7 +5131,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Dachfenster</cabin>
   </product>
   <product>
@@ -5199,7 +5199,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Dachfenster</cabin>
   </product>
   <product>
@@ -5233,7 +5233,7 @@
     <series>G3</series>
     <mast>ZM300</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Dachfenster</cabin>
   </product>
   <product>
@@ -5267,7 +5267,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -5301,7 +5301,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Dachfenster</cabin>
   </product>
   <product>
@@ -5335,7 +5335,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -5369,7 +5369,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -5403,7 +5403,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Kabine und Heizung</cabin>
   </product>
   <product>
@@ -5437,7 +5437,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -5471,7 +5471,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -5505,7 +5505,7 @@
     <series>G3</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -5539,7 +5539,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -5573,7 +5573,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -5607,7 +5607,7 @@
     <series>G3</series>
     <mast>ZSM480</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -5641,7 +5641,7 @@
     <series>H4</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -5811,7 +5811,7 @@
     <series>G2</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -5845,7 +5845,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -5879,7 +5879,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Halbkabine</cabin>
   </product>
   <product>
@@ -5913,7 +5913,7 @@
     <series>G2</series>
     <mast>M400</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -5947,7 +5947,7 @@
     <series>G2</series>
     <mast>M370</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -5981,7 +5981,7 @@
     <series>G2</series>
     <mast>M400</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -6015,7 +6015,7 @@
     <series>G2</series>
     <mast>M330</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -6117,7 +6117,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -6151,7 +6151,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -6185,7 +6185,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -6219,7 +6219,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -6253,7 +6253,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -6287,7 +6287,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -6321,7 +6321,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -6355,7 +6355,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -6389,7 +6389,7 @@
     <series>G2</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -6423,7 +6423,7 @@
     <series>G2-PLUS</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -6457,7 +6457,7 @@
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -6491,7 +6491,7 @@
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -6525,7 +6525,7 @@
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -6559,7 +6559,7 @@
     <series>G2-PLUS</series>
     <mast>M350</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -7069,7 +7069,7 @@
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -7137,7 +7137,7 @@
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -7171,7 +7171,7 @@
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -7205,7 +7205,7 @@
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -7239,7 +7239,7 @@
     <series>G2-PLUS</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -7273,7 +7273,7 @@
     <series>G2-PLUS</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -7307,7 +7307,7 @@
     <series>H4</series>
     <mast>M330</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -7545,7 +7545,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -7579,7 +7579,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -7613,7 +7613,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Oberes Fenster</cabin>
   </product>
   <product>
@@ -7647,7 +7647,7 @@
     <series>G2</series>
     <mast>M400</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -7681,7 +7681,7 @@
     <series>G2</series>
     <mast>M400</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -7715,7 +7715,7 @@
     <series>G2</series>
     <mast>M330</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -7749,7 +7749,7 @@
     <series>G2</series>
     <mast>M330</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -7783,7 +7783,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -7817,7 +7817,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -7885,7 +7885,7 @@
     <series>G2</series>
     <mast>M400</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -7919,7 +7919,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -7953,7 +7953,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -7987,7 +7987,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -8021,7 +8021,7 @@
     <series>G2</series>
     <mast>M350</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -8055,7 +8055,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -8089,7 +8089,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -8123,7 +8123,7 @@
     <series>G2</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -8157,7 +8157,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdach/Frontscheibe</cabin>
   </product>
   <product>
@@ -8225,7 +8225,7 @@
     <series>G2</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdach/Frontscheibe</cabin>
   </product>
   <product>
@@ -8327,7 +8327,7 @@
     <series>G2-PLUS</series>
     <mast>ZSM540</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hochdachfenster</cabin>
   </product>
   <product>
@@ -8483,7 +8483,7 @@
     <voltage>153</voltage>
     <battery_capacity>230</battery_capacity>
     <forks_dimensions>1520</forks_dimensions>
-    <special_options>Gewichtssystem, Fingertips, ADAS-System, ZSM470, Dual-IHR, 4 Ventile, abriebfeste Vollgummireifen, seitlicher Schalthebel und Gabelverstellung, Grammer-Federungssitz mit vollständigem OPS, LED-Front- und Rückleuchten, 150V-100A-Ladegerät…</special_options>
+    <special_options>Gewichtssystem, Fingertips, ADAS-System, ZSM470, Dual IHR, 4-Ventil, abriebfester Vollgummireifen, Einhänge-Gabelverstellung &amp; Seitenverstellung, Grammer-Federungssitz mit Full OPS, LED-Front- und Rückleuchten, 150V-100A-Ladegerät, Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050503T6880, 050503T6881</serial_number>
     <image_url>https://account.bcs.tools/image/1163048/G2_CPD40-50-G2A.webp</image_url>
@@ -8497,7 +8497,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>Seitlicher Schalthebel mit Seitenverstellung TY45GK-B11</attachments>
+    <attachments>Einhänge-Gabelverstellung mit Seitenverstellung TY45GK-B11</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -8517,7 +8517,7 @@
     <voltage>153</voltage>
     <battery_capacity>230</battery_capacity>
     <forks_dimensions>1520</forks_dimensions>
-    <special_options>Gewichtssystem, Fingertips, ADAS-System, ZSM470, Dual-IHR, 4 Ventile, abriebfeste Vollgummireifen, seitlicher Schalthebel und Gabelverstellung, Grammer-Federungssitz mit vollständigem OPS, LED-Front- und Rückleuchten, 150V-100A-Ladegerät…</special_options>
+    <special_options>Gewichtssystem, Fingertips, ADAS-System, ZSM470, Dual IHR, 4-Ventil, abriebfester Vollgummireifen, Einhänge-Gabelverstellung &amp; Seitenverstellung, Grammer-Federungssitz mit Full OPS, LED-Front- und Rückleuchten, 150V-100A-Ladegerät, Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050503T6423</serial_number>
     <image_url>https://account.bcs.tools/image/1163048/G2_CPD40-50-G2A.webp</image_url>
@@ -8531,7 +8531,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>Seitlicher Schalthebel mit Seitenverstellung TY45GK-B11</attachments>
+    <attachments>Einhänge-Gabelverstellung mit Seitenverstellung TY45GK-B11</attachments>
     <cabin>Hochkabine</cabin>
   </product>
   <product>
@@ -8551,7 +8551,7 @@
     <voltage>153</voltage>
     <battery_capacity>230</battery_capacity>
     <forks_dimensions>1600</forks_dimensions>
-    <special_options>ZSM470, Doppel-IHR, 4 Ventile, Vollgummireifen ohne Markierungen, Gabelverstellung und Seitenschaltung, Grammer-Federungssitz mit vollständiger OPS, LED-Front- und Rückleuchten, 150V-100A-Ladegerät, Kabine und Heizung</special_options>
+    <special_options>ZSM470, Dual IHR, 4-Ventil, abriebfester Vollgummireifen, Einhänge-Gabelverstellung &amp; Seitenverstellung, Grammer-Federungssitz mit Full OPS, LED-Front- und Rückleuchten, 150V-100A-Ladegerät, Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050503S3995</serial_number>
     <image_url>https://account.bcs.tools/image/1163048/G2_CPD40-50-G2A.webp</image_url>
@@ -8565,7 +8565,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>Haken-Gabelverstellung mit Seitenschieber</attachments>
+    <attachments>Gabelversteller mit Haken und Seitenschaltung</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -8585,7 +8585,7 @@
     <voltage>153</voltage>
     <battery_capacity>230</battery_capacity>
     <forks_dimensions>1600</forks_dimensions>
-    <special_options>ZSM470, Doppel-IHR, 4 Ventile, Vollgummireifen ohne Markierungen, Gabelverstellung und Seitenschaltung, Grammer-Federungssitz mit vollständiger OPS, LED-Front- und Rückleuchten, 150V-100A-Ladegerät, Kabine und Heizung</special_options>
+    <special_options>ZSM470, Dual IHR, 4-Ventil, abriebfester Vollgummireifen, Einhänge-Gabelverstellung &amp; Seitenverstellung, Grammer-Federungssitz mit Full OPS, LED-Front- und Rückleuchten, 150V-100A-Ladegerät, Kabine und Heizung</special_options>
     <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
     <serial_number>050503T9300</serial_number>
     <image_url>https://account.bcs.tools/image/1163048/G2_CPD40-50-G2A.webp</image_url>
@@ -8599,7 +8599,7 @@
     <series>G2</series>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
-    <attachments>Haken-Gabelverstellung mit Seitenschieber</attachments>
+    <attachments>Gabelversteller mit Haken und Seitenschaltung</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
@@ -8633,7 +8633,7 @@
     <series>G3</series>
     <mast>ZSM470</mast>
     <tyres>Vollgummireifen</tyres>
-    <attachments>HELI Hook-on Sideshift</attachments>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
     <cabin>Hohe Kabine und Heizung</cabin>
   </product>
   <product>
