@@ -7080,7 +7080,7 @@
     <type>4-Rad-Stapler Li-ion</type>
     <capacity_kg>3500</capacity_kg>
     <tonnage>3.5</tonnage>
-    <price>38.00</price>
+    <price>38000.00</price>
     <available>true</available>
     <qty>2</qty>
     <controller>ZAPI</controller>
@@ -7098,7 +7098,7 @@
     <has_image>1</has_image>
     <name>CPD35</name>
     <markup>750</markup>
-    <price_owner_504>788.00</price_owner_504>
+    <price_owner_504>38750.00</price_owner_504>
     <serial_number>05035DT4515, 05035DT4514</serial_number>
     <mast>ZSM470</mast>
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
