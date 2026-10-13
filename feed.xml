@@ -7786,4 +7786,1466 @@
     <attachments></attachments>
     <cabin></cabin>
   </product>
+  <product>
+    <id>00001</id>
+    <reference_number>G240616-G240695</reference_number>
+    <brand>HELI</brand>
+    <model>CBD15-BLIH</model>
+    <type>Niederhubwagen Li-ion</type>
+    <capacity_kg>1500</capacity_kg>
+    <tonnage></tonnage>
+    <price>1500.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>SUWEI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>40</battery_capacity>
+    <forks_dimensions>550x1150</forks_dimensions>
+    <special_options>Externes Ladegerät, Balancerad, intelligenter Griff, PIN-Eingabe</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1162995/CBD15-20-A-BLIH.webp</image_url>
+    <photo_match>family 95: CBD15-20-A-BLIH.webp</photo_match>
+    <photo_name>CBD15-20-A-BLIH.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1162995/CBD15-20-A-BLIH.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CBD15</name>
+    <markup></markup>
+    <price_owner_504>1850.00</price_owner_504>
+    <serial_number>08015XA8968</serial_number>
+    <mast></mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00003</id>
+    <reference_number>L250575</reference_number>
+    <brand>HELI</brand>
+    <model>CBD15C-LI4</model>
+    <type>Niederhubwagen Li-ion</type>
+    <capacity_kg>1500</capacity_kg>
+    <tonnage></tonnage>
+    <price>1360.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>Chinesischer Kontrolleur</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>48</voltage>
+    <battery_capacity>10</battery_capacity>
+    <forks_dimensions>550x1150</forks_dimensions>
+    <special_options>Ladegerät, Balancerad</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1162988/CBD15-18-20J-LI-S.webp</image_url>
+    <photo_match>family 73: CBD15-18-20J-LI-S.webp</photo_match>
+    <photo_name>CBD15-18-20J-LI-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1162988/CBD15-18-20J-LI-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CBD15C</name>
+    <markup></markup>
+    <price_owner_504>1710.00</price_owner_504>
+    <serial_number>08015CA0254</serial_number>
+    <mast></mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00008</id>
+    <reference_number>G250610</reference_number>
+    <brand>HELI</brand>
+    <model>CBD20-A2SZLIH</model>
+    <type>Niederhubwagen Li-ion</type>
+    <capacity_kg>2000</capacity_kg>
+    <tonnage></tonnage>
+    <price>12640.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>456</battery_capacity>
+    <forks_dimensions>550x1150</forks_dimensions>
+    <special_options>Ladegerät</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1162991/CBD20-A2SZLIH.webp</image_url>
+    <photo_match>exact 900: CBD20-A2SZLIH.webp</photo_match>
+    <photo_name>CBD20-A2SZLIH.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1162991/CBD20-A2SZLIH.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CBD20</name>
+    <markup></markup>
+    <price_owner_504>12990.00</price_owner_504>
+    <serial_number>08020XA9419</serial_number>
+    <mast></mast>
+    <tyres></tyres>
+    <series>H4</series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00012</id>
+    <reference_number>L250576</reference_number>
+    <brand>HELI</brand>
+    <model>CBD20C-LI4</model>
+    <type>Niederhubwagen Li-ion</type>
+    <capacity_kg>2000</capacity_kg>
+    <tonnage></tonnage>
+    <price>1610.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>Chinesischer Kontrolleur</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>48</voltage>
+    <battery_capacity>20</battery_capacity>
+    <forks_dimensions>550x1150</forks_dimensions>
+    <special_options>Ladegerät, Balancerad</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1162988/CBD15-18-20J-LI-S.webp</image_url>
+    <photo_match>family 73: CBD15-18-20J-LI-S.webp</photo_match>
+    <photo_name>CBD15-18-20J-LI-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1162988/CBD15-18-20J-LI-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CBD20C</name>
+    <markup></markup>
+    <price_owner_504>1960.00</price_owner_504>
+    <serial_number>08020CA0334</serial_number>
+    <mast></mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00021</id>
+    <reference_number>D261442-D261475</reference_number>
+    <brand>HELI</brand>
+    <model>CDD12J</model>
+    <type>Hochhubwagen</type>
+    <capacity_kg>1200</capacity_kg>
+    <tonnage></tonnage>
+    <price>2610.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>CURTIS</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Wartungsfrei</battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>100</battery_capacity>
+    <forks_dimensions>570x1150</forks_dimensions>
+    <special_options>M250, eingebautes Ladegerät</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</image_url>
+    <photo_match>family 95: CDD12-15J-LI.webp</photo_match>
+    <photo_name>CDD12-15J-LI.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CDD12J</name>
+    <markup></markup>
+    <price_owner_504>2960.00</price_owner_504>
+    <serial_number>08012JVA777, 08012JVA776</serial_number>
+    <mast>M250</mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00036</id>
+    <reference_number>L250660-L250668</reference_number>
+    <brand>HELI</brand>
+    <model>CDD12R-S</model>
+    <type>Hochhubwagen mit Initialhub</type>
+    <capacity_kg>1200</capacity_kg>
+    <tonnage></tonnage>
+    <price>4420.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>CURTIS</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type></battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>105</battery_capacity>
+    <forks_dimensions>570x1150</forks_dimensions>
+    <special_options>M250, eingebautes Ladegerät</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163059/CDD10-12RD-S.webp</image_url>
+    <photo_match>family 67: CDD10-12RD-S.webp</photo_match>
+    <photo_name>CDD10-12RD-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163059/CDD10-12RD-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CDD12R</name>
+    <markup></markup>
+    <price_owner_504>4770.00</price_owner_504>
+    <serial_number>08012RA2412, 08012RA2409, 08012RA2408, 08012RA2407, 08012RA2406, 08012RA2405</serial_number>
+    <mast>M250</mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00037</id>
+    <reference_number>L251280-L251283</reference_number>
+    <brand>HELI</brand>
+    <model>CDD12R-S</model>
+    <type>Hochhubwagen mit Initialhub</type>
+    <capacity_kg>1200</capacity_kg>
+    <tonnage></tonnage>
+    <price>4560.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>CURTIS</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type></battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>105</battery_capacity>
+    <forks_dimensions>570x1150</forks_dimensions>
+    <special_options>M330, eingebautes Ladegerät</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163059/CDD10-12RD-S.webp</image_url>
+    <photo_match>family 67: CDD10-12RD-S.webp</photo_match>
+    <photo_name>CDD10-12RD-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163059/CDD10-12RD-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CDD12R</name>
+    <markup></markup>
+    <price_owner_504>4910.00</price_owner_504>
+    <serial_number>08012RA2514, 08012RA2513</serial_number>
+    <mast>M330</mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00038</id>
+    <reference_number>L251271-L251279</reference_number>
+    <brand>HELI</brand>
+    <model>CDD12R-S</model>
+    <type>Hochhubwagen mit Initialhub</type>
+    <capacity_kg>1200</capacity_kg>
+    <tonnage></tonnage>
+    <price>4420.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>CURTIS</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type></battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>105</battery_capacity>
+    <forks_dimensions>570x1150</forks_dimensions>
+    <special_options>M300, eingebautes Ladegerät</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163059/CDD10-12RD-S.webp</image_url>
+    <photo_match>family 67: CDD10-12RD-S.webp</photo_match>
+    <photo_name>CDD10-12RD-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163059/CDD10-12RD-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CDD12R</name>
+    <markup></markup>
+    <price_owner_504>4770.00</price_owner_504>
+    <serial_number>08012RA2505</serial_number>
+    <mast>M300</mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00039</id>
+    <reference_number>DE262128-DE262041</reference_number>
+    <brand>HELI</brand>
+    <model>CDD15C-S</model>
+    <type>Hochhubwagen mit Initialhub</type>
+    <capacity_kg>1500</capacity_kg>
+    <tonnage></tonnage>
+    <price>3300.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>Chinesischer Kontrolleur</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Wartungsfrei</battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>85</battery_capacity>
+    <forks_dimensions>570x1150</forks_dimensions>
+    <special_options>M250, eingebautes Ladegerät</special_options>
+    <delivery_status>Friedberg-Hessen / Mitte Oktober.</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163066/CDD15-20J-S.webp</image_url>
+    <photo_match>family 73: CDD15-20J-S.webp</photo_match>
+    <photo_name>CDD15-20J-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163066/CDD15-20J-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CDD15C</name>
+    <markup></markup>
+    <price_owner_504>3650.00</price_owner_504>
+    <serial_number>CDD15CS0014, CDD15CS0013, CDD15CS0012, CDD15CS0011, CDD15CS0010, CDD15CS0009, CDD15CS0008, CDD15CS0007, CDD15CS0006, CDD15CS0005, CDD15CS0004, CDD15CS0003, CDD15CS0002, CDD15CS0001</serial_number>
+    <mast>M250</mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00040</id>
+    <reference_number>DE262142-DE262155</reference_number>
+    <brand>HELI</brand>
+    <model>CDD15C-S</model>
+    <type>Hochhubwagen mit Initialhub</type>
+    <capacity_kg>1500</capacity_kg>
+    <tonnage></tonnage>
+    <price>3300.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>Chinesischer Kontrolleur</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Wartungsfrei</battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>85</battery_capacity>
+    <forks_dimensions>570x1150</forks_dimensions>
+    <special_options>M300, eingebautes Ladegerät</special_options>
+    <delivery_status>Friedberg-Hessen / Mitte Oktober.</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163066/CDD15-20J-S.webp</image_url>
+    <photo_match>family 73: CDD15-20J-S.webp</photo_match>
+    <photo_name>CDD15-20J-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163066/CDD15-20J-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CDD15C</name>
+    <markup></markup>
+    <price_owner_504>3650.00</price_owner_504>
+    <serial_number>CDD15CS0028, CDD15CS0027, CDD15CS0026, CDD15CS0025, CDD15CS0024, CDD15CS0023, CDD15CS0022, CDD15CS0021, CDD15CS0020, CDD15CS0019, CDD15CS0018, CDD15CS0017, CDD15CS0016, CDD15CS0015</serial_number>
+    <mast>M300</mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00041</id>
+    <reference_number>DE262156-DE262161</reference_number>
+    <brand>HELI</brand>
+    <model>CDD15C-S</model>
+    <type>Hochhubwagen mit Initialhub</type>
+    <capacity_kg>1500</capacity_kg>
+    <tonnage></tonnage>
+    <price>3800.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>Chinesischer Kontrolleur</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Wartungsfrei</battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>85</battery_capacity>
+    <forks_dimensions>570x1150</forks_dimensions>
+    <special_options>M350, eingebautes Ladegerät</special_options>
+    <delivery_status>Friedberg-Hessen / Mitte Oktober.</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163066/CDD15-20J-S.webp</image_url>
+    <photo_match>family 73: CDD15-20J-S.webp</photo_match>
+    <photo_name>CDD15-20J-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163066/CDD15-20J-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CDD15C</name>
+    <markup></markup>
+    <price_owner_504>4150.00</price_owner_504>
+    <serial_number>CDD15CS0034, CDD15CS0033, CDD15CS0032, CDD15CS0031, CDD15CS0030, CDD15CS0029</serial_number>
+    <mast>M350</mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00051</id>
+    <reference_number>D261798-D261811</reference_number>
+    <brand>HELI</brand>
+    <model>CDD15J-LI</model>
+    <type>Hochhubwagen Li-ion</type>
+    <capacity_kg>1500</capacity_kg>
+    <tonnage></tonnage>
+    <price>3490.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>CURTIS</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>60</battery_capacity>
+    <forks_dimensions>570x1150</forks_dimensions>
+    <special_options>Ladegerät 24V-30A</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</image_url>
+    <photo_match>family 105: CDD12-15J-LI.webp</photo_match>
+    <photo_name>CDD12-15J-LI.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CDD15J</name>
+    <markup></markup>
+    <price_owner_504>3840.00</price_owner_504>
+    <serial_number>08015JVK820, 08015JVK819, 08015JVK818, 08015JVK817, 08015JVK816, 08015JVK815, 08015JVK814, 08015JVK813, 08015JVK812, 08015JVK811</serial_number>
+    <mast>M300</mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00052</id>
+    <reference_number>D261812-D261831</reference_number>
+    <brand>HELI</brand>
+    <model>CDD15J-LI</model>
+    <type>Hochhubwagen Li-ion</type>
+    <capacity_kg>1500</capacity_kg>
+    <tonnage></tonnage>
+    <price>3700.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>CURTIS</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>60</battery_capacity>
+    <forks_dimensions>570x1150</forks_dimensions>
+    <special_options>Ladegerät 24V-30A</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</image_url>
+    <photo_match>family 105: CDD12-15J-LI.webp</photo_match>
+    <photo_name>CDD12-15J-LI.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163067/CDD12-15J-LI.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CDD15J</name>
+    <markup></markup>
+    <price_owner_504>4050.00</price_owner_504>
+    <serial_number>08015JVK805, 08015JVK804, 08015JVK803, 08015JVK802, 08015JVK801, 08015JVK800, 08015JVK799, 08015JVK798, 08015JVK797, 08015JVK796, 08015JVK795, 08015JVK794, 08015JVK793, 08015JVK792, 08015JVK791, 08015JVK790, 08015JVK789, 08015JVK788, 08015JVK787</serial_number>
+    <mast>M350</mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00054</id>
+    <reference_number>D261131-D261140</reference_number>
+    <brand>HELI</brand>
+    <model>CDD15J-ZSM</model>
+    <type>Hochhubwagen</type>
+    <capacity_kg>1500</capacity_kg>
+    <tonnage></tonnage>
+    <price>8240.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>CURTIS</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type></battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>210</battery_capacity>
+    <forks_dimensions>570x1150</forks_dimensions>
+    <special_options>CHARGER</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163065/CDD15-ZSM.webp</image_url>
+    <photo_match>family 95: CDD15-ZSM.webp</photo_match>
+    <photo_name>CDD15-ZSM.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163065/CDD15-ZSM.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CDD15J</name>
+    <markup></markup>
+    <price_owner_504>8590.00</price_owner_504>
+    <serial_number>08015JUN105, 08015JUN103</serial_number>
+    <mast>ZSM460</mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00056</id>
+    <reference_number>D261182-D261191</reference_number>
+    <brand>HELI</brand>
+    <model>CDD15J-ZSM-LI</model>
+    <type>Hochhubwagen</type>
+    <capacity_kg>1500</capacity_kg>
+    <tonnage></tonnage>
+    <price>7200.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>CURTIS</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>150</battery_capacity>
+    <forks_dimensions>570x1150</forks_dimensions>
+    <special_options>CHARGER</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163040/CDD15J-ZSM-Li.webp</image_url>
+    <photo_match>exact 900: CDD15J-ZSM-Li.webp</photo_match>
+    <photo_name>CDD15J-ZSM-Li.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163040/CDD15J-ZSM-Li.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CDD15J</name>
+    <markup></markup>
+    <price_owner_504>7550.00</price_owner_504>
+    <serial_number>08015JUN088, 08015JUN089</serial_number>
+    <mast>ZSM460</mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00057</id>
+    <reference_number>L251629-L251634</reference_number>
+    <brand>HELI</brand>
+    <model>CDD16-A2FLIH</model>
+    <type>Hochhubwagen Li-ion</type>
+    <capacity_kg>1600</capacity_kg>
+    <tonnage></tonnage>
+    <price>12650.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>205</battery_capacity>
+    <forks_dimensions>570x1150</forks_dimensions>
+    <special_options>ZAPI-Steuerung, EPS, elektromagnetische Bremse, Fahrgeschwindigkeit (voll beladen, unbeladen): 9 km/h, Hubhöhe, Senkhöhe: X, 90 mm, Proportionalhub inklusive, Proportionalgriff</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</image_url>
+    <photo_match>family 73: CDD16_20-A2LIH.webp</photo_match>
+    <photo_name>CDD16_20-A2LIH.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CDD16</name>
+    <markup></markup>
+    <price_owner_504>13000.00</price_owner_504>
+    <serial_number>17016XB7702</serial_number>
+    <mast>ZSM540</mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00058</id>
+    <reference_number>L251372-L251377</reference_number>
+    <brand>HELI</brand>
+    <model>CDD16-A2FLIH</model>
+    <type>Hochhubwagen Li-ion</type>
+    <capacity_kg>1600</capacity_kg>
+    <tonnage></tonnage>
+    <price>12460.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>205</battery_capacity>
+    <forks_dimensions>570x1150</forks_dimensions>
+    <special_options>externes Ladegerät</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</image_url>
+    <photo_match>family 73: CDD16_20-A2LIH.webp</photo_match>
+    <photo_name>CDD16_20-A2LIH.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CDD16</name>
+    <markup></markup>
+    <price_owner_504>12810.00</price_owner_504>
+    <serial_number>17016XB7134</serial_number>
+    <mast>ZSM540</mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00059</id>
+    <reference_number>L250517-L250519</reference_number>
+    <brand>HELI</brand>
+    <model>CDD16-A2LIH</model>
+    <type>Hochhubwagen Li-ion</type>
+    <capacity_kg>1600</capacity_kg>
+    <tonnage></tonnage>
+    <price>11400.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>205</battery_capacity>
+    <forks_dimensions>1150</forks_dimensions>
+    <special_options>Polyurethanreifen, Dimension: 570, 6 km/h Fahrgeschwindigkeit, ZAPI-Steuerung, manuelle Lenkung, keine Plattform, kein Seitenarmschutz, Ladegerät, Proportionallift</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</image_url>
+    <photo_match>family 105: CDD16_20-A2LIH.webp</photo_match>
+    <photo_name>CDD16_20-A2LIH.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CDD16</name>
+    <markup></markup>
+    <price_owner_504>11750.00</price_owner_504>
+    <serial_number>17016XB5129</serial_number>
+    <mast>ZSM500</mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00060</id>
+    <reference_number>D261578-D261581</reference_number>
+    <brand>HELI</brand>
+    <model>CDD16-A2LIH</model>
+    <type>Hochhubwagen Li-ion</type>
+    <capacity_kg>1600</capacity_kg>
+    <tonnage></tonnage>
+    <price>11200.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>205</battery_capacity>
+    <forks_dimensions>570x1150</forks_dimensions>
+    <special_options>ZAPI-Steuerung, manuelle Lenkung, elektromagnetische Bremse, Fahrgeschwindigkeit (voll beladen, unbeladen): 6 km/h, Hubhöhe, Senkhöhe: X, 90 mm, Proportionalhub inklusive, Proportionalgriff</special_options>
+    <delivery_status>Friedberg-Hessen / Mitte September</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</image_url>
+    <photo_match>family 105: CDD16_20-A2LIH.webp</photo_match>
+    <photo_name>CDD16_20-A2LIH.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CDD16</name>
+    <markup></markup>
+    <price_owner_504>11550.00</price_owner_504>
+    <serial_number>17016XC1938, 17016XC1939, 17016XC1940, 17016XC1941</serial_number>
+    <mast>ZSM450</mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00061</id>
+    <reference_number>D261582-D261585</reference_number>
+    <brand>HELI</brand>
+    <model>CDD16-A2LIH</model>
+    <type>Hochhubwagen Li-ion</type>
+    <capacity_kg>1600</capacity_kg>
+    <tonnage></tonnage>
+    <price>11250.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>205</battery_capacity>
+    <forks_dimensions>570x1150</forks_dimensions>
+    <special_options>ZAPI-Steuerung, manuelle Lenkung, elektromagnetische Bremse, Fahrgeschwindigkeit (voll beladen, unbeladen): 6 km/h, Hubhöhe, Senkhöhe: X, 90 mm, Proportionalhub inklusive, Proportionalgriff</special_options>
+    <delivery_status>Friedberg-Hessen / Mitte September</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</image_url>
+    <photo_match>family 105: CDD16_20-A2LIH.webp</photo_match>
+    <photo_name>CDD16_20-A2LIH.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163062/CDD16_20-A2LIH.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CDD16</name>
+    <markup></markup>
+    <price_owner_504>11600.00</price_owner_504>
+    <serial_number>17016XC2017, 17016XC2018, 17016XC2019, 17016XC2020</serial_number>
+    <mast>ZSM470</mast>
+    <tyres></tyres>
+    <series></series>
+    <attachments></attachments>
+    <cabin></cabin>
+  </product>
+  <product>
+    <id>00082</id>
+    <reference_number>D260369-D260373</reference_number>
+    <brand>HELI</brand>
+    <model>CPCD25-XC26RG3</model>
+    <type>Dieselstapler Stage V</type>
+    <capacity_kg>2500</capacity_kg>
+    <tonnage></tonnage>
+    <price>19500.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>Chinesischer XINCHAI-Motor</controller>
+    <engine_type>Diesel</engine_type>
+    <battery_type></battery_type>
+    <voltage></voltage>
+    <battery_capacity></battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>4 Ventile und doppelte IHR, Heli-Federungssitz, OPS, LED-Beleuchtung</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</image_url>
+    <photo_match>series 85: G3_IC_2-3.5t.webp</photo_match>
+    <photo_name>G3_IC_2-3.5t.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPCD25</name>
+    <markup></markup>
+    <price_owner_504>20250.00</price_owner_504>
+    <serial_number>010253S3960, 010253S3961, 010253S3962, 010253S3963, 010253S3964</serial_number>
+    <mast>M350</mast>
+    <tyres>Vollgummireifen</tyres>
+    <series>G3</series>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
+    <cabin>Hochdachfenster</cabin>
+  </product>
+  <product>
+    <id>00102</id>
+    <reference_number>D260399-D260402</reference_number>
+    <brand>HELI</brand>
+    <model>CPCD35-KU6Y4R-3</model>
+    <type>Geländestapler</type>
+    <capacity_kg>3500</capacity_kg>
+    <tonnage></tonnage>
+    <price>41430.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>Kubota V2607</controller>
+    <engine_type>Diesel</engine_type>
+    <battery_type></battery_type>
+    <voltage></voltage>
+    <battery_capacity></battery_capacity>
+    <forks_dimensions>1220</forks_dimensions>
+    <special_options>4 Ventile und doppelte IHR-Einspritzung, Grammer-Federungssitz, OPS, LED-Beleuchtung, Hochleistungsabgasanlage</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</image_url>
+    <photo_match>series 95: G3_Rough_Terrian_03.webp</photo_match>
+    <photo_name>G3_Rough_Terrian_03.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPCD35</name>
+    <markup></markup>
+    <price_owner_504>41780.00</price_owner_504>
+    <serial_number></serial_number>
+    <mast>ZSM470</mast>
+    <tyres>Luftreifen</tyres>
+    <series>R</series>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
+    <cabin>Kabine und Heizung</cabin>
+  </product>
+  <product>
+    <id>00103</id>
+    <reference_number>D260403-D260410</reference_number>
+    <brand>HELI</brand>
+    <model>CPCD35-XC26RG3</model>
+    <type>Dieselstapler Stage V</type>
+    <capacity_kg>3500</capacity_kg>
+    <tonnage></tonnage>
+    <price>23500.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>CHINESISCHER XINCHAI-MOTOR</controller>
+    <engine_type>Diesel</engine_type>
+    <battery_type></battery_type>
+    <voltage></voltage>
+    <battery_capacity></battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>4 Ventile und doppelte IHR, Federsitz, OPS, LED-Beleuchtung</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</image_url>
+    <photo_match>series 85: G3_IC_2-3.5t.webp</photo_match>
+    <photo_name>G3_IC_2-3.5t.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPCD35</name>
+    <markup></markup>
+    <price_owner_504>24250.00</price_owner_504>
+    <serial_number>010353S4155, 010353S4158</serial_number>
+    <mast>ZSM470</mast>
+    <tyres>Vollgummireifen</tyres>
+    <series>G3</series>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
+    <cabin>Hohe Halbkabine</cabin>
+  </product>
+  <product>
+    <id>00105</id>
+    <reference_number>D260419-D260426</reference_number>
+    <brand>HELI</brand>
+    <model>CPCD35-XC26RG3</model>
+    <type>Dieselstapler Stage V</type>
+    <capacity_kg>3500</capacity_kg>
+    <tonnage></tonnage>
+    <price>25000.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>Chinesischer XINCHAI-Motor</controller>
+    <engine_type>Diesel</engine_type>
+    <battery_type></battery_type>
+    <voltage></voltage>
+    <battery_capacity></battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>4 Ventile und doppelte IHR, Heli-Federungssitz, OPS, LED-Beleuchtung</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</image_url>
+    <photo_match>series 85: G3_IC_2-3.5t.webp</photo_match>
+    <photo_name>G3_IC_2-3.5t.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163070/G3_IC_2-3.5t.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPCD35</name>
+    <markup></markup>
+    <price_owner_504>25750.00</price_owner_504>
+    <serial_number>010353S4372, 010353S4370</serial_number>
+    <mast>ZSM470</mast>
+    <tyres>Vollgummireifen</tyres>
+    <series>G3</series>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
+    <cabin>Hohe Kabine und Heizung</cabin>
+  </product>
+  <product>
+    <id>00108</id>
+    <reference_number>D261933-D261935</reference_number>
+    <brand>HELI</brand>
+    <model>CPCD50-KU4G3</model>
+    <type>Dieselstapler Stage V</type>
+    <capacity_kg>5000</capacity_kg>
+    <tonnage></tonnage>
+    <price>43200.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>KUBOTA-MOTOR</controller>
+    <engine_type>Diesel</engine_type>
+    <battery_type></battery_type>
+    <voltage></voltage>
+    <battery_capacity></battery_capacity>
+    <forks_dimensions>1520</forks_dimensions>
+    <special_options>ZSM470, Vollgummireifen, 4 Ventile und doppelte IHR-Ventilsteuerung, Grammer-Federungssitz, OPS, integrierter Gabelversteller mit Seitenschalthebel, Kabine, Heizung</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</image_url>
+    <photo_match>series 85: G3_IC _5-10t.webp</photo_match>
+    <photo_name>G3_IC _5-10t.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPCD50</name>
+    <markup></markup>
+    <price_owner_504>43950.00</price_owner_504>
+    <serial_number>010504A2005</serial_number>
+    <mast>ZSM470</mast>
+    <tyres>Vollgummireifen</tyres>
+    <series>G3</series>
+    <attachments>Integrierter Gabelversteller mit Seitenschaltung</attachments>
+    <cabin>Kabine und Heizung</cabin>
+  </product>
+  <product>
+    <id>00110</id>
+    <reference_number>L250449-L250451</reference_number>
+    <brand>HELI</brand>
+    <model>CPCD50-KU4Y4R-3-06</model>
+    <type>Geländestapler</type>
+    <capacity_kg>5000</capacity_kg>
+    <tonnage></tonnage>
+    <price>56900.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>Kubota V3307</controller>
+    <engine_type>Diesel</engine_type>
+    <battery_type></battery_type>
+    <voltage></voltage>
+    <battery_capacity></battery_capacity>
+    <forks_dimensions>1600</forks_dimensions>
+    <special_options>FEM III, ZSM470, Luftbereifung, 4 Ventile und doppelte IHR, Grammer-Federungssitz, OPS, integrierter HELI-Seitenschub und Gabelverstellung, LED-Beleuchtung, Kabine und Heizung</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</image_url>
+    <photo_match>series 95: G3_Rough_Terrian_03.webp</photo_match>
+    <photo_name>G3_Rough_Terrian_03.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163023/G3_Rough_Terrian_03.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPCD50</name>
+    <markup></markup>
+    <price_owner_504>57250.00</price_owner_504>
+    <serial_number></serial_number>
+    <mast>ZSM470</mast>
+    <tyres>Luftreifen</tyres>
+    <series>R</series>
+    <attachments>HELI Integrierter Seitenschub und Gabelversteller</attachments>
+    <cabin>Kabine und Heizung</cabin>
+  </product>
+  <product>
+    <id>00113</id>
+    <reference_number>D260339-D260341</reference_number>
+    <brand>HELI</brand>
+    <model>CPCD50-YC4G3</model>
+    <type>Dieselstapler Stage V</type>
+    <capacity_kg>5000</capacity_kg>
+    <tonnage></tonnage>
+    <price>42270.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>CHINESISCHER YUCHAI-MOTOR</controller>
+    <engine_type>Diesel</engine_type>
+    <battery_type></battery_type>
+    <voltage></voltage>
+    <battery_capacity></battery_capacity>
+    <forks_dimensions>1520</forks_dimensions>
+    <special_options>Fingertips Control, ZSM470, Vollgummireifen, 4 Ventile und Doppel-IHR, Grammer-Federungssitz, OPS, integrierte Gabelverstellung mit Seitenschieber, Kabine, Heizung, Fingertips</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</image_url>
+    <photo_match>series 85: G3_IC _5-10t.webp</photo_match>
+    <photo_name>G3_IC _5-10t.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163073/G3_IC%20_5-10t.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPCD50</name>
+    <markup></markup>
+    <price_owner_504>43020.00</price_owner_504>
+    <serial_number>010503S3132, 010503S3131</serial_number>
+    <mast>ZSM470</mast>
+    <tyres>Vollgummireifen</tyres>
+    <series>G3</series>
+    <attachments>Integrierter Gabelversteller mit Seitenschaltung</attachments>
+    <cabin>Kabine und Heizung</cabin>
+  </product>
+  <product>
+    <id>00120</id>
+    <reference_number>25207-23</reference_number>
+    <brand>HELI</brand>
+    <model>CPD12SQ-A1LIH4</model>
+    <type>3-Rad-Stapler Li-ion</type>
+    <capacity_kg>1200</capacity_kg>
+    <tonnage></tonnage>
+    <price>12600.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>CURTIS</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>24</voltage>
+    <battery_capacity>280</battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>CURTIS, 3 Ventile, einfacher IHR, Grammer®-Standardsitz, OPS, Frontarbeitsscheinwerfer, Bordladegerät 24V 50A</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163054/H4_CPD08-12SQ.webp</image_url>
+    <photo_match>family 120: H4_CPD08-12SQ.webp</photo_match>
+    <photo_name>H4_CPD08-12SQ.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163054/H4_CPD08-12SQ.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPD12SQ</name>
+    <markup></markup>
+    <price_owner_504>13350.00</price_owner_504>
+    <serial_number>06012DS6471, 06012DS6472, 06012DS6473, 06012DS6474, 06012DS6475, 06012DS6476, 06012DS6573, 06012DS6575, 06012DS6577, 06012DS6578</serial_number>
+    <mast>ZSM435</mast>
+    <tyres>Vollgummireifen</tyres>
+    <series>H4</series>
+    <attachments>Integrierter Seitenschalthebel</attachments>
+    <cabin>Oberes Fenster</cabin>
+  </product>
+  <product>
+    <id>00124</id>
+    <reference_number>G253829-G253830</reference_number>
+    <brand>HELI</brand>
+    <model>CPD16SQ-A2LIG3-M</model>
+    <type>3-Rad-Stapler Li-ion</type>
+    <capacity_kg>1600</capacity_kg>
+    <tonnage></tonnage>
+    <price>24450.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>80</voltage>
+    <battery_capacity>202</battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>4 Ventile und Doppel-IHR, Heli-Federungssitz, OPS, LED-Beleuchtung, Heli-Ladegerät 80V-200A, GP25-Getriebe, Lithium-Batterie Cloud</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
+    <photo_match>family 110: G3_CPD15-20SQ.webp</photo_match>
+    <photo_name>G3_CPD15-20SQ.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPD16SQ</name>
+    <markup></markup>
+    <price_owner_504>25200.00</price_owner_504>
+    <serial_number>06016DS7274, 06016DS7275</serial_number>
+    <mast>ZSM600</mast>
+    <tyres>Nicht abfärbende Vollgummireifen</tyres>
+    <series>G3</series>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
+    <cabin>Kabine und Heizung</cabin>
+  </product>
+  <product>
+    <id>00126</id>
+    <reference_number>L250604-L250607</reference_number>
+    <brand>HELI</brand>
+    <model>CPD16SQ-A2LIG3-M</model>
+    <type>3-Rad-Stapler Li-ion</type>
+    <capacity_kg>1600</capacity_kg>
+    <tonnage></tonnage>
+    <price>25850.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>80</voltage>
+    <battery_capacity>228</battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>Fingertips-Steuerung, ZSM480, abriebfeste Vollgummireifen, 4 Ventile und Doppel-IHR, Grammer-Federungssitz, Fingertips, OPS, Heli Hook am Seitenschalthebel, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Top-Sichtfenster</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
+    <photo_match>family 110: G3_CPD15-20SQ.webp</photo_match>
+    <photo_name>G3_CPD15-20SQ.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPD16SQ</name>
+    <markup></markup>
+    <price_owner_504>26600.00</price_owner_504>
+    <serial_number>06016DT0074</serial_number>
+    <mast>ZSM480</mast>
+    <tyres>Nicht abfärbende Vollgummireifen</tyres>
+    <series>G3</series>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
+    <cabin>Oberes Fenster</cabin>
+  </product>
+  <product>
+    <id>00138</id>
+    <reference_number>L251427-L251436</reference_number>
+    <brand>HELI</brand>
+    <model>CPD16SQ-A6LIG3-S</model>
+    <type>3-Rad-Stapler Li-ion</type>
+    <capacity_kg>1600</capacity_kg>
+    <tonnage></tonnage>
+    <price>19560.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>HELI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>80</voltage>
+    <battery_capacity>150</battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>ZSM480, Vollgummireifen ohne Markierungen, 4 Ventile und Dual-IHR, Helikopter-Federungssitz, OPS, Helikopter-Haken am Seitenschalthebel, LED-Beleuchtung, Integriertes Ladegerät 80V 35A, GP25-Getriebe, Dachfenster</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163009/CPD16SQ-A6LIG3-S.webp</image_url>
+    <photo_match>exact 900: CPD16SQ-A6LIG3-S.webp</photo_match>
+    <photo_name>CPD16SQ-A6LIG3-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163009/CPD16SQ-A6LIG3-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPD16SQ</name>
+    <markup></markup>
+    <price_owner_504>20310.00</price_owner_504>
+    <serial_number>06016DT8093, 06016DT8099</serial_number>
+    <mast>ZSM480</mast>
+    <tyres>Nicht abfärbende Vollgummireifen</tyres>
+    <series>G3</series>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
+    <cabin>Oberes Fenster</cabin>
+  </product>
+  <product>
+    <id>00144</id>
+    <reference_number>G251839-G251840</reference_number>
+    <brand>HELI</brand>
+    <model>CPD18-GB2LI-M</model>
+    <type>4-Rad-Stapler Li-ion</type>
+    <capacity_kg>1800</capacity_kg>
+    <tonnage></tonnage>
+    <price>25940.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>80</voltage>
+    <battery_capacity>202</battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>ZSM600, 4 Ventile, Dual-IHR, Grammar-gefederter Sitz, Voll-LED-Beleuchtung und Rundumleuchte, OPS, Bordladegerät 80V 35A, Lithium-Akku</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
+    <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
+    <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPD18</name>
+    <markup></markup>
+    <price_owner_504>26690.00</price_owner_504>
+    <serial_number>05018DS0159</serial_number>
+    <mast>ZSM600</mast>
+    <tyres>Nicht abfärbende Vollgummireifen</tyres>
+    <series>G2</series>
+    <attachments>Einhänge-Gabelverstellung mit Seitenverstellung</attachments>
+    <cabin>Kabine und Heizung</cabin>
+  </product>
+  <product>
+    <id>00146</id>
+    <reference_number>L250618-L250621</reference_number>
+    <brand>HELI</brand>
+    <model>CPD20SQ-A2LIG3-M</model>
+    <type>3-Rad-Stapler Li-ion</type>
+    <capacity_kg>2000</capacity_kg>
+    <tonnage></tonnage>
+    <price>26000.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>80</voltage>
+    <battery_capacity>228</battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>Fingerspitzensteuerung, ZSM480, abriebfester Vollgummireifen, 4 Ventile und Dual-IHR, gefederter Sitz, Fingerspitzensteuerung, OPS, Heli-Haken Seitenschaltung, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Dachfenster</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
+    <photo_match>family 120: G3_CPD15-20SQ.webp</photo_match>
+    <photo_name>G3_CPD15-20SQ.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPD20SQ</name>
+    <markup></markup>
+    <price_owner_504>26750.00</price_owner_504>
+    <serial_number>06020DT0165</serial_number>
+    <mast>ZSM480</mast>
+    <tyres>Nicht abfärbende Vollgummireifen</tyres>
+    <series>G3</series>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
+    <cabin>Oberes Fenster</cabin>
+  </product>
+  <product>
+    <id>00148</id>
+    <reference_number>L250938-L250940</reference_number>
+    <brand>HELI</brand>
+    <model>CPD20SQ-A2LIG3-M</model>
+    <type>3-Rad-Stapler Li-ion</type>
+    <capacity_kg>2000</capacity_kg>
+    <tonnage></tonnage>
+    <price>26500.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>80</voltage>
+    <battery_capacity>228</battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>Joystick-Steuerung, ZSM480, abriebfeste Vollgummireifen, 4 Ventile und Dual-IHR, Federungssitz mit Joystick-Steuerung, OPS, Heli-Haken an der Seitenschaltung, LED-Beleuchtung, integriertes Ladegerät 80V 35A, GP25-Getriebe, Dachfenster</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</image_url>
+    <photo_match>family 120: G3_CPD15-20SQ.webp</photo_match>
+    <photo_name>G3_CPD15-20SQ.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163055/G3_CPD15-20SQ.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPD20SQ</name>
+    <markup></markup>
+    <price_owner_504>27250.00</price_owner_504>
+    <serial_number>06020DT3715, 06020DT3716 06020DT3714</serial_number>
+    <mast>ZSM480</mast>
+    <tyres>Nicht abfärbende Vollgummireifen</tyres>
+    <series>G3</series>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
+    <cabin>Oberes Fenster</cabin>
+  </product>
+  <product>
+    <id>00174</id>
+    <reference_number>G250625</reference_number>
+    <brand>HELI</brand>
+    <model>CPD25-GB2LI-M</model>
+    <type>4-Rad-Stapler Li-ion</type>
+    <capacity_kg>2500</capacity_kg>
+    <tonnage></tonnage>
+    <price>21970.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>80</voltage>
+    <battery_capacity>280</battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>M400, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebelhaken, Dachfenster, GRAMMAR-Federungssitz, Ladegerät D80V-200A, LED-Leuchten</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
+    <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
+    <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPD25</name>
+    <markup></markup>
+    <price_owner_504>22720.00</price_owner_504>
+    <serial_number></serial_number>
+    <mast>M400</mast>
+    <tyres>Nicht abfärbende Vollgummireifen</tyres>
+    <series>G2</series>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
+    <cabin>Oberes Fenster</cabin>
+  </product>
+  <product>
+    <id>00183</id>
+    <reference_number>L250947-L250950</reference_number>
+    <brand>HELI</brand>
+    <model>CPD25-GC6LI-S</model>
+    <type>4-Rad-Stapler Li-ion</type>
+    <capacity_kg>2500</capacity_kg>
+    <tonnage></tonnage>
+    <price>19880.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>HELI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>80</voltage>
+    <battery_capacity>228</battery_capacity>
+    <forks_dimensions>1220</forks_dimensions>
+    <special_options>ZSM470, keine Markierung, Vollgummireifen, 4 Ventile und doppelte IHR, Helikopter-Federungssitz, OPS, Helikopterhaken am Seitenschalthebel, LED-Beleuchtung, Bordladegerät D80V-35A, Dachfenster</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
+    <photo_match>family 120: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
+    <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPD25</name>
+    <markup></markup>
+    <price_owner_504>20630.00</price_owner_504>
+    <serial_number>05025DT2595, 05025DT2594</serial_number>
+    <mast>ZSM470</mast>
+    <tyres>Nicht abfärbende Vollgummireifen</tyres>
+    <series>G2</series>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
+    <cabin>Hochdachfenster</cabin>
+  </product>
+  <product>
+    <id>00189</id>
+    <reference_number>D260477-D260480</reference_number>
+    <brand>HELI</brand>
+    <model>CPD25-GD2LI-M</model>
+    <type>4-Rad-Stapler Li-ion</type>
+    <capacity_kg>2500</capacity_kg>
+    <tonnage></tonnage>
+    <price>24900.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>80</voltage>
+    <battery_capacity>280</battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>Doppelzylinder vorne, ZSM540, Doppelzylinder vorne, Vollgummireifen, 4 Ventile, seitlicher Schalthebel, Dachfenster, höheres OHG, HELI PREMIER GEFÖRMTER SITZ, Ladegerät D80V-200A, Lithium-Batterie-Cloud, LED-Beleuchtung</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
+    <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
+    <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPD25</name>
+    <markup></markup>
+    <price_owner_504>25650.00</price_owner_504>
+    <serial_number>05025DU2936, 05025DU2937, 05025DU2938, 05025DU2939</serial_number>
+    <mast>ZSM540</mast>
+    <tyres>Nicht abfärbende Vollgummireifen</tyres>
+    <series>G2-PLUS</series>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
+    <cabin>Hochdachfenster</cabin>
+  </product>
+  <product>
+    <id>00197</id>
+    <reference_number>L251599-L251603</reference_number>
+    <brand>HELI</brand>
+    <model>CPD25-GD2LI-M</model>
+    <type>4-Rad-Stapler Li-ion</type>
+    <capacity_kg>2500</capacity_kg>
+    <tonnage></tonnage>
+    <price>29000.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>80</voltage>
+    <battery_capacity>280</battery_capacity>
+    <forks_dimensions>1220</forks_dimensions>
+    <special_options>ADAS-System, Doppelzylinder vorne, ZSM470, keine Markierungen, Vollgummireifen, 4 Ventile und doppelte IHR, neuer Premier-Federungssitz für Helikopter, OPS, Helikopterhaken am Seitenschalthebel, LED-Beleuchtung, Bordladegerät D80V-35A, Kabine und Heizung</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
+    <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
+    <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPD25</name>
+    <markup></markup>
+    <price_owner_504>29750.00</price_owner_504>
+    <serial_number>05025DT9423</serial_number>
+    <mast>ZSM470</mast>
+    <tyres>Nicht abfärbende Vollgummireifen</tyres>
+    <series>G2-PLUS</series>
+    <attachments>Seitlicher Schalthebel</attachments>
+    <cabin>Hohe Kabine und Heizung</cabin>
+  </product>
+  <product>
+    <id>00210</id>
+    <reference_number>D261915-D261916</reference_number>
+    <brand>HELI</brand>
+    <model>CPD25-GD2LI-M</model>
+    <type>4-Rad-Stapler Li-ion</type>
+    <capacity_kg>2500</capacity_kg>
+    <tonnage></tonnage>
+    <price>31200.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>80</voltage>
+    <battery_capacity>302</battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>Doppelte Frontbremszylinder, Joystick-Steuerung, Doppelpedale, ZSM470, Doppelbremszylinder vorne, Vollgummireifen, 4 Ventile, seitliche Schaltwippe, Kabine mit Heizung, höherer OHG-Wert, GRAMMAR-Federungssitz, Ladegerät D80V-200A, Lithium-Ionen-Akku…</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
+    <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
+    <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPD25</name>
+    <markup></markup>
+    <price_owner_504>31950.00</price_owner_504>
+    <serial_number>05025DU9691</serial_number>
+    <mast>ZSM470</mast>
+    <tyres>Nicht abfärbende Vollgummireifen</tyres>
+    <series>G2-PLUS</series>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
+    <cabin>Hohe Kabine und Heizung</cabin>
+  </product>
+  <product>
+    <id>00216</id>
+    <reference_number>L251507-L251514</reference_number>
+    <brand>HELI</brand>
+    <model>CPD35-A6LIK3-H</model>
+    <type>4-Rad-Stapler Li-ion</type>
+    <capacity_kg>3500</capacity_kg>
+    <tonnage></tonnage>
+    <price>23000.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>HELI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>80</voltage>
+    <battery_capacity>230</battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>ZSM450, 4 Ventile &amp; Doppelschläuche, abriebfeste Vollgummireifen, S-Haken, HELI-Federungssitz, vollständiges OPS, Schnellladegerät D80V100A</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163049/G3_%2BCPD15-35GE2DLI.webp</image_url>
+    <photo_match>family 55: G3_+CPD15-35GE2DLI.webp</photo_match>
+    <photo_name>G3_+CPD15-35GE2DLI.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163049/G3_%2BCPD15-35GE2DLI.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPD35</name>
+    <markup></markup>
+    <price_owner_504>23750.00</price_owner_504>
+    <serial_number></serial_number>
+    <mast>ZSM450</mast>
+    <tyres>Nicht abfärbende Vollgummireifen</tyres>
+    <series>K3</series>
+    <attachments>HELI Hook-on Side Shift</attachments>
+    <cabin>Halbkabine</cabin>
+  </product>
+  <product>
+    <id>00229</id>
+    <reference_number>D260592-D260603</reference_number>
+    <brand>HELI</brand>
+    <model>CPD35-GB2LI-M</model>
+    <type>4-Rad-Stapler Li-ion</type>
+    <capacity_kg>3500</capacity_kg>
+    <tonnage></tonnage>
+    <price>31100.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>80</voltage>
+    <battery_capacity>456</battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>Vorderer Doppelzylinder, ZSM470, Vordere Doppelzylinder, Keine Markierung, Vollgummireifen, 4 Ventile, seitlicher Schalthebel, Kabine und Heizung, höherer Luftdruck, HELI PREMIER-Federungssitz, Ladegerät D80V-200A, Lithium-Batterie-Cloud, LED-Beleuchtung</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
+    <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
+    <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPD35</name>
+    <markup></markup>
+    <price_owner_504>31850.00</price_owner_504>
+    <serial_number>05035DU2682, 05035DU2680</serial_number>
+    <mast>ZSM470</mast>
+    <tyres>Nicht abfärbende Vollgummireifen</tyres>
+    <series>G2</series>
+    <attachments>HELI Hook-on Seitenschieber</attachments>
+    <cabin>Hohe Kabine und Heizung</cabin>
+  </product>
+  <product>
+    <id>00231</id>
+    <reference_number>D261995-D261996</reference_number>
+    <brand>HELI</brand>
+    <model>CPD35-GB2LI-M</model>
+    <type>4-Rad-Stapler Li-ion</type>
+    <capacity_kg>3500</capacity_kg>
+    <tonnage></tonnage>
+    <price>37800.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>ZAPI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>80</voltage>
+    <battery_capacity>456</battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>Joystick-Steuerung, Doppelpedale, Doppelzylinder vorne, ZSM470, Doppelzylinder vorne, Vollgummireifen ohne Markierungen, 4 Ventile, seitlicher Schalthebel und Gabelverstellung, Kabine mit Heizung, höheres OHG-Gewinde, GRAMMAR-Federungssitz…</special_options>
+    <delivery_status>Friedberg-Hessen / 18.09.2026</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
+    <photo_match>family 82: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
+    <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPD35</name>
+    <markup></markup>
+    <price_owner_504>38550.00</price_owner_504>
+    <serial_number></serial_number>
+    <mast>ZSM470</mast>
+    <tyres>Nicht abfärbende Vollgummireifen</tyres>
+    <series>G2</series>
+    <attachments>HELI-Haken am Seitenschalthebel und Gabelversteller</attachments>
+    <cabin>Hohe Kabine und Heizung</cabin>
+  </product>
+  <product>
+    <id>00241</id>
+    <reference_number>DE262198-DE262201</reference_number>
+    <brand>HELI</brand>
+    <model>CPD35-GC6LI-S</model>
+    <type>4-Rad-Stapler Li-ion</type>
+    <capacity_kg>3500</capacity_kg>
+    <tonnage></tonnage>
+    <price>24500.00</price>
+    <available>false</available>
+    <qty>0</qty>
+    <controller>HELI</controller>
+    <engine_type>Elektro</engine_type>
+    <battery_type>Lithium-Ionen</battery_type>
+    <voltage>80</voltage>
+    <battery_capacity>280</battery_capacity>
+    <forks_dimensions>1200</forks_dimensions>
+    <special_options>Vorderer Doppelzylinder, ZSM470, keine Markierung, Vollgummireifen, 4 Ventile und doppelte IHR, HELI PREMIER FEDERUNGSSITZ, OPS, HELI Seitenschalthebel und Gabelverstellung, LED-Beleuchtung, Ladegerät D80V-35A, Hochdach, Frontscheibe</special_options>
+    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
+    <image_url>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</image_url>
+    <photo_match>family 120: G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_match>
+    <photo_name>G2_series 1.5-3.8t_CPD15-38-GC6LI-S.webp</photo_name>
+    <photo_link>https://account.bcs.tools/image/1163003/G2_series%201.5-3.8t_CPD15-38-GC6LI-S.webp</photo_link>
+    <has_image>1</has_image>
+    <name>CPD35</name>
+    <markup></markup>
+    <price_owner_504>25250.00</price_owner_504>
+    <serial_number>05035DV1786, 05035DV1785</serial_number>
+    <mast>ZSM470</mast>
+    <tyres>Nicht abfärbende Vollgummireifen</tyres>
+    <series>G2</series>
+    <attachments>HELI Hook-on Seitenschub und Gabelversteller</attachments>
+    <cabin>Hochdach/Frontscheibe</cabin>
+  </product>
 </products>
