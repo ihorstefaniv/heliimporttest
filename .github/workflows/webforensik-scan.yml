@@ -1,8 +1,9 @@
 name: Webforensik Scan
 # Раз на 15 хв: перший домен з webforensik/queue.txt -> webforensik.de; результат у results.tsv + reports/json/<id>.json
 on:
-  schedule:
-    - cron: '7,22,37,52 * * * *'
+  # schedule вимкнено 10.11 (сканує Claude локально); увімкнути: розкоментувати 2 рядки
+  # schedule:
+  #   - cron: '7,22,37,52 * * * *'
   workflow_dispatch: {}
 permissions:
   contents: write
