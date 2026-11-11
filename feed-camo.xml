@@ -509,7 +509,7 @@
     <lifting_height_mm></lifting_height_mm>
     <lifting_height_m></lifting_height_m>
     <mast_type></mast_type>
-    <battery_camo></battery_camo>
+    <battery_camo>Lithium-Batterie</battery_camo>
     <battery_voltage_ah></battery_voltage_ah>
     <description_camo>&lt;h2&gt;HELI NH-25-0-L – Geh-Niederhubwagen, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 2.500 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 560x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Polyurethanreifen, Dimension: 9,5, Fahrgeschwindigkeit: 12,5 km/h, ZAPI-Steuerung, elektrische Lenkung, mit Plattform, mit Seitenarmschutz&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo>9450.00</price_from_camo>
@@ -552,7 +552,7 @@
     <lifting_height_mm></lifting_height_mm>
     <lifting_height_m></lifting_height_m>
     <mast_type></mast_type>
-    <battery_camo></battery_camo>
+    <battery_camo>Lithium-Batterie</battery_camo>
     <battery_voltage_ah></battery_voltage_ah>
     <description_camo>&lt;h2&gt;HELI NH-25-0-L-B – Geh-Niederhubwagen, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 2.500 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 560x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Polyurethanreifen, Dimension: 9,5, Höchstgeschwindigkeit: 12,5 km/h, ZAPI-Steuerung, elektrische Lenkung, mit Plattform, mit Seitenschutz, integriertes Ladegerät&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo>9450.00</price_from_camo>
@@ -595,7 +595,7 @@
     <lifting_height_mm></lifting_height_mm>
     <lifting_height_m></lifting_height_m>
     <mast_type></mast_type>
-    <battery_camo></battery_camo>
+    <battery_camo>Lithium-Batterie</battery_camo>
     <battery_voltage_ah></battery_voltage_ah>
     <description_camo>&lt;h2&gt;HELI NH-25-0-L-B – Geh-Niederhubwagen, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 2.500 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 560x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Polyurethanreifen, Dimension: 9,5, Höchstgeschwindigkeit: 12,5 km/h, ZAPI-Steuerung, elektrische Lenkung, mit Plattform, mit Seitenschutz, integriertes Ladegerät&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo>9450.00</price_from_camo>
@@ -638,7 +638,7 @@
     <lifting_height_mm></lifting_height_mm>
     <lifting_height_m></lifting_height_m>
     <mast_type></mast_type>
-    <battery_camo></battery_camo>
+    <battery_camo>Lithium-Batterie</battery_camo>
     <battery_voltage_ah></battery_voltage_ah>
     <description_camo>&lt;h2&gt;HELI NH-25-0-L-B – Geh-Niederhubwagen, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 2.500 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 560x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Polyurethanreifen, Dimension: 9,5, Höchstgeschwindigkeit: 12,5 km/h, ZAPI-Steuerung, elektrische Lenkung, mit Plattform, mit Seitenschutz, integriertes Ladegerät&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo>9450.00</price_from_camo>
@@ -1584,7 +1584,7 @@
     <lifting_height_mm>4500</lifting_height_mm>
     <lifting_height_m>4.5</lifting_height_m>
     <mast_type>Triplex mit Vollfreihub</mast_type>
-    <battery_camo></battery_camo>
+    <battery_camo>Lithium-Batterie</battery_camo>
     <battery_voltage_ah></battery_voltage_ah>
     <description_camo>&lt;h2&gt;HELI HH-12-45-L – Geh-Hochhubwagen, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.200 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 4.500 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 570x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Externes Ladegerät, Proportionalgriff, PIN-Eingabe&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo>8350.00</price_from_camo>
@@ -2828,12 +2828,12 @@
     <photo_camo_4></photo_camo_4>
     <category_camo>Geländestapler</category_camo>
     <capacity_t>2.5</capacity_t>
-    <lifting_height_mm>4400</lifting_height_mm>
-    <lifting_height_m>4.4</lifting_height_m>
+    <lifting_height_mm>4350</lifting_height_mm>
+    <lifting_height_m>4.35</lifting_height_m>
     <mast_type>Triplex mit Vollfreihub</mast_type>
     <battery_camo></battery_camo>
     <battery_voltage_ah></battery_voltage_ah>
-    <description_camo>&lt;h2&gt;HELI GL-25-44-D – Geländestapler, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 2.500 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 4.400 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bereifung:&lt;/strong&gt; Luftreifen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 1200 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anbaugeräte:&lt;/strong&gt; Haken am Seitenschalthebel&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kabine:&lt;/strong&gt; Oberes Fenster&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Untere OHG-2260 mm, ZSM435 4 Ventile und doppelter IHR, G25, Luftreifen, Hochauspuff, HELI-Federungssitz, Dachfenster, seitlicher Schalthebel mit Haken, untere OHG-&lt;/li&gt;&lt;/ul&gt;</description_camo>
+    <description_camo>&lt;h2&gt;HELI GL-25-44-D – Geländestapler, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 2.500 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 4.350 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bereifung:&lt;/strong&gt; Luftreifen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 1200 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anbaugeräte:&lt;/strong&gt; Haken am Seitenschalthebel&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kabine:&lt;/strong&gt; Oberes Fenster&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Untere OHG-2260 mm, ZSM435 4 Ventile und doppelter IHR, G25, Luftreifen, Hochauspuff, HELI-Federungssitz, Dachfenster, seitlicher Schalthebel mit Haken, untere OHG-&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo>27350.00</price_from_camo>
     <modelname_camo>GL-25-44-D</modelname_camo>
     <discount_label>-20 %</discount_label>
@@ -11044,7 +11044,7 @@
     <lifting_height_mm></lifting_height_mm>
     <lifting_height_m></lifting_height_m>
     <mast_type></mast_type>
-    <battery_camo></battery_camo>
+    <battery_camo>Lithium-Batterie</battery_camo>
     <battery_voltage_ah></battery_voltage_ah>
     <description_camo>&lt;h2&gt;HELI NH-25-0-L-B – Geh-Niederhubwagen, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 2.500 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 560x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Polyurethanreifen, Dimension: 9,5, Höchstgeschwindigkeit: 12,5 km/h, ZAPI-Steuerung, elektrische Lenkung, mit Plattform, mit Seitenschutz, integriertes Ladegerät&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo>9450.00</price_from_camo>
@@ -12205,7 +12205,7 @@
     <lifting_height_mm></lifting_height_mm>
     <lifting_height_m></lifting_height_m>
     <mast_type></mast_type>
-    <battery_camo></battery_camo>
+    <battery_camo>Lithium-Batterie</battery_camo>
     <battery_voltage_ah></battery_voltage_ah>
     <description_camo>&lt;h2&gt;HELI HH-20-0-L – Geh-Hochhubwagen, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 2.000 kg&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo></price_from_camo>
@@ -13022,7 +13022,7 @@
     <lifting_height_mm>4800</lifting_height_mm>
     <lifting_height_m>4.8</lifting_height_m>
     <mast_type>Triplex mit Vollfreihub</mast_type>
-    <battery_camo></battery_camo>
+    <battery_camo>Lithium-Batterie</battery_camo>
     <battery_voltage_ah></battery_voltage_ah>
     <description_camo>&lt;h2&gt;HELI E4-100-48-L – 4-Rad Elektrostapler, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 10.000 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 4.800 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bereifung:&lt;/strong&gt; Nicht abfärbende Vollgummireifen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 2400 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anbaugeräte:&lt;/strong&gt; Integrierter Gabelversteller mit Seitenschaltung&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kabine:&lt;/strong&gt; Kabine und Heizung&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Fingerspitzensteuerung, 4 Ventile und doppelter IHR, Grammer®-Federungssitz, OPS, LED-Beleuchtung, Ladegerät, Lithium-Ionen-Akku-Cloud, Vorführ- und Mietfahrzeug, in schlechtem Zustand&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo></price_from_camo>
@@ -13062,12 +13062,12 @@
     <photo_camo_4></photo_camo_4>
     <category_camo>3-Rad Elektrostapler</category_camo>
     <capacity_t>1.2</capacity_t>
-    <lifting_height_mm>4400</lifting_height_mm>
-    <lifting_height_m>4.4</lifting_height_m>
+    <lifting_height_mm>4350</lifting_height_mm>
+    <lifting_height_m>4.35</lifting_height_m>
     <mast_type>Triplex mit Vollfreihub</mast_type>
     <battery_camo>Lithium-Batterie</battery_camo>
     <battery_voltage_ah>24/280</battery_voltage_ah>
-    <description_camo>&lt;h2&gt;HELI E3-12-44-L24 – 3-Rad Elektrostapler, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.200 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 4.400 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; Lithium-Ionen, 24 V / 280 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bereifung:&lt;/strong&gt; Nicht abfärbende Vollgummireifen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 1200 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anbaugeräte:&lt;/strong&gt; Integrierter Seitenschalthebel&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kabine:&lt;/strong&gt; Rahmen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; CURTIS, 3-Ventil, Einzel-IHR, Gramma-Standardsitz, OPS, LED-Warnleuchte und Arbeitsscheinwerfer, Bordladegerät 24 V 50 A&lt;/li&gt;&lt;/ul&gt;</description_camo>
+    <description_camo>&lt;h2&gt;HELI E3-12-44-L24 – 3-Rad Elektrostapler, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.200 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 4.350 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; Lithium-Ionen, 24 V / 280 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bereifung:&lt;/strong&gt; Nicht abfärbende Vollgummireifen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 1200 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anbaugeräte:&lt;/strong&gt; Integrierter Seitenschalthebel&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kabine:&lt;/strong&gt; Rahmen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; CURTIS, 3-Ventil, Einzel-IHR, Gramma-Standardsitz, OPS, LED-Warnleuchte und Arbeitsscheinwerfer, Bordladegerät 24 V 50 A&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-12-44-L24</modelname_camo>
     <discount_label></discount_label>
@@ -13105,12 +13105,12 @@
     <photo_camo_4></photo_camo_4>
     <category_camo>3-Rad Elektrostapler</category_camo>
     <capacity_t>1.2</capacity_t>
-    <lifting_height_mm>4400</lifting_height_mm>
-    <lifting_height_m>4.4</lifting_height_m>
+    <lifting_height_mm>4350</lifting_height_mm>
+    <lifting_height_m>4.35</lifting_height_m>
     <mast_type>Triplex mit Vollfreihub</mast_type>
     <battery_camo>Lithium-Batterie</battery_camo>
     <battery_voltage_ah>24/280</battery_voltage_ah>
-    <description_camo>&lt;h2&gt;HELI E3-12-44-L24 – 3-Rad Elektrostapler, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.200 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 4.400 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; Lithium-Ionen, 24 V / 280 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bereifung:&lt;/strong&gt; Nicht abfärbende Vollgummireifen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 1200 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anbaugeräte:&lt;/strong&gt; Integrierter Seitenschalthebel&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kabine:&lt;/strong&gt; Rahmen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; CURTIS, 3-Ventil, Einzel-IHR, Gramma-Standardsitz, OPS, LED-Warnleuchte und Arbeitsscheinwerfer, Bordladegerät 24 V 50 A&lt;/li&gt;&lt;/ul&gt;</description_camo>
+    <description_camo>&lt;h2&gt;HELI E3-12-44-L24 – 3-Rad Elektrostapler, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.200 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 4.350 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; Lithium-Ionen, 24 V / 280 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bereifung:&lt;/strong&gt; Nicht abfärbende Vollgummireifen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 1200 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anbaugeräte:&lt;/strong&gt; Integrierter Seitenschalthebel&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kabine:&lt;/strong&gt; Rahmen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; CURTIS, 3-Ventil, Einzel-IHR, Gramma-Standardsitz, OPS, LED-Warnleuchte und Arbeitsscheinwerfer, Bordladegerät 24 V 50 A&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-12-44-L24</modelname_camo>
     <discount_label></discount_label>
@@ -15086,7 +15086,7 @@
     <lifting_height_mm>4800</lifting_height_mm>
     <lifting_height_m>4.8</lifting_height_m>
     <mast_type>Triplex mit Vollfreihub</mast_type>
-    <battery_camo></battery_camo>
+    <battery_camo>Lithium-Batterie</battery_camo>
     <battery_voltage_ah></battery_voltage_ah>
     <description_camo>&lt;h2&gt;HELI E4-70-48-L – 4-Rad Elektrostapler, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 7.000 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 4.800 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bereifung:&lt;/strong&gt; Vollgummireifen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 1820 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anbaugeräte:&lt;/strong&gt; Integrierter Gabelversteller mit Seitenschaltung&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kabine:&lt;/strong&gt; Kabine und Heizung&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Fingertips-Steuerung, ZSM480, Vollgummireifen, 4 Ventile und doppelte IHR, Grammer-Federungssitz, Fingertips, OPS, Gabelversteller mit Seitenschalthebel, LED-Beleuchtung, Ladegerät, Kabine und Heizung&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo></price_from_camo>
@@ -15387,7 +15387,7 @@
     <lifting_height_mm></lifting_height_mm>
     <lifting_height_m></lifting_height_m>
     <mast_type></mast_type>
-    <battery_camo></battery_camo>
+    <battery_camo>Lithium-Batterie</battery_camo>
     <battery_voltage_ah></battery_voltage_ah>
     <description_camo>&lt;h2&gt;HELI NH-25-0-L – Geh-Niederhubwagen, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 2.500 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 560x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Polyurethanreifen, Dimension: 9,5, Fahrgeschwindigkeit: 12,5 km/h, ZAPI-Steuerung, elektrische Lenkung, mit Plattform, mit Seitenarmschutz&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo>9450.00</price_from_camo>
