@@ -128,6 +128,35 @@ jobs:
           print("Товарів: %d · тегів у кожному: %d · дописано порожніх тегів: %d" % (len(products), len(tags), added))
           PY
 
+      - name: Camo feed (sheet=camo) — без заводських тегів
+        continue-on-error: true
+        run: |
+          # Фід шопу з камуфляжем (Camo.gs). Якщо скрипт ще не знає sheet=camo або у фіді є
+          # заводські теги/моделі — feed-camo.xml НЕ оновлюється (лишається попередній).
+          rm -f /tmp/feed-camo.new.xml
+          curl -sSL --fail --retry 3 --retry-delay 10 \
+            "https://script.google.com/macros/s/AKfycbz2D-EDkR9sy6Tl-EOKnbvxC5RFmlj6M9j_JK2VX4iTTnBUsKJQ-SjyLuJh1w65nx1N/exec?sheet=camo" \
+            -o /tmp/feed-camo.raw.xml
+          python3 - <<'PY'
+          import re, sys
+          import xml.etree.ElementTree as ET
+          raw = open("/tmp/feed-camo.raw.xml", encoding="utf-8", errors="replace").read()
+          try:
+              root = ET.fromstring(raw.encode("utf-8"))
+          except ET.ParseError as e:
+              print("::warning::camo: не XML:", e); sys.exit(1)
+          items = [p for p in root if p.tag == "product"]
+          tags = {ch.tag for p in items for ch in p}
+          bad = tags & {"id", "model", "model_factory", "name", "modelname", "series", "serial_number", "image_url", "photo_link", "photo_name"}
+          if len(items) < 10 or "model_camo" not in tags or bad:
+              print("::warning::camo: фід не камуфляжний (items=%d, bad=%s) — пропуск" % (len(items), sorted(bad))); sys.exit(1)
+          fac = re.findall(r"CPD\d|CDD\d|CQD\d|CPCD\d|CBD\d|CPYD\d|CPQYD\d|GC6LI|GB2LI|A2LIG", raw)
+          if fac:
+              print("::warning::camo: заводські моделі у значеннях:", fac[:5]); sys.exit(1)
+          open("/tmp/feed-camo.new.xml", "w", encoding="utf-8").write(raw)
+          print("camo ok: товарів %d, тегів %d" % (len(items), len(tags)))
+          PY
+
       - name: Commit and push if it changed
         run: |
           git config --local user.name "GitHub Action"
@@ -140,6 +169,7 @@ jobs:
             git reset --hard origin/main
             cp /tmp/feed.new.xml feed.xml
             git add feed.xml
+            if [ -s /tmp/feed-camo.new.xml ]; then cp /tmp/feed-camo.new.xml feed-camo.xml; git add feed-camo.xml; fi
             if git diff --staged --quiet; then
               echo "Фід не змінився — комітити нічого"
               exit 0
