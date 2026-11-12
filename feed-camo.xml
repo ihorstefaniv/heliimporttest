@@ -2231,7 +2231,7 @@
     <mast_type>Triplex mit Vollfreihub</mast_type>
     <battery_camo></battery_camo>
     <battery_voltage_ah>24/210</battery_voltage_ah>
-    <description_camo>&lt;h2&gt;HELI HH-15-40-P24 – Geh-Hochhubwagen, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.500 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 4.000 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; , 24 V / 210 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 570x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; CHARGER&lt;/li&gt;&lt;/ul&gt;</description_camo>
+    <description_camo>&lt;h2&gt;HELI HH-15-40-P24 – Geh-Hochhubwagen, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.500 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 4.000 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; 24 V / 210 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 570x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; CHARGER&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo>8590.00</price_from_camo>
     <modelname_camo>HH-15-40-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
@@ -10556,26 +10556,26 @@
     <tyres></tyres>
     <attachments></attachments>
     <cabin></cabin>
-    <name_camo>KO-0-300-P24</name_camo>
+    <name_camo>KO-0-30-P24</name_camo>
     <price_rrp>10175.00</price_rrp>
     <discount_default>20</discount_default>
     <discount_extra>0</discount_extra>
     <id_camo>N00406</id_camo>
-    <model_camo>KO-0-300-P24</model_camo>
-    <photo_camo_1>https://biz24.online/image/1200125/KO-0-300-P24_1.jpg</photo_camo_1>
+    <model_camo>KO-0-30-P24</model_camo>
+    <photo_camo_1>https://biz24.online/image/1200491/KO-0-30-P24_1.jpg</photo_camo_1>
     <photo_camo_2></photo_camo_2>
     <photo_camo_3></photo_camo_3>
     <photo_camo_4></photo_camo_4>
     <category_camo>Kommissionierer</category_camo>
     <capacity_t></capacity_t>
-    <lifting_height_mm>30000</lifting_height_mm>
-    <lifting_height_m>30</lifting_height_m>
+    <lifting_height_mm>3000</lifting_height_mm>
+    <lifting_height_m>3</lifting_height_m>
     <mast_type></mast_type>
     <battery_camo></battery_camo>
     <battery_voltage_ah>24/105</battery_voltage_ah>
-    <description_camo>&lt;h2&gt;HELI KO-0-300-P24 – Kommissionierer, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 30.000 mm ()&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; , 24 V / 105 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 3000 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Internes 24V 10A Ladegerät, Führungsrad&lt;/li&gt;&lt;/ul&gt;</description_camo>
+    <description_camo>&lt;h2&gt;HELI KO-0-30-P24 – Kommissionierer, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 3.000 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; 24 V / 105 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 3000 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Internes 24V 10A Ladegerät, Führungsrad&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo>8140.00</price_from_camo>
-    <modelname_camo>KO-0-300-P24</modelname_camo>
+    <modelname_camo>KO-0-30-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
   </product>
   <product>
@@ -11390,7 +11390,7 @@
     <mast_type>Standardmast</mast_type>
     <battery_camo></battery_camo>
     <battery_voltage_ah>24/105</battery_voltage_ah>
-    <description_camo>&lt;h2&gt;HELI HI-12-25-P24 – Hochhubwagen mit Initialhub, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.200 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 2.500 mm (Standardmast)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; , 24 V / 105 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 570x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; M250, eingebautes Ladegerät&lt;/li&gt;&lt;/ul&gt;</description_camo>
+    <description_camo>&lt;h2&gt;HELI HI-12-25-P24 – Hochhubwagen mit Initialhub, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.200 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 2.500 mm (Standardmast)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; 24 V / 105 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 570x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; M250, eingebautes Ladegerät&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo></price_from_camo>
     <modelname_camo>HI-12-25-P24</modelname_camo>
     <discount_label></discount_label>
@@ -11691,7 +11691,7 @@
     <mast_type>Triplex mit Vollfreihub</mast_type>
     <battery_camo></battery_camo>
     <battery_voltage_ah>24/210</battery_voltage_ah>
-    <description_camo>&lt;h2&gt;HELI HH-15-46-P24 – Geh-Hochhubwagen, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.500 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 4.600 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; , 24 V / 210 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 570x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; CHARGER&lt;/li&gt;&lt;/ul&gt;</description_camo>
+    <description_camo>&lt;h2&gt;HELI HH-15-46-P24 – Geh-Hochhubwagen, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.500 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 4.600 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; 24 V / 210 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 570x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; CHARGER&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo></price_from_camo>
     <modelname_camo>HH-15-46-P24</modelname_camo>
     <discount_label></discount_label>
@@ -15518,7 +15518,7 @@
     <mast_type>Standardmast</mast_type>
     <battery_camo></battery_camo>
     <battery_voltage_ah>24/105</battery_voltage_ah>
-    <description_camo>&lt;h2&gt;HELI HI-12-25-P24 – Hochhubwagen mit Initialhub, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.200 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 2.500 mm (Standardmast)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; , 24 V / 105 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 570x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; M250, eingebautes Ladegerät&lt;/li&gt;&lt;/ul&gt;</description_camo>
+    <description_camo>&lt;h2&gt;HELI HI-12-25-P24 – Hochhubwagen mit Initialhub, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.200 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 2.500 mm (Standardmast)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; 24 V / 105 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 570x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; M250, eingebautes Ladegerät&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo></price_from_camo>
     <modelname_camo>HI-12-25-P24</modelname_camo>
     <discount_label></discount_label>
@@ -15561,7 +15561,7 @@
     <mast_type>Standardmast</mast_type>
     <battery_camo></battery_camo>
     <battery_voltage_ah>24/105</battery_voltage_ah>
-    <description_camo>&lt;h2&gt;HELI HI-12-33-P24 – Hochhubwagen mit Initialhub, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.200 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 3.300 mm (Standardmast)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; , 24 V / 105 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 570x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; M330, eingebautes Ladegerät&lt;/li&gt;&lt;/ul&gt;</description_camo>
+    <description_camo>&lt;h2&gt;HELI HI-12-33-P24 – Hochhubwagen mit Initialhub, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.200 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 3.300 mm (Standardmast)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; 24 V / 105 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 570x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; M330, eingebautes Ladegerät&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo></price_from_camo>
     <modelname_camo>HI-12-33-P24</modelname_camo>
     <discount_label></discount_label>
@@ -15604,7 +15604,7 @@
     <mast_type>Standardmast</mast_type>
     <battery_camo></battery_camo>
     <battery_voltage_ah>24/105</battery_voltage_ah>
-    <description_camo>&lt;h2&gt;HELI HI-12-30-P24 – Hochhubwagen mit Initialhub, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.200 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 3.000 mm (Standardmast)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; , 24 V / 105 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 570x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; M300, eingebautes Ladegerät&lt;/li&gt;&lt;/ul&gt;</description_camo>
+    <description_camo>&lt;h2&gt;HELI HI-12-30-P24 – Hochhubwagen mit Initialhub, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 1.200 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 3.000 mm (Standardmast)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; 24 V / 105 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 570x1150 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; M300, eingebautes Ladegerät&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo></price_from_camo>
     <modelname_camo>HI-12-30-P24</modelname_camo>
     <discount_label></discount_label>
