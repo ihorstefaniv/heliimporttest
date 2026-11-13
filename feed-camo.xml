@@ -14750,49 +14750,6 @@
     <discount_label></discount_label>
   </product>
   <product>
-    <reference_number>D261922</reference_number>
-    <brand>HELI</brand>
-    <type>Teleskoplader</type>
-    <capacity_kg></capacity_kg>
-    <price></price>
-    <available>0</available>
-    <qty>0</qty>
-    <controller>SONGZHENG</controller>
-    <engine_type>Elektro</engine_type>
-    <battery_type>Lithium-Ionen</battery_type>
-    <voltage>310</voltage>
-    <battery_capacity>160</battery_capacity>
-    <forks_dimensions>1200</forks_dimensions>
-    <special_options>4 Ventile, seitlicher Schalthebel und Gabelverstellung, LED-Beleuchtung, Ladegerät, Kabine, Klimaanlage</special_options>
-    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
-    <price_owner_504></price_owner_504>
-    <mast></mast>
-    <tyres></tyres>
-    <attachments>HELI Hook-on Seitenschalthebel und Gabelversteller</attachments>
-    <cabin>Kabine und Klimaanlage</cabin>
-    <name_camo>TL-0-0-L310</name_camo>
-    <price_rrp></price_rrp>
-    <discount_default></discount_default>
-    <discount_extra></discount_extra>
-    <id_camo>N00382</id_camo>
-    <model_camo>TL-0-0-L310</model_camo>
-    <photo_camo_1></photo_camo_1>
-    <photo_camo_2></photo_camo_2>
-    <photo_camo_3></photo_camo_3>
-    <photo_camo_4></photo_camo_4>
-    <category_camo>Teleskoplader</category_camo>
-    <capacity_t></capacity_t>
-    <lifting_height_mm></lifting_height_mm>
-    <lifting_height_m></lifting_height_m>
-    <mast_type></mast_type>
-    <battery_camo>Lithium-Batterie</battery_camo>
-    <battery_voltage_ah>310/160</battery_voltage_ah>
-    <description_camo>&lt;h2&gt;HELI TL-0-0-L310 – Teleskoplader, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; Lithium-Ionen, 310 V / 160 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 1200 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anbaugeräte:&lt;/strong&gt; HELI Hook-on Seitenschalthebel und Gabelversteller&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kabine:&lt;/strong&gt; Kabine und Klimaanlage&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; 4 Ventile, seitlicher Schalthebel und Gabelverstellung, LED-Beleuchtung, Ladegerät, Kabine, Klimaanlage&lt;/li&gt;&lt;/ul&gt;</description_camo>
-    <price_from_camo></price_from_camo>
-    <modelname_camo>TL-0-0-L310</modelname_camo>
-    <discount_label></discount_label>
-  </product>
-  <product>
     <reference_number>D260575</reference_number>
     <brand>HELI</brand>
     <type>Frontstapler</type>
@@ -15048,49 +15005,6 @@
     <description_camo>&lt;h2&gt;HELI E4-50-47-L80 – 4-Rad-Elektrostapler, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 5.000 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 4.700 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; Lithium-Ionen, 80 V / 604 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bereifung:&lt;/strong&gt; Nicht abfärbende Vollgummireifen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 2400 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anbaugeräte:&lt;/strong&gt; HELI-Haken am Seitenschalthebel und Gabelversteller&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kabine:&lt;/strong&gt; Hohe Kabine und Heizung&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Joystick-Steuerung, Doppelpedale, ZSM470, abriebfeste Vollgummireifen, 4 Ventile und Dual-IHR, Grammer-Federungssitz, OPS, Heli-Hook-Seitenschaltgabelpositionierer, LED-Beleuchtung, Ladegerät D80V-200A, blaue Front- und Rücklichter, hohe Kabine und Heizung&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-50-47-L80</modelname_camo>
-    <discount_label></discount_label>
-  </product>
-  <product>
-    <reference_number>G240415</reference_number>
-    <brand>HELI</brand>
-    <type>Schwerlaststapler</type>
-    <capacity_kg>7000</capacity_kg>
-    <price></price>
-    <available>0</available>
-    <qty>0</qty>
-    <controller>WEIDER</controller>
-    <engine_type>Elektro</engine_type>
-    <battery_type>Lithium-Ionen</battery_type>
-    <voltage></voltage>
-    <battery_capacity>202</battery_capacity>
-    <forks_dimensions>1820</forks_dimensions>
-    <special_options>Fingertips-Steuerung, ZSM480, Vollgummireifen, 4 Ventile und doppelte IHR, Grammer-Federungssitz, Fingertips, OPS, Gabelversteller mit Seitenschalthebel, LED-Beleuchtung, Ladegerät, Kabine und Heizung</special_options>
-    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
-    <price_owner_504></price_owner_504>
-    <mast>ZSM480</mast>
-    <tyres>Vollgummireifen</tyres>
-    <attachments>Integrierter Gabelversteller mit Seitenschaltung</attachments>
-    <cabin>Kabine und Heizung</cabin>
-    <name_camo>E4-70-48-L</name_camo>
-    <price_rrp></price_rrp>
-    <discount_default></discount_default>
-    <discount_extra></discount_extra>
-    <id_camo>N00357</id_camo>
-    <model_camo>E4-70-48-L</model_camo>
-    <photo_camo_1></photo_camo_1>
-    <photo_camo_2></photo_camo_2>
-    <photo_camo_3></photo_camo_3>
-    <photo_camo_4></photo_camo_4>
-    <category_camo>Schwerlast Elektrostapler</category_camo>
-    <capacity_t>7</capacity_t>
-    <lifting_height_mm>4800</lifting_height_mm>
-    <lifting_height_m>4.8</lifting_height_m>
-    <mast_type>Triplex mit Vollfreihub</mast_type>
-    <battery_camo>Lithium-Batterie</battery_camo>
-    <battery_voltage_ah></battery_voltage_ah>
-    <description_camo>&lt;h2&gt;HELI E4-70-48-L – Schwerlast Elektrostapler, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 7.000 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 4.800 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bereifung:&lt;/strong&gt; Vollgummireifen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 1820 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anbaugeräte:&lt;/strong&gt; Integrierter Gabelversteller mit Seitenschaltung&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kabine:&lt;/strong&gt; Kabine und Heizung&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Fingertips-Steuerung, ZSM480, Vollgummireifen, 4 Ventile und doppelte IHR, Grammer-Federungssitz, Fingertips, OPS, Gabelversteller mit Seitenschalthebel, LED-Beleuchtung, Ladegerät, Kabine und Heizung&lt;/li&gt;&lt;/ul&gt;</description_camo>
-    <price_from_camo></price_from_camo>
-    <modelname_camo>E4-70-48-L</modelname_camo>
     <discount_label></discount_label>
   </product>
   <product>
