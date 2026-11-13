@@ -5851,7 +5851,7 @@
   <product>
     <reference_number>B8925000-2</reference_number>
     <brand>HELI</brand>
-    <type>Flurförderzeug</type>
+    <type>Frontstapler</type>
     <capacity_kg>2000</capacity_kg>
     <price>31900.00</price>
     <available>1</available>
@@ -5869,26 +5869,26 @@
     <tyres>Nicht abfärbende Vollgummireifen</tyres>
     <attachments>Haken am Seitenschub und Gabelversteller</attachments>
     <cabin>Kabine und Klimaanlage</cabin>
-    <name_camo>XX-20-50-L80</name_camo>
+    <name_camo>E3-20-50-L80</name_camo>
     <price_rrp>40312.50</price_rrp>
     <discount_default>20</discount_default>
     <discount_extra>0</discount_extra>
     <id_camo>N00321</id_camo>
-    <model_camo>XX-20-50-L80</model_camo>
-    <photo_camo_1>https://biz24.online/image/1202357/XX-20-50-L80_1.jpg</photo_camo_1>
-    <photo_camo_2>https://biz24.online/image/1202315/XX-20-50-L80_2.jpg</photo_camo_2>
-    <photo_camo_3>https://biz24.online/image/1202314/XX-20-50-L80_3.jpg</photo_camo_3>
-    <photo_camo_4>https://biz24.online/image/1202316/XX-20-50-L80_4.jpg</photo_camo_4>
-    <category_camo>Flurförderzeug</category_camo>
+    <model_camo>E3-20-50-L80</model_camo>
+    <photo_camo_1>https://biz24.online/image/1202357/E3-20-50-L80_1.jpg</photo_camo_1>
+    <photo_camo_2>https://biz24.online/image/1202315/E3-20-50-L80_2.jpg</photo_camo_2>
+    <photo_camo_3>https://biz24.online/image/1202314/E3-20-50-L80_3.jpg</photo_camo_3>
+    <photo_camo_4>https://biz24.online/image/1202316/E3-20-50-L80_4.jpg</photo_camo_4>
+    <category_camo>3-Rad-Elektrostapler</category_camo>
     <capacity_t>2</capacity_t>
     <lifting_height_mm>5000</lifting_height_mm>
     <lifting_height_m>5</lifting_height_m>
     <mast_type>Triplex mit Vollfreihub</mast_type>
     <battery_camo>Lithium-Batterie</battery_camo>
     <battery_voltage_ah>80/404</battery_voltage_ah>
-    <description_camo>&lt;h2&gt;HELI XX-20-50-L80 – Flurförderzeug, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 2.000 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 5.000 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; Lithium-Ionen, 80 V / 404 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bereifung:&lt;/strong&gt; Nicht abfärbende Vollgummireifen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 1200 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anbaugeräte:&lt;/strong&gt; Haken am Seitenschub und Gabelversteller&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kabine:&lt;/strong&gt; Kabine und Klimaanlage&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Joystick-Steuerung, ZSM500, abriebfeste Vollgummireifen, 4 Ventile und Dual-IHR, Grammer-Federungssitz, OPS, Heli Hook am Seitenschalthebel und Gabelverstellung, LED-Beleuchtung, 80V/200A-Ladegerät, GP25-Getriebe, Kabine und Klimaanlage, Bluespot-Scheinwerfer vorn und hinten, Joystick, KI-Kollisionsvermeidung, dreiseitige rote LED-Beleuchtung, ADAS-System, Lithium-Ionen-Akku&lt;/li&gt;&lt;/ul&gt;</description_camo>
+    <description_camo>&lt;h2&gt;HELI E3-20-50-L80 – 3-Rad-Elektrostapler, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 2.000 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Hubhöhe:&lt;/strong&gt; 5.000 mm (Triplex mit Vollfreihub)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; Lithium-Ionen, 80 V / 404 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bereifung:&lt;/strong&gt; Nicht abfärbende Vollgummireifen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 1200 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Anbaugeräte:&lt;/strong&gt; Haken am Seitenschub und Gabelversteller&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kabine:&lt;/strong&gt; Kabine und Klimaanlage&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Joystick-Steuerung, ZSM500, abriebfeste Vollgummireifen, 4 Ventile und Dual-IHR, Grammer-Federungssitz, OPS, Heli Hook am Seitenschalthebel und Gabelverstellung, LED-Beleuchtung, 80V/200A-Ladegerät, GP25-Getriebe, Kabine und Klimaanlage, Bluespot-Scheinwerfer vorn und hinten, Joystick, KI-Kollisionsvermeidung, dreiseitige rote LED-Beleuchtung, ADAS-System, Lithium-Ionen-Akku&lt;/li&gt;&lt;/ul&gt;</description_camo>
     <price_from_camo>32250.00</price_from_camo>
-    <modelname_camo>XX-20-50-L80</modelname_camo>
+    <modelname_camo>E3-20-50-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
   </product>
   <product>
@@ -10577,49 +10577,6 @@
     <price_from_camo>8140.00</price_from_camo>
     <modelname_camo>KO-0-30-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
-  </product>
-  <product>
-    <reference_number>LX2</reference_number>
-    <brand>HELI</brand>
-    <type>Plattformwagen</type>
-    <capacity_kg>3000</capacity_kg>
-    <price></price>
-    <available>0</available>
-    <qty>0</qty>
-    <controller>ZAPI</controller>
-    <engine_type>Elektro</engine_type>
-    <battery_type>Lithium-Ionen</battery_type>
-    <voltage>48</voltage>
-    <battery_capacity>202</battery_capacity>
-    <forks_dimensions>300</forks_dimensions>
-    <special_options>Plattformwagen, 48V-200A-Ladegerät, Helikopter-Standardsitz, Seitenwandhöhe, LED-Rundumleuchte und Arbeitsscheinwerfer</special_options>
-    <delivery_status>Friedberg-Hessen / Zugestellt</delivery_status>
-    <price_owner_504></price_owner_504>
-    <mast></mast>
-    <tyres>Luftreifen</tyres>
-    <attachments></attachments>
-    <cabin>Kabine und Heizung</cabin>
-    <name_camo>PW-30-0-L48</name_camo>
-    <price_rrp></price_rrp>
-    <discount_default></discount_default>
-    <discount_extra></discount_extra>
-    <id_camo>N00273</id_camo>
-    <model_camo>PW-30-0-L48</model_camo>
-    <photo_camo_1>https://biz24.online/image/1202322/PW-30-0-L48_1.jpg</photo_camo_1>
-    <photo_camo_2>https://biz24.online/image/1202369/PW-30-0-L48_2.jpg</photo_camo_2>
-    <photo_camo_3>https://biz24.online/image/1202323/PW-30-0-L48_3.jpg</photo_camo_3>
-    <photo_camo_4>https://biz24.online/image/1202324/PW-30-0-L48_4.jpg</photo_camo_4>
-    <category_camo>Plattformwagen</category_camo>
-    <capacity_t>3</capacity_t>
-    <lifting_height_mm></lifting_height_mm>
-    <lifting_height_m></lifting_height_m>
-    <mast_type></mast_type>
-    <battery_camo>Lithium-Batterie</battery_camo>
-    <battery_voltage_ah>48/202</battery_voltage_ah>
-    <description_camo>&lt;h2&gt;HELI PW-30-0-L48 – Plattformwagen, sofort verfügbar&lt;/h2&gt;&lt;p&gt;Diese Ausführung steht sofort ab Lager bereit. Die folgende Ausstattung gilt genau für dieses Gerät.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tragfähigkeit:&lt;/strong&gt; 3.000 kg&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Batterie:&lt;/strong&gt; Lithium-Ionen, 48 V / 202 Ah&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bereifung:&lt;/strong&gt; Luftreifen&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Gabeln:&lt;/strong&gt; 300 mm&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Kabine:&lt;/strong&gt; Kabine und Heizung&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Sonderausstattung:&lt;/strong&gt; Plattformwagen, 48V-200A-Ladegerät, Helikopter-Standardsitz, Seitenwandhöhe, LED-Rundumleuchte und Arbeitsscheinwerfer&lt;/li&gt;&lt;/ul&gt;</description_camo>
-    <price_from_camo></price_from_camo>
-    <modelname_camo>PW-30-0-L48</modelname_camo>
-    <discount_label></discount_label>
   </product>
   <product>
     <reference_number>G240616-G240695</reference_number>
