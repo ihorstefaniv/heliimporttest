@@ -128,7 +128,7 @@ jobs:
           print("Товарів: %d · тегів у кожному: %d · дописано порожніх тегів: %d" % (len(products), len(tags), added))
           PY
 
-      - name: Camo feed (sheet=camo) — без заводських тегів
+      - name: Camo feed (sheet=camo) — без заводських тегів (крім model_factory)
         continue-on-error: true
         run: |
           # Фід шопу з камуфляжем (Camo.gs). Якщо скрипт ще не знає sheet=camo або у фіді є
@@ -147,10 +147,10 @@ jobs:
               print("::warning::camo: не XML:", e); sys.exit(1)
           items = [p for p in root if p.tag == "product"]
           tags = {ch.tag for p in items for ch in p}
-          bad = tags & {"id", "model", "model_factory", "name", "modelname", "series", "serial_number", "image_url", "photo_link", "photo_name"}
+          bad = tags & {"id", "model", "name", "modelname", "series", "serial_number", "image_url", "photo_link", "photo_name"}
           if len(items) < 10 or "model_camo" not in tags or bad:
               print("::warning::camo: фід не камуфляжний (items=%d, bad=%s) — пропуск" % (len(items), sorted(bad))); sys.exit(1)
-          fac = re.findall(r"CPD\d|CDD\d|CQD\d|CPCD\d|CBD\d|CPYD\d|CPQYD\d|GC6LI|GB2LI|A2LIG", raw)
+          fac = re.findall(r"CPD\d|CDD\d|CQD\d|CPCD\d|CBD\d|CPYD\d|CPQYD\d|GC6LI|GB2LI|A2LIG", re.sub(r"<model_factory>[^<]*</model_factory>", "", raw))  # 25.11: model_factory дозволено (→ model_factory_owner_504, внутрішньо)
           if fac:
               print("::warning::camo: заводські моделі у значеннях:", fac[:5]); sys.exit(1)
           open("/tmp/feed-camo.new.xml", "w", encoding="utf-8").write(raw)
