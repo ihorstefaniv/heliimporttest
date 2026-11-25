@@ -42,6 +42,7 @@
     <price_from_camo>1850.00</price_from_camo>
     <modelname_camo>NH-15-0-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CBD15-BLIH</model_factory>
   </product>
   <product>
     <reference_number>D262504-D262523</reference_number>
@@ -85,6 +86,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-15-0-L24-D</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD15-BLIH</model_factory>
   </product>
   <product>
     <reference_number>D262889-D262918</reference_number>
@@ -128,6 +130,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-15-0-L24-D</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD15-BLIH</model_factory>
   </product>
   <product>
     <reference_number>D262769-D262888</reference_number>
@@ -171,6 +174,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-15-0-L24-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD15J-LI3</model_factory>
   </product>
   <product>
     <reference_number>D263582-D263701</reference_number>
@@ -214,6 +218,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-15-0-L24-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD15J-LI3</model_factory>
   </product>
   <product>
     <reference_number>D261420-D261421</reference_number>
@@ -257,6 +262,7 @@
     <price_from_camo>5350.00</price_from_camo>
     <modelname_camo>NH-16-0-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CBD16-C2LIH</model_factory>
   </product>
   <product>
     <reference_number>D262680-D262683</reference_number>
@@ -300,6 +306,7 @@
     <price_from_camo>5350.00</price_from_camo>
     <modelname_camo>NH-16-0-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD16-C2LIH</model_factory>
   </product>
   <product>
     <reference_number>D262524-D262543</reference_number>
@@ -343,6 +350,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-20-0-L48-D</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD20-BLIH</model_factory>
   </product>
   <product>
     <reference_number>D262919-D262948</reference_number>
@@ -386,6 +394,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-20-0-L48-D</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD20-BLIH</model_factory>
   </product>
   <product>
     <reference_number>D263171-D263172</reference_number>
@@ -429,6 +438,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-20-0-L24-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD20-C2LIH</model_factory>
   </product>
   <product>
     <reference_number>D261300-D261419</reference_number>
@@ -472,6 +482,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-20-0-L48-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD20J-LI3</model_factory>
   </product>
   <product>
     <reference_number>L250640-L250659</reference_number>
@@ -515,6 +526,7 @@
     <price_from_camo>9450.00</price_from_camo>
     <modelname_camo>NH-25-0-L</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CBD25-A2FLIH</model_factory>
   </product>
   <product>
     <reference_number>D261157-D261171</reference_number>
@@ -558,6 +570,7 @@
     <price_from_camo>9450.00</price_from_camo>
     <modelname_camo>NH-25-0-L-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CBD25-A2FLIH</model_factory>
   </product>
   <product>
     <reference_number>D261432-D261441</reference_number>
@@ -601,6 +614,7 @@
     <price_from_camo>9450.00</price_from_camo>
     <modelname_camo>NH-25-0-L-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CBD25-A2FLIH</model_factory>
   </product>
   <product>
     <reference_number>D261522-D261525</reference_number>
@@ -644,6 +658,7 @@
     <price_from_camo>9450.00</price_from_camo>
     <modelname_camo>NH-25-0-L-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CBD25-A2FLIH</model_factory>
   </product>
   <product>
     <reference_number>D261923</reference_number>
@@ -687,6 +702,7 @@
     <price_from_camo>13350.00</price_from_camo>
     <modelname_camo>NH-25-0-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CBD25-A2RBLIH</model_factory>
   </product>
   <product>
     <reference_number>DE262220-DE262224</reference_number>
@@ -730,6 +746,7 @@
     <price_from_camo>13350.00</price_from_camo>
     <modelname_camo>NH-25-0-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CBD25-A2RBLIH</model_factory>
   </product>
   <product>
     <reference_number>D0731</reference_number>
@@ -773,6 +790,7 @@
     <price_from_camo>9450.00</price_from_camo>
     <modelname_camo>NH-25-0-L24-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CBD25-B2FLIH</model_factory>
   </product>
   <product>
     <reference_number>DE262026-DE262035</reference_number>
@@ -816,6 +834,7 @@
     <price_from_camo>2960.00</price_from_camo>
     <modelname_camo>HW-12-25-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J</model_factory>
   </product>
   <product>
     <reference_number>D261476-D261509</reference_number>
@@ -859,6 +878,7 @@
     <price_from_camo>3230.00</price_from_camo>
     <modelname_camo>HW-12-35-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J</model_factory>
   </product>
   <product>
     <reference_number>D261594-D261627</reference_number>
@@ -902,6 +922,7 @@
     <price_from_camo>3230.00</price_from_camo>
     <modelname_camo>HW-12-35-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J</model_factory>
   </product>
   <product>
     <reference_number>D262322-D262331</reference_number>
@@ -945,6 +966,7 @@
     <price_from_camo>2960.00</price_from_camo>
     <modelname_camo>HW-12-25-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J</model_factory>
   </product>
   <product>
     <reference_number>D262332-D262341</reference_number>
@@ -988,6 +1010,7 @@
     <price_from_camo>3230.00</price_from_camo>
     <modelname_camo>HW-12-30-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J</model_factory>
   </product>
   <product>
     <reference_number>D262342-D262355</reference_number>
@@ -1031,6 +1054,7 @@
     <price_from_camo>3230.00</price_from_camo>
     <modelname_camo>HW-12-35-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J</model_factory>
   </product>
   <product>
     <reference_number>D262390-D262399</reference_number>
@@ -1074,6 +1098,7 @@
     <price_from_camo>3160.00</price_from_camo>
     <modelname_camo>HW-12-40-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J</model_factory>
   </product>
   <product>
     <reference_number>D261510-D261526</reference_number>
@@ -1117,6 +1142,7 @@
     <price_from_camo>3660.00</price_from_camo>
     <modelname_camo>HW-12-25-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J-LI</model_factory>
   </product>
   <product>
     <reference_number>D261628-D261661</reference_number>
@@ -1160,6 +1186,7 @@
     <price_from_camo>3660.00</price_from_camo>
     <modelname_camo>HW-12-25-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J-LI</model_factory>
   </product>
   <product>
     <reference_number>D260242-D260257</reference_number>
@@ -1203,6 +1230,7 @@
     <price_from_camo>3660.00</price_from_camo>
     <modelname_camo>HW-12-25-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J-LI</model_factory>
   </product>
   <product>
     <reference_number>D261676-D261685</reference_number>
@@ -1246,6 +1274,7 @@
     <price_from_camo>3850.00</price_from_camo>
     <modelname_camo>HW-12-35-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J-LI</model_factory>
   </product>
   <product>
     <reference_number>DE262060-DE262069</reference_number>
@@ -1289,6 +1318,7 @@
     <price_from_camo>3660.00</price_from_camo>
     <modelname_camo>HW-12-25-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J-LI</model_factory>
   </product>
   <product>
     <reference_number>DE262080-DE262083</reference_number>
@@ -1332,6 +1362,7 @@
     <price_from_camo>3850.00</price_from_camo>
     <modelname_camo>HW-12-35-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J-LI</model_factory>
   </product>
   <product>
     <reference_number>D262356-D262365</reference_number>
@@ -1375,6 +1406,7 @@
     <price_from_camo>3660.00</price_from_camo>
     <modelname_camo>HW-12-25-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J-LI</model_factory>
   </product>
   <product>
     <reference_number>D262366-D262375</reference_number>
@@ -1418,6 +1450,7 @@
     <price_from_camo>3660.00</price_from_camo>
     <modelname_camo>HW-12-30-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J-LI</model_factory>
   </product>
   <product>
     <reference_number>D262376-D262389</reference_number>
@@ -1461,6 +1494,7 @@
     <price_from_camo>3850.00</price_from_camo>
     <modelname_camo>HW-12-35-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J-LI</model_factory>
   </product>
   <product>
     <reference_number>D262400-D262409</reference_number>
@@ -1504,6 +1538,7 @@
     <price_from_camo>4050.00</price_from_camo>
     <modelname_camo>HW-12-40-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12J-LI</model_factory>
   </product>
   <product>
     <reference_number>D261560-D26157</reference_number>
@@ -1547,6 +1582,7 @@
     <price_from_camo>2960.00</price_from_camo>
     <modelname_camo>HW-12-16-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12JD</model_factory>
   </product>
   <product>
     <reference_number>ZC001</reference_number>
@@ -1590,6 +1626,7 @@
     <price_from_camo>8350.00</price_from_camo>
     <modelname_camo>HW-12-45-L</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD12-A2DLIH</model_factory>
   </product>
   <product>
     <reference_number>DE262128-DE262041</reference_number>
@@ -1633,6 +1670,7 @@
     <price_from_camo>3650.00</price_from_camo>
     <modelname_camo>HI-15-25-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD15C-S</model_factory>
   </product>
   <product>
     <reference_number>DE262142-DE262155</reference_number>
@@ -1676,6 +1714,7 @@
     <price_from_camo>3650.00</price_from_camo>
     <modelname_camo>HI-15-30-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD15C-S</model_factory>
   </product>
   <product>
     <reference_number>DE262156-DE262161</reference_number>
@@ -1719,6 +1758,7 @@
     <price_from_camo>4150.00</price_from_camo>
     <modelname_camo>HI-15-35-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD15C-S</model_factory>
   </product>
   <product>
     <reference_number>D260762-D260777</reference_number>
@@ -1762,6 +1802,7 @@
     <price_from_camo>3450.00</price_from_camo>
     <modelname_camo>HW-15-30-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD15J</model_factory>
   </product>
   <product>
     <reference_number>D260778-D260795</reference_number>
@@ -1805,6 +1846,7 @@
     <price_from_camo>3720.00</price_from_camo>
     <modelname_camo>HW-15-35-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD15J</model_factory>
   </product>
   <product>
     <reference_number>L251708-L251723</reference_number>
@@ -1848,6 +1890,7 @@
     <price_from_camo>3450.00</price_from_camo>
     <modelname_camo>HW-15-30-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD15J</model_factory>
   </product>
   <product>
     <reference_number>L251724-L251741</reference_number>
@@ -1891,6 +1934,7 @@
     <price_from_camo>3720.00</price_from_camo>
     <modelname_camo>HW-15-35-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD15J</model_factory>
   </product>
   <product>
     <reference_number>D261093-D261105</reference_number>
@@ -1934,6 +1978,7 @@
     <price_from_camo>3450.00</price_from_camo>
     <modelname_camo>HW-15-30-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD15J</model_factory>
   </product>
   <product>
     <reference_number>D261696-D261729</reference_number>
@@ -1977,6 +2022,7 @@
     <price_from_camo>3450.00</price_from_camo>
     <modelname_camo>HW-15-25-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD15J</model_factory>
   </product>
   <product>
     <reference_number>D261764-D261797</reference_number>
@@ -2020,6 +2066,7 @@
     <price_from_camo>3720.00</price_from_camo>
     <modelname_camo>HW-15-35-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD15J</model_factory>
   </product>
   <product>
     <reference_number>DE262094-DE262110</reference_number>
@@ -2063,6 +2110,7 @@
     <price_from_camo>3840.00</price_from_camo>
     <modelname_camo>HW-15-30-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD15J-LI</model_factory>
   </product>
   <product>
     <reference_number>DE262111-DE262127</reference_number>
@@ -2106,6 +2154,7 @@
     <price_from_camo>4050.00</price_from_camo>
     <modelname_camo>HW-15-35-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD15J-LI</model_factory>
   </product>
   <product>
     <reference_number>D261730-D261763</reference_number>
@@ -2149,6 +2198,7 @@
     <price_from_camo>3450.00</price_from_camo>
     <modelname_camo>HW-15-30-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD15J</model_factory>
   </product>
   <product>
     <reference_number>D261561-D261577</reference_number>
@@ -2192,6 +2242,7 @@
     <price_from_camo>4050.00</price_from_camo>
     <modelname_camo>HW-15-35-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD15J-LI</model_factory>
   </product>
   <product>
     <reference_number>D261121-D261130</reference_number>
@@ -2235,6 +2286,7 @@
     <price_from_camo>8590.00</price_from_camo>
     <modelname_camo>HW-15-40-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD15J-ZSM</model_factory>
   </product>
   <product>
     <reference_number>D261924</reference_number>
@@ -2278,6 +2330,7 @@
     <price_from_camo>13450.00</price_from_camo>
     <modelname_camo>HI-16-33-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD16-A2FDLIH</model_factory>
   </product>
   <product>
     <reference_number>D261925</reference_number>
@@ -2321,6 +2374,7 @@
     <price_from_camo>14150.00</price_from_camo>
     <modelname_camo>HI-16-48-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD16-A2FDLIH</model_factory>
   </product>
   <product>
     <reference_number>D262695-D262698</reference_number>
@@ -2364,6 +2418,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-16-47-L24-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD16-A2FLIH</model_factory>
   </product>
   <product>
     <reference_number>D262699-D262702</reference_number>
@@ -2407,6 +2462,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-16-54-L24-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD16-A2FLIH</model_factory>
   </product>
   <product>
     <reference_number>DE262225</reference_number>
@@ -2450,6 +2506,7 @@
     <price_from_camo>14300.00</price_from_camo>
     <modelname_camo>HI-16-50-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD16-A2FDLIH</model_factory>
   </product>
   <product>
     <reference_number>DE262230-DE262231</reference_number>
@@ -2493,6 +2550,7 @@
     <price_from_camo>14350.00</price_from_camo>
     <modelname_camo>HI-16-54-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CDD16-A2FDLIH</model_factory>
   </product>
   <product>
     <reference_number>D262687-D262688</reference_number>
@@ -2536,6 +2594,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-16-48-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD16-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>D262689-D262690</reference_number>
@@ -2579,6 +2638,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-16-50-L24-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD16-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>D262691-D262692</reference_number>
@@ -2622,6 +2682,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-16-54-L24-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD16-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>D262693-D262694</reference_number>
@@ -2665,6 +2726,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-16-60-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD16-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>D262705-D262706</reference_number>
@@ -2708,6 +2770,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-20-54-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD20-A2FLIH</model_factory>
   </product>
   <product>
     <reference_number>D262703-D262704</reference_number>
@@ -2751,6 +2814,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-20-48-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD20-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>D262446-D262448</reference_number>
@@ -2794,6 +2858,7 @@
     <price_from_camo>79950.00</price_from_camo>
     <modelname_camo>D4-100-40</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD100-CU1G3</model_factory>
   </product>
   <product>
     <reference_number>B16924000-85</reference_number>
@@ -2837,6 +2902,7 @@
     <price_from_camo>27350.00</price_from_camo>
     <modelname_camo>GL-25-44-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD25-KU1Y2G3</model_factory>
   </product>
   <product>
     <reference_number>L251759</reference_number>
@@ -2880,6 +2946,7 @@
     <price_from_camo>220750.00</price_from_camo>
     <modelname_camo>D4-160-40</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD160-C2Z-12</model_factory>
   </product>
   <product>
     <reference_number>L250528-L250536</reference_number>
@@ -2923,6 +2990,7 @@
     <price_from_camo>25250.00</price_from_camo>
     <modelname_camo>D4-25-47</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD25-KU20H</model_factory>
   </product>
   <product>
     <reference_number>G252871-G252872</reference_number>
@@ -2966,6 +3034,7 @@
     <price_from_camo>28370.00</price_from_camo>
     <modelname_camo>D4-25-60</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD25-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>G252868-G252870</reference_number>
@@ -3009,6 +3078,7 @@
     <price_from_camo>27960.00</price_from_camo>
     <modelname_camo>D4-25-54</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD25-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>D260354-D260358</reference_number>
@@ -3052,6 +3122,7 @@
     <price_from_camo>29250.00</price_from_camo>
     <modelname_camo>D4-25-47-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD25-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>D260359-D260363</reference_number>
@@ -3095,6 +3166,7 @@
     <price_from_camo>27750.00</price_from_camo>
     <modelname_camo>D4-25-47-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD25-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>G253876-G253878</reference_number>
@@ -3138,6 +3210,7 @@
     <price_from_camo>25650.00</price_from_camo>
     <modelname_camo>D4-25-40</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD25-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>D261618-D261619</reference_number>
@@ -3181,6 +3254,7 @@
     <price_from_camo>25750.00</price_from_camo>
     <modelname_camo>D4-25-33</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD25-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>D261926-D261928</reference_number>
@@ -3224,6 +3298,7 @@
     <price_from_camo>34850.00</price_from_camo>
     <modelname_camo>GL-25-47-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD25-KU5Y4G3</model_factory>
   </product>
   <product>
     <reference_number>D262444-D262445</reference_number>
@@ -3267,6 +3342,7 @@
     <price_from_camo>34850.00</price_from_camo>
     <modelname_camo>GL-25-47-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD25-KU5Y4G3</model_factory>
   </product>
   <product>
     <reference_number>D260364-D260368</reference_number>
@@ -3310,6 +3386,7 @@
     <price_from_camo>22750.00</price_from_camo>
     <modelname_camo>D4-25-47-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD25-XC26RG3</model_factory>
   </product>
   <product>
     <reference_number>D260379-D260383</reference_number>
@@ -3353,6 +3430,7 @@
     <price_from_camo>21600.00</price_from_camo>
     <modelname_camo>D4-25-35</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD25-XC26RG3</model_factory>
   </product>
   <product>
     <reference_number>D260386-D260387</reference_number>
@@ -3396,6 +3474,7 @@
     <price_from_camo>21750.00</price_from_camo>
     <modelname_camo>D4-25-35-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD25-XC26RG3</model_factory>
   </product>
   <product>
     <reference_number>D260390-D260391</reference_number>
@@ -3439,6 +3518,7 @@
     <price_from_camo>23050.00</price_from_camo>
     <modelname_camo>D4-25-35-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD25-XC26RG3</model_factory>
   </product>
   <product>
     <reference_number>G240471</reference_number>
@@ -3482,6 +3562,7 @@
     <price_from_camo>315350.00</price_from_camo>
     <modelname_camo>D4-250-40</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD250-V1Z-12G2</model_factory>
   </product>
   <product>
     <reference_number>L250523-L250527</reference_number>
@@ -3525,6 +3606,7 @@
     <price_from_camo>28450.00</price_from_camo>
     <modelname_camo>D4-30-47</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD30-KU20H</model_factory>
   </product>
   <product>
     <reference_number>L250527-L250547</reference_number>
@@ -3568,6 +3650,7 @@
     <price_from_camo>27750.00</price_from_camo>
     <modelname_camo>D4-30-47-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD30-KU20H</model_factory>
   </product>
   <product>
     <reference_number>G253443-G253444</reference_number>
@@ -3611,6 +3694,7 @@
     <price_from_camo>28060.00</price_from_camo>
     <modelname_camo>D4-35-40</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD35-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>G253910-G253914</reference_number>
@@ -3654,6 +3738,7 @@
     <price_from_camo>31310.00</price_from_camo>
     <modelname_camo>D4-35-47</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD35-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>G253899-G253902</reference_number>
@@ -3697,6 +3782,7 @@
     <price_from_camo>30560.00</price_from_camo>
     <modelname_camo>D4-35-60</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD35-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>B11725245</reference_number>
@@ -3740,6 +3826,7 @@
     <price_from_camo>31950.00</price_from_camo>
     <modelname_camo>D4-35-47-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD35-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>L250577</reference_number>
@@ -3783,6 +3870,7 @@
     <price_from_camo>32390.00</price_from_camo>
     <modelname_camo>D4-35-47-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD35-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>D261929-D261932</reference_number>
@@ -3826,6 +3914,7 @@
     <price_from_camo>29570.00</price_from_camo>
     <modelname_camo>D4-35-54</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD35-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>D262449-D262452</reference_number>
@@ -3869,6 +3958,7 @@
     <price_from_camo>29250.00</price_from_camo>
     <modelname_camo>D4-35-40-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD35-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>D260851-D260855</reference_number>
@@ -3912,6 +4002,7 @@
     <price_from_camo>41210.00</price_from_camo>
     <modelname_camo>GL-35-47-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD35-KU5Y4G3</model_factory>
   </product>
   <product>
     <reference_number>D260395-D260398</reference_number>
@@ -3955,6 +4046,7 @@
     <price_from_camo>40150.00</price_from_camo>
     <modelname_camo>GL-35-40-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD35-KU6Y4R-3</model_factory>
   </product>
   <product>
     <reference_number>D260411-D260418</reference_number>
@@ -3998,6 +4090,7 @@
     <price_from_camo>23250.00</price_from_camo>
     <modelname_camo>D4-35-40-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD35-XC26RG3</model_factory>
   </product>
   <product>
     <reference_number>G253923-G253926</reference_number>
@@ -4041,6 +4134,7 @@
     <price_from_camo>24450.00</price_from_camo>
     <modelname_camo>D4-35-40-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD35-XC26RG3</model_factory>
   </product>
   <product>
     <reference_number>D262455-D262458</reference_number>
@@ -4084,6 +4178,7 @@
     <price_from_camo>26750.00</price_from_camo>
     <modelname_camo>D4-35-47-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD35-XC26RG3</model_factory>
   </product>
   <product>
     <reference_number>G252497-G252498</reference_number>
@@ -4127,6 +4222,7 @@
     <price_from_camo>57250.00</price_from_camo>
     <modelname_camo>GL-50-47-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD50-KU4Y4R-3-06</model_factory>
   </product>
   <product>
     <reference_number>D260336-D260338</reference_number>
@@ -4170,6 +4266,7 @@
     <price_from_camo>35950.00</price_from_camo>
     <modelname_camo>D4-50-35</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD50-YC4G3</model_factory>
   </product>
   <product>
     <reference_number>D260339-D260341</reference_number>
@@ -4213,6 +4310,7 @@
     <price_from_camo>43020.00</price_from_camo>
     <modelname_camo>D4-50-47</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD50-YC4G3</model_factory>
   </product>
   <product>
     <reference_number>D261651-D261653</reference_number>
@@ -4256,6 +4354,7 @@
     <price_from_camo>36450.00</price_from_camo>
     <modelname_camo>D4-50-40</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD50-YC4G3</model_factory>
   </product>
   <product>
     <reference_number>G252180</reference_number>
@@ -4299,6 +4398,7 @@
     <price_from_camo>66890.00</price_from_camo>
     <modelname_camo>D4-85-48</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCD85-YC2G3</model_factory>
   </product>
   <product>
     <reference_number>G250942-G250946</reference_number>
@@ -4342,6 +4442,7 @@
     <price_from_camo>58380.00</price_from_camo>
     <modelname_camo>GK-25-37-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPCJ25-KU3Y4G3</model_factory>
   </product>
   <product>
     <reference_number>G253247-G253248</reference_number>
@@ -4385,6 +4486,7 @@
     <price_from_camo>107990.00</price_from_camo>
     <modelname_camo>E4-100-60-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD100-GB2DLI</model_factory>
   </product>
   <product>
     <reference_number>L250840-L250841</reference_number>
@@ -4428,6 +4530,7 @@
     <price_from_camo>105820.00</price_from_camo>
     <modelname_camo>E4-100-45-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD100-GB2DLI</model_factory>
   </product>
   <product>
     <reference_number>D260900-D260910</reference_number>
@@ -4471,6 +4574,7 @@
     <price_from_camo>13250.00</price_from_camo>
     <modelname_camo>E3-12-45-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD12SQ-A1LIH4</model_factory>
   </product>
   <product>
     <reference_number>D260896</reference_number>
@@ -4514,6 +4618,7 @@
     <price_from_camo>271750.00</price_from_camo>
     <modelname_camo>E4-160-40-L618</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD160-A19LLIG-12</model_factory>
   </product>
   <product>
     <reference_number>L251443-L251446</reference_number>
@@ -4557,6 +4662,7 @@
     <price_from_camo>26600.00</price_from_camo>
     <modelname_camo>E3-16-48-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD16SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>L250842-L250843</reference_number>
@@ -4600,6 +4706,7 @@
     <price_from_camo>23820.00</price_from_camo>
     <modelname_camo>E3-16-48-L80-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD16SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>L251417-L251426</reference_number>
@@ -4643,6 +4750,7 @@
     <price_from_camo>21350.00</price_from_camo>
     <modelname_camo>E3-16-48-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD16SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>L251306-L251307</reference_number>
@@ -4686,6 +4794,7 @@
     <price_from_camo>26750.00</price_from_camo>
     <modelname_camo>E3-16-48-L80-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD16SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>L251217-L251231</reference_number>
@@ -4729,6 +4838,7 @@
     <price_from_camo>21350.00</price_from_camo>
     <modelname_camo>E3-16-48-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD16SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>D260427-D260442</reference_number>
@@ -4772,6 +4882,7 @@
     <price_from_camo>21350.00</price_from_camo>
     <modelname_camo>E3-16-48-L80-E</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD16SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>D260443-D260458</reference_number>
@@ -4815,6 +4926,7 @@
     <price_from_camo>21400.00</price_from_camo>
     <modelname_camo>E3-16-47-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD16SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>D261941-D261943</reference_number>
@@ -4858,6 +4970,7 @@
     <price_from_camo>21350.00</price_from_camo>
     <modelname_camo>E3-16-48-L80-F</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD16SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>L251286-L251295</reference_number>
@@ -4901,6 +5014,7 @@
     <price_from_camo>21350.00</price_from_camo>
     <modelname_camo>E3-16-48-L80-G</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD16SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>D261944-D261946</reference_number>
@@ -4944,6 +5058,7 @@
     <price_from_camo>28750.00</price_from_camo>
     <modelname_camo>E3-16-48-L80-H</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD16SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>D261997-D262001</reference_number>
@@ -4987,6 +5102,7 @@
     <price_from_camo>29350.00</price_from_camo>
     <modelname_camo>E3-16-47-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD16SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>L250610-L250617</reference_number>
@@ -5030,6 +5146,7 @@
     <price_from_camo>20310.00</price_from_camo>
     <modelname_camo>E3-16-48-L80-J</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD16SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>D261192-D261201</reference_number>
@@ -5073,6 +5190,7 @@
     <price_from_camo>20310.00</price_from_camo>
     <modelname_camo>E3-16-48-L80-J</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD16SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>DE262180-DE262185</reference_number>
@@ -5116,6 +5234,7 @@
     <price_from_camo>20550.00</price_from_camo>
     <modelname_camo>E3-16-48-L80-K</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD16SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>DE262174-DE262179</reference_number>
@@ -5159,6 +5278,7 @@
     <price_from_camo>20310.00</price_from_camo>
     <modelname_camo>E3-16-48-L80-L</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD16SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>D261885-D261886</reference_number>
@@ -5202,6 +5322,7 @@
     <price_from_camo>25750.00</price_from_camo>
     <modelname_camo>E4-18-47-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD18-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261624-D261628</reference_number>
@@ -5245,6 +5366,7 @@
     <price_from_camo>29250.00</price_from_camo>
     <modelname_camo>E4-18-47-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD18-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D262461-D262464</reference_number>
@@ -5288,6 +5410,7 @@
     <price_from_camo>21950.00</price_from_camo>
     <modelname_camo>E4-18-54-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD18-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D262465-D262466</reference_number>
@@ -5331,6 +5454,7 @@
     <price_from_camo>23550.00</price_from_camo>
     <modelname_camo>E4-18-54-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD18-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>L250711-L250714</reference_number>
@@ -5374,6 +5498,7 @@
     <price_from_camo>29250.00</price_from_camo>
     <modelname_camo>E3-20-47-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>L251447-L251450</reference_number>
@@ -5417,6 +5542,7 @@
     <price_from_camo>26750.00</price_from_camo>
     <modelname_camo>E3-20-48-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>D260477-D260492</reference_number>
@@ -5460,6 +5586,7 @@
     <price_from_camo>22980.00</price_from_camo>
     <modelname_camo>E3-20-48-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>D260493-D260500</reference_number>
@@ -5503,6 +5630,7 @@
     <price_from_camo>22950.00</price_from_camo>
     <modelname_camo>E3-20-47-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>D260501-D260502</reference_number>
@@ -5546,6 +5674,7 @@
     <price_from_camo>23450.00</price_from_camo>
     <modelname_camo>E3-20-60-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>D260505-D260506</reference_number>
@@ -5589,6 +5718,7 @@
     <price_from_camo>27050.00</price_from_camo>
     <modelname_camo>E3-20-48-L80-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>06020DT5878</reference_number>
@@ -5632,6 +5762,7 @@
     <price_from_camo>22750.00</price_from_camo>
     <modelname_camo>E3-20-30-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>L251232-L251246</reference_number>
@@ -5675,6 +5806,7 @@
     <price_from_camo>22990.00</price_from_camo>
     <modelname_camo>E3-20-48-L80-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>D261950-D261952</reference_number>
@@ -5718,6 +5850,7 @@
     <price_from_camo>29550.00</price_from_camo>
     <modelname_camo>E3-20-48-L80-E</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>D261977</reference_number>
@@ -5761,6 +5894,7 @@
     <price_from_camo>30350.00</price_from_camo>
     <modelname_camo>E3-20-48-L80-M</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>D261978</reference_number>
@@ -5804,6 +5938,7 @@
     <price_from_camo>26350.00</price_from_camo>
     <modelname_camo>E3-20-48-L80-L</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>D261980</reference_number>
@@ -5847,6 +5982,7 @@
     <price_from_camo>27150.00</price_from_camo>
     <modelname_camo>E3-20-54-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>B8925000-2</reference_number>
@@ -5890,6 +6026,7 @@
     <price_from_camo>32250.00</price_from_camo>
     <modelname_camo>E3-20-50-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A2LIPG3-M</model_factory>
   </product>
   <product>
     <reference_number>L250596-L250603</reference_number>
@@ -5933,6 +6070,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-20-48-L80-R</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD20SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>L250995-L251000</reference_number>
@@ -5976,6 +6114,7 @@
     <price_from_camo>21100.00</price_from_camo>
     <modelname_camo>E3-20-48-L80-F</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>D260871-D260885</reference_number>
@@ -6019,6 +6158,7 @@
     <price_from_camo>21100.00</price_from_camo>
     <modelname_camo>E3-20-48-L80-G</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>D261610-D261615</reference_number>
@@ -6062,6 +6202,7 @@
     <price_from_camo>21490.00</price_from_camo>
     <modelname_camo>E3-20-48-L80-H</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>DE262168-DE262171</reference_number>
@@ -6105,6 +6246,7 @@
     <price_from_camo>21650.00</price_from_camo>
     <modelname_camo>E3-20-48-L80-J</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>DE262172-DE262173</reference_number>
@@ -6148,6 +6290,7 @@
     <price_from_camo>22490.00</price_from_camo>
     <modelname_camo>E3-20-48-L80-K</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD20SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>L251485-L251488</reference_number>
@@ -6191,6 +6334,7 @@
     <price_from_camo>22950.00</price_from_camo>
     <modelname_camo>E4-25-47-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-A3LIH4-M</model_factory>
   </product>
   <product>
     <reference_number>G253467</reference_number>
@@ -6234,6 +6378,7 @@
     <price_from_camo>19350.00</price_from_camo>
     <modelname_camo>E4-25-33-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-A7LIH2</model_factory>
   </product>
   <product>
     <reference_number>L251539-L251548</reference_number>
@@ -6277,6 +6422,7 @@
     <price_from_camo>22250.00</price_from_camo>
     <modelname_camo>E4-25-45-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-A7LIH2</model_factory>
   </product>
   <product>
     <reference_number>G253420</reference_number>
@@ -6320,6 +6466,7 @@
     <price_from_camo>26250.00</price_from_camo>
     <modelname_camo>E4-25-40-L115</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-D11LIG2-P</model_factory>
   </product>
   <product>
     <reference_number>G253421-G253422</reference_number>
@@ -6363,6 +6510,7 @@
     <price_from_camo>27730.00</price_from_camo>
     <modelname_camo>E4-25-47-L115</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-D11LIG2-P</model_factory>
   </product>
   <product>
     <reference_number>G253423</reference_number>
@@ -6406,6 +6554,7 @@
     <price_from_camo>27730.00</price_from_camo>
     <modelname_camo>E4-25-47-L115-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-D11LIG2-P</model_factory>
   </product>
   <product>
     <reference_number>L250866-L250868</reference_number>
@@ -6449,6 +6598,7 @@
     <price_from_camo>22870.00</price_from_camo>
     <modelname_camo>E4-25-33-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>L250944-L250946</reference_number>
@@ -6492,6 +6642,7 @@
     <price_from_camo>23310.00</price_from_camo>
     <modelname_camo>E4-25-33-L80-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>L250881-L250888</reference_number>
@@ -6535,6 +6686,7 @@
     <price_from_camo>23750.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>L251155-L251184</reference_number>
@@ -6578,6 +6730,7 @@
     <price_from_camo>23490.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>L251451-L251465</reference_number>
@@ -6621,6 +6774,7 @@
     <price_from_camo>23490.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D260628-D260639</reference_number>
@@ -6664,6 +6818,7 @@
     <price_from_camo>23490.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>DE262212-DE262215</reference_number>
@@ -6707,6 +6862,7 @@
     <price_from_camo>22750.00</price_from_camo>
     <modelname_camo>E4-25-54-L80-J</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>DE262208-DE262211</reference_number>
@@ -6750,6 +6906,7 @@
     <price_from_camo>22250.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-S</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>DE262218-DE262219</reference_number>
@@ -6793,6 +6950,7 @@
     <price_from_camo>23250.00</price_from_camo>
     <modelname_camo>E4-25-54-L80-E</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D260477-D260480</reference_number>
@@ -6836,6 +6994,7 @@
     <price_from_camo>25650.00</price_from_camo>
     <modelname_camo>E4-25-54-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261887-D261888</reference_number>
@@ -6879,6 +7038,7 @@
     <price_from_camo>28450.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-T</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D260515-D260526</reference_number>
@@ -6922,6 +7082,7 @@
     <price_from_camo>27350.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-E</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D260485-D260489</reference_number>
@@ -6965,6 +7126,7 @@
     <price_from_camo>27750.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-F</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D260490-D260494</reference_number>
@@ -7008,6 +7170,7 @@
     <price_from_camo>24750.00</price_from_camo>
     <modelname_camo>E4-25-35-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>L251604-L251608</reference_number>
@@ -7051,6 +7214,7 @@
     <price_from_camo>28050.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-G</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261889-D261890</reference_number>
@@ -7094,6 +7258,7 @@
     <price_from_camo>29500.00</price_from_camo>
     <modelname_camo>E4-25-54-L80-F</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261915-D261916</reference_number>
@@ -7137,6 +7302,7 @@
     <price_from_camo>31950.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-R</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261917-D261918</reference_number>
@@ -7180,6 +7346,7 @@
     <price_from_camo>32450.00</price_from_camo>
     <modelname_camo>E4-25-54-L80-G</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D260495-D260502</reference_number>
@@ -7223,6 +7390,7 @@
     <price_from_camo>27350.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-H</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>L250848-L250850</reference_number>
@@ -7266,6 +7434,7 @@
     <price_from_camo>30250.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-J</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261891-D261892</reference_number>
@@ -7309,6 +7478,7 @@
     <price_from_camo>28950.00</price_from_camo>
     <modelname_camo>E4-25-54-L80-H</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261212-D261217</reference_number>
@@ -7352,6 +7522,7 @@
     <price_from_camo>27750.00</price_from_camo>
     <modelname_camo>E4-25-54-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261218-D261220</reference_number>
@@ -7395,6 +7566,7 @@
     <price_from_camo>30250.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-K</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261236-D261238</reference_number>
@@ -7438,6 +7610,7 @@
     <price_from_camo>31550.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-L</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261242-D261246</reference_number>
@@ -7481,6 +7654,7 @@
     <price_from_camo>32950.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-M</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261247-D261252</reference_number>
@@ -7524,6 +7698,7 @@
     <price_from_camo>33550.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-N</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261230-D261235</reference_number>
@@ -7567,6 +7742,7 @@
     <price_from_camo>28250.00</price_from_camo>
     <modelname_camo>E4-25-54-L80-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261206-D261211</reference_number>
@@ -7610,6 +7786,7 @@
     <price_from_camo>25750.00</price_from_camo>
     <modelname_camo>E4-25-54-L80-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261983-D261987</reference_number>
@@ -7653,6 +7830,7 @@
     <price_from_camo>32750.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-P</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261993-D261994</reference_number>
@@ -7696,6 +7874,7 @@
     <price_from_camo>33750.00</price_from_camo>
     <modelname_camo>E4-25-47-L80-Q</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>20260410</reference_number>
@@ -7739,6 +7918,7 @@
     <price_from_camo>34750.00</price_from_camo>
     <modelname_camo>E4-30-47-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD30-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D260531-D260534</reference_number>
@@ -7782,6 +7962,7 @@
     <price_from_camo>29750.00</price_from_camo>
     <modelname_camo>E4-30-47-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD30-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D260535-D260538</reference_number>
@@ -7825,6 +8006,7 @@
     <price_from_camo>31950.00</price_from_camo>
     <modelname_camo>E4-30-47-L80-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD30-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261893-D261894</reference_number>
@@ -7868,6 +8050,7 @@
     <price_from_camo>32750.00</price_from_camo>
     <modelname_camo>E4-30-47-L80-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD30-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261898-D261899</reference_number>
@@ -7911,6 +8094,7 @@
     <price_from_camo>33750.00</price_from_camo>
     <modelname_camo>E4-30-47-L80-E</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD30-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261895-D261897</reference_number>
@@ -7954,6 +8138,7 @@
     <price_from_camo>33450.00</price_from_camo>
     <modelname_camo>E4-30-54-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD30-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>G251504-G251505</reference_number>
@@ -7997,6 +8182,7 @@
     <price_from_camo>23350.00</price_from_camo>
     <modelname_camo>E4-35-33-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-A3LIH4-M</model_factory>
   </product>
   <product>
     <reference_number>L250529-L250531</reference_number>
@@ -8040,6 +8226,7 @@
     <price_from_camo>24070.00</price_from_camo>
     <modelname_camo>E4-35-45-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-A7LIH2</model_factory>
   </product>
   <product>
     <reference_number>L251569-L251578</reference_number>
@@ -8083,6 +8270,7 @@
     <price_from_camo>24570.00</price_from_camo>
     <modelname_camo>E4-35-45-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-A7LIH2</model_factory>
   </product>
   <product>
     <reference_number>D260620-D260623</reference_number>
@@ -8126,6 +8314,7 @@
     <price_from_camo>23250.00</price_from_camo>
     <modelname_camo>E4-35-45-L80-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-A7LIH2</model_factory>
   </product>
   <product>
     <reference_number>L251549-L251558</reference_number>
@@ -8169,6 +8358,7 @@
     <price_from_camo>24070.00</price_from_camo>
     <modelname_camo>E4-35-45-L80-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-A7LIH2</model_factory>
   </product>
   <product>
     <reference_number>D260608-D260613</reference_number>
@@ -8212,6 +8402,7 @@
     <price_from_camo>24350.00</price_from_camo>
     <modelname_camo>E4-35-45-L80-E</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-A7LIH2</model_factory>
   </product>
   <product>
     <reference_number>G240781-G240788</reference_number>
@@ -8255,6 +8446,7 @@
     <price_from_camo>29500.00</price_from_camo>
     <modelname_camo>E4-35-47-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>G253860-G253863</reference_number>
@@ -8298,6 +8490,7 @@
     <price_from_camo>30040.00</price_from_camo>
     <modelname_camo>E4-35-40-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>L250484-L250485</reference_number>
@@ -8341,6 +8534,7 @@
     <price_from_camo>30030.00</price_from_camo>
     <modelname_camo>E4-35-40-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>L250889-L250890</reference_number>
@@ -8384,6 +8578,7 @@
     <price_from_camo>28400.00</price_from_camo>
     <modelname_camo>E4-35-33-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D260576-D260579</reference_number>
@@ -8427,6 +8622,7 @@
     <price_from_camo>27550.00</price_from_camo>
     <modelname_camo>E4-35-33-L80-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261988-D261992</reference_number>
@@ -8470,6 +8666,7 @@
     <price_from_camo>37350.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>L250490-L250491</reference_number>
@@ -8513,6 +8710,7 @@
     <price_from_camo>24950.00</price_from_camo>
     <modelname_camo>E4-35-40-L80-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>G253872-G253875</reference_number>
@@ -8556,6 +8754,7 @@
     <price_from_camo>26610.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-L</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>L251185-L251214</reference_number>
@@ -8599,6 +8798,7 @@
     <price_from_camo>26610.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>L251466-L251480</reference_number>
@@ -8642,6 +8842,7 @@
     <price_from_camo>26510.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-E</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D260539-D260546</reference_number>
@@ -8685,6 +8886,7 @@
     <price_from_camo>27250.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D261902-D261903</reference_number>
@@ -8728,6 +8930,7 @@
     <price_from_camo>26650.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-M</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D261908-D261909</reference_number>
@@ -8771,6 +8974,7 @@
     <price_from_camo>27050.00</price_from_camo>
     <modelname_camo>E4-35-54-L80-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D261906-D261907</reference_number>
@@ -8814,6 +9018,7 @@
     <price_from_camo>24650.00</price_from_camo>
     <modelname_camo>E4-35-35-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D260547-D260554</reference_number>
@@ -8857,6 +9062,7 @@
     <price_from_camo>24650.00</price_from_camo>
     <modelname_camo>E4-35-35-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D260555-D260562</reference_number>
@@ -8900,6 +9106,7 @@
     <price_from_camo>27950.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-F</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D260640-D260651</reference_number>
@@ -8943,6 +9150,7 @@
     <price_from_camo>26510.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-G</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>DE262198-DE262201</reference_number>
@@ -8986,6 +9194,7 @@
     <price_from_camo>25250.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-H</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D261635-D261637</reference_number>
@@ -9029,6 +9238,7 @@
     <price_from_camo>34050.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-N</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261641-D261642</reference_number>
@@ -9072,6 +9282,7 @@
     <price_from_camo>38250.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-P</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261643-D261645</reference_number>
@@ -9115,6 +9326,7 @@
     <price_from_camo>39050.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-Q</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D260563-D260566</reference_number>
@@ -9158,6 +9370,7 @@
     <price_from_camo>31750.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-J</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D260567-D260570</reference_number>
@@ -9201,6 +9414,7 @@
     <price_from_camo>32250.00</price_from_camo>
     <modelname_camo>E4-35-54-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D260571-D260574</reference_number>
@@ -9244,6 +9458,7 @@
     <price_from_camo>31250.00</price_from_camo>
     <modelname_camo>E4-35-54-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>L250851-L250853</reference_number>
@@ -9287,6 +9502,7 @@
     <price_from_camo>38750.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-K</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D262483-D262484</reference_number>
@@ -9330,6 +9546,7 @@
     <price_from_camo>31750.00</price_from_camo>
     <modelname_camo>E4-35-40-L80-D</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D262485-D262488</reference_number>
@@ -9373,6 +9590,7 @@
     <price_from_camo>33250.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-R</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D262489-D262490</reference_number>
@@ -9416,6 +9634,7 @@
     <price_from_camo>31250.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-S</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D262491-D262493</reference_number>
@@ -9459,6 +9678,7 @@
     <price_from_camo>37150.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-T</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D262494-D262496</reference_number>
@@ -9502,6 +9722,7 @@
     <price_from_camo>33750.00</price_from_camo>
     <modelname_camo>E4-35-54-L80-F</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D262497-D262498</reference_number>
@@ -9545,6 +9766,7 @@
     <price_from_camo>34350.00</price_from_camo>
     <modelname_camo>E4-35-60-L80-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261961-D261964</reference_number>
@@ -9588,6 +9810,7 @@
     <price_from_camo>31150.00</price_from_camo>
     <modelname_camo>E4-35-54-L80-C</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261967-D261968</reference_number>
@@ -9631,6 +9854,7 @@
     <price_from_camo>31750.00</price_from_camo>
     <modelname_camo>E4-35-60-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261969-D261970</reference_number>
@@ -9674,6 +9898,7 @@
     <price_from_camo>39750.00</price_from_camo>
     <modelname_camo>E4-35-60-L80-B</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261646-D261647</reference_number>
@@ -9717,6 +9942,7 @@
     <price_from_camo>40250.00</price_from_camo>
     <modelname_camo>E4-35-54-L80-E</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D262742-D262744</reference_number>
@@ -9760,6 +9986,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-50-40-L80</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD50-A2DLIG3</model_factory>
   </product>
   <product>
     <reference_number>D261650-2</reference_number>
@@ -9803,6 +10030,7 @@
     <price_from_camo>55750.00</price_from_camo>
     <modelname_camo>E4-50-47-L153</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD50-G2A11LI</model_factory>
   </product>
   <product>
     <reference_number>D262745</reference_number>
@@ -9846,6 +10074,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-50-40-L153</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD50-G2A11LI</model_factory>
   </product>
   <product>
     <reference_number>D262746-D262747</reference_number>
@@ -9889,6 +10118,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-50-47-L153-E</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD50-G2A11LI</model_factory>
   </product>
   <product>
     <reference_number>D261996</reference_number>
@@ -9932,6 +10162,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-50-47-L153-F</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD50-G2A11LI-600</model_factory>
   </product>
   <product>
     <reference_number>D261997</reference_number>
@@ -9975,6 +10206,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-50-47-L153-G</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD50-G2A11LI-600</model_factory>
   </product>
   <product>
     <reference_number>D261998</reference_number>
@@ -10018,6 +10250,7 @@
     <price_from_camo>52250.00</price_from_camo>
     <modelname_camo>E4-50-50-L153</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD50-G2A11LI-600</model_factory>
   </product>
   <product>
     <reference_number>D261999</reference_number>
@@ -10061,6 +10294,7 @@
     <price_from_camo>53550.00</price_from_camo>
     <modelname_camo>E4-50-60-L153</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD50-G2A11LI-600</model_factory>
   </product>
   <product>
     <reference_number>JDL-6</reference_number>
@@ -10104,6 +10338,7 @@
     <price_from_camo>90750.00</price_from_camo>
     <modelname_camo>E4-70-48-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPD70-GB2DLI</model_factory>
   </product>
   <product>
     <reference_number>G25GC07</reference_number>
@@ -10147,6 +10382,7 @@
     <price_from_camo>25350.00</price_from_camo>
     <modelname_camo>DG-35-47-G</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPQYD35-KU1RG3</model_factory>
   </product>
   <product>
     <reference_number>D261969-D261972</reference_number>
@@ -10190,6 +10426,7 @@
     <price_from_camo>37250.00</price_from_camo>
     <modelname_camo>G4-50-35</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPYD50-KUG3</model_factory>
   </product>
   <product>
     <reference_number>D261973-D261976</reference_number>
@@ -10233,6 +10470,7 @@
     <price_from_camo>39650.00</price_from_camo>
     <modelname_camo>G4-50-47</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CPYD50-KUG3</model_factory>
   </product>
   <product>
     <reference_number>D260527-D260528</reference_number>
@@ -10276,6 +10514,7 @@
     <price_from_camo>38930.00</price_from_camo>
     <modelname_camo>SM-16-95-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CQD16-GB2SHDLI</model_factory>
   </product>
   <product>
     <reference_number>L251493</reference_number>
@@ -10319,6 +10558,7 @@
     <price_from_camo>39550.00</price_from_camo>
     <modelname_camo>SM-20-100-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CQD20-GB2SHDLI</model_factory>
   </product>
   <product>
     <reference_number>L251494</reference_number>
@@ -10362,6 +10602,7 @@
     <price_from_camo>37850.00</price_from_camo>
     <modelname_camo>SM-20-90-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CQD20-GB2SHDLI</model_factory>
   </product>
   <product>
     <reference_number>D261914</reference_number>
@@ -10405,6 +10646,7 @@
     <price_from_camo>38350.00</price_from_camo>
     <modelname_camo>SM-20-95-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CQD20-GB2SHDLI</model_factory>
   </product>
   <product>
     <reference_number>D260529-D260530</reference_number>
@@ -10448,6 +10690,7 @@
     <price_from_camo>38350.00</price_from_camo>
     <modelname_camo>SM-20-95-L80</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>CQD20-GB2SHDLI</model_factory>
   </product>
   <product>
     <reference_number>G25GC06</reference_number>
@@ -10491,6 +10734,7 @@
     <price_from_camo>11150.00</price_from_camo>
     <modelname_camo>KO-20-0-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>OPD20L-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>G251771-G251776</reference_number>
@@ -10534,6 +10778,7 @@
     <price_from_camo>15720.00</price_from_camo>
     <modelname_camo>KO-25-0-L24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>OPD25L-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>D261921</reference_number>
@@ -10577,6 +10822,7 @@
     <price_from_camo>8140.00</price_from_camo>
     <modelname_camo>KO-0-30-P24</modelname_camo>
     <discount_label>-20 %</discount_label>
+    <model_factory>OPSM-II</model_factory>
   </product>
   <product>
     <reference_number>G240616-G240695</reference_number>
@@ -10620,6 +10866,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-15-0-L24-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD15-BLIH</model_factory>
   </product>
   <product>
     <reference_number>G250000-G250119</reference_number>
@@ -10663,6 +10910,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-15-0-L24-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD15J-LI3</model_factory>
   </product>
   <product>
     <reference_number>L251334-L251353</reference_number>
@@ -10706,6 +10954,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-15-0-L24-E</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD15J-LI3</model_factory>
   </product>
   <product>
     <reference_number>DE262006-DE262025</reference_number>
@@ -10749,6 +10998,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-15-0-L24-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD15J-LI3</model_factory>
   </product>
   <product>
     <reference_number>G253651-G253710</reference_number>
@@ -10792,6 +11042,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-18-0-L48</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD18J-LI3</model_factory>
   </product>
   <product>
     <reference_number>L251495-L251498</reference_number>
@@ -10835,6 +11086,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-20-0-L24-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD20-C2LIH</model_factory>
   </product>
   <product>
     <reference_number>D261424-D261427</reference_number>
@@ -10878,6 +11130,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-20-0-L24-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD20-C2LIH</model_factory>
   </product>
   <product>
     <reference_number>D261428-D261431</reference_number>
@@ -10921,6 +11174,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-20-0-L24-D</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD20-C2LIH</model_factory>
   </product>
   <product>
     <reference_number>D260104-D260223</reference_number>
@@ -10964,6 +11218,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-20-0-L48-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD20J-LI3</model_factory>
   </product>
   <product>
     <reference_number>L251362-L251371</reference_number>
@@ -11007,6 +11262,7 @@
     <price_from_camo>9450.00</price_from_camo>
     <modelname_camo>NH-25-0-L-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD25-A2FLIH</model_factory>
   </product>
   <product>
     <reference_number>DE262036-DE262045</reference_number>
@@ -11050,6 +11306,7 @@
     <price_from_camo>3230.00</price_from_camo>
     <modelname_camo>HW-12-30-P24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD12J</model_factory>
   </product>
   <product>
     <reference_number>D261442-D261475</reference_number>
@@ -11093,6 +11350,7 @@
     <price_from_camo>2960.00</price_from_camo>
     <modelname_camo>HW-12-25-P24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD12J</model_factory>
   </product>
   <product>
     <reference_number>D261041-D261050</reference_number>
@@ -11136,6 +11394,7 @@
     <price_from_camo>3230.00</price_from_camo>
     <modelname_camo>HW-12-35-P24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD12J</model_factory>
   </product>
   <product>
     <reference_number>D260694-D260711</reference_number>
@@ -11179,6 +11438,7 @@
     <price_from_camo>3850.00</price_from_camo>
     <modelname_camo>HW-12-35-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD12J-LI</model_factory>
   </product>
   <product>
     <reference_number>D261662-D261675</reference_number>
@@ -11222,6 +11482,7 @@
     <price_from_camo>3660.00</price_from_camo>
     <modelname_camo>HW-12-30-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD12J-LI</model_factory>
   </product>
   <product>
     <reference_number>L251005-L251022</reference_number>
@@ -11265,6 +11526,7 @@
     <price_from_camo>3850.00</price_from_camo>
     <modelname_camo>HW-12-35-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD12J-LI</model_factory>
   </product>
   <product>
     <reference_number>DE262070-DE262079</reference_number>
@@ -11308,6 +11570,7 @@
     <price_from_camo>3660.00</price_from_camo>
     <modelname_camo>HW-12-30-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD12J-LI</model_factory>
   </product>
   <product>
     <reference_number>L251262-L251270</reference_number>
@@ -11351,6 +11614,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HI-12-25-P24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD12R-S</model_factory>
   </product>
   <product>
     <reference_number>L250563-L250574</reference_number>
@@ -11394,6 +11658,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-15-25-P24-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD15-C</model_factory>
   </product>
   <product>
     <reference_number>D261106-D261118</reference_number>
@@ -11437,6 +11702,7 @@
     <price_from_camo>3720.00</price_from_camo>
     <modelname_camo>HW-15-35-P24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD15J</model_factory>
   </product>
   <product>
     <reference_number>D262410-D262419</reference_number>
@@ -11480,6 +11746,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-15-25-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD15J-LI</model_factory>
   </product>
   <product>
     <reference_number>D262420-D262429</reference_number>
@@ -11523,6 +11790,7 @@
     <price_from_camo>3840.00</price_from_camo>
     <modelname_camo>HW-15-30-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD15J-LI</model_factory>
   </product>
   <product>
     <reference_number>D262430-D262443</reference_number>
@@ -11566,6 +11834,7 @@
     <price_from_camo>4050.00</price_from_camo>
     <modelname_camo>HW-15-35-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD15J-LI</model_factory>
   </product>
   <product>
     <reference_number>D261812-D261831</reference_number>
@@ -11609,6 +11878,7 @@
     <price_from_camo>4050.00</price_from_camo>
     <modelname_camo>HW-15-35-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD15J-LI</model_factory>
   </product>
   <product>
     <reference_number>D261131-D261140</reference_number>
@@ -11652,6 +11922,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-15-46-P24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD15J-ZSM</model_factory>
   </product>
   <product>
     <reference_number>D261172-D261181</reference_number>
@@ -11695,6 +11966,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-15-40-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD15J-ZSM-LI</model_factory>
   </product>
   <product>
     <reference_number>D261182-D261191</reference_number>
@@ -11738,6 +12010,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-15-46-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD15J-ZSM-LI</model_factory>
   </product>
   <product>
     <reference_number>L250685-L250688</reference_number>
@@ -11781,6 +12054,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-16-54-L24-D</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD16-A2FLIH</model_factory>
   </product>
   <product>
     <reference_number>L251372-L251377</reference_number>
@@ -11824,6 +12098,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-16-54-L24-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD16-A2FLIH</model_factory>
   </product>
   <product>
     <reference_number>L251609-L251612</reference_number>
@@ -11867,6 +12142,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-16-54-L24-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD16-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>D261578-D261581</reference_number>
@@ -11910,6 +12186,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-16-45-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD16-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>D261582-D261585</reference_number>
@@ -11953,6 +12230,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-16-47-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD16-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>G252166-G252170A</reference_number>
@@ -11996,6 +12274,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-20-54-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD20-A2FLIH</model_factory>
   </product>
   <product>
     <reference_number>G240748-G240749</reference_number>
@@ -12039,6 +12318,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-20-33-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD20-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>W245883</reference_number>
@@ -12082,6 +12362,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-20-35-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD20-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>G251791</reference_number>
@@ -12125,6 +12406,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-20-35-L24-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD20-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>G240750-G240756</reference_number>
@@ -12168,6 +12450,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-20-0-L</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD20-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>D261598-D261599</reference_number>
@@ -12211,6 +12494,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-20-60-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD20-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>D260830-D260831</reference_number>
@@ -12254,6 +12538,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-100-45</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD100-YC2G3</model_factory>
   </product>
   <product>
     <reference_number>G253439-G253440</reference_number>
@@ -12297,6 +12582,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-25-40-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD25-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>G253886-G253895</reference_number>
@@ -12340,6 +12626,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-25-47-E</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD25-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>D260841-D260843</reference_number>
@@ -12383,6 +12670,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-25-47-F</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD25-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>D261616-D261617</reference_number>
@@ -12426,6 +12714,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-25-47-G</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD25-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>G253915-G253917</reference_number>
@@ -12469,6 +12758,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-25-40-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD25-XC26RG3</model_factory>
   </product>
   <product>
     <reference_number>G240554-G240555</reference_number>
@@ -12512,6 +12802,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-35-47-L</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD35-KU17G3</model_factory>
   </product>
   <product>
     <reference_number>L251141-L251148</reference_number>
@@ -12555,6 +12846,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-35-47-N</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD35-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>D260844-D260846</reference_number>
@@ -12598,6 +12890,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-35-47-E</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD35-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>D260847-D260850</reference_number>
@@ -12641,6 +12934,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-35-47-F</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD35-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>D261622-D261623</reference_number>
@@ -12684,6 +12978,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-35-47-G</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD35-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>D262453-D262454</reference_number>
@@ -12727,6 +13022,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-35-47-H</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD35-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>L251414-L251416</reference_number>
@@ -12770,6 +13066,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>GL-35-47-D-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD35-KU6Y4R-3</model_factory>
   </product>
   <product>
     <reference_number>D260403-D260410</reference_number>
@@ -12813,6 +13110,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-35-47-J</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD35-XC26RG3</model_factory>
   </product>
   <product>
     <reference_number>D260419-D260426</reference_number>
@@ -12856,6 +13154,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-35-47-K</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD35-XC26RG3</model_factory>
   </product>
   <product>
     <reference_number>L250449-L250451</reference_number>
@@ -12899,6 +13198,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>GL-50-47-D-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD50-KU4Y4R-3-06</model_factory>
   </product>
   <product>
     <reference_number>L250753-L250755</reference_number>
@@ -12942,6 +13242,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>GL-50-47-D-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD50-KU4Y4R-3-06</model_factory>
   </product>
   <product>
     <reference_number>G250845-G2506846</reference_number>
@@ -12985,6 +13286,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-100-48-L</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD100-A11LIG2-M</model_factory>
   </product>
   <product>
     <reference_number>L250698-L250709</reference_number>
@@ -13028,6 +13330,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-12-44-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD12SQ-A1LIH4</model_factory>
   </product>
   <product>
     <reference_number>L250686-L250697</reference_number>
@@ -13071,6 +13374,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-12-44-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD12SQ-A1LIH4</model_factory>
   </product>
   <product>
     <reference_number>G253829-G253830</reference_number>
@@ -13114,6 +13418,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-16-60-L80</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD16SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>L250983-L250986</reference_number>
@@ -13157,6 +13462,7 @@
     <price_from_camo>21350.00</price_from_camo>
     <modelname_camo>E3-16-48-L80-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD16SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>L251427-L251436</reference_number>
@@ -13200,6 +13506,7 @@
     <price_from_camo>20310.00</price_from_camo>
     <modelname_camo>E3-16-48-L80-J</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD16SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>D261202-D261205</reference_number>
@@ -13243,6 +13550,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-16-48-L80-P</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD16SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>L251589-L251598</reference_number>
@@ -13286,6 +13594,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-18-45-L80</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD18-A5LIH2</model_factory>
   </product>
   <product>
     <reference_number>G251831-G251832</reference_number>
@@ -13329,6 +13638,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-18-54-L80-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD18-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D260471-D260472</reference_number>
@@ -13372,6 +13682,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-18-33-L80</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD18-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>L250743-L250746</reference_number>
@@ -13415,6 +13726,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-18-54-L80-D</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD18-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>L250618-L250621</reference_number>
@@ -13458,6 +13770,7 @@
     <price_from_camo>26750.00</price_from_camo>
     <modelname_camo>E3-20-48-L80</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>L250938-L250940</reference_number>
@@ -13501,6 +13814,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-20-48-L80-N</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>D260856-D260870</reference_number>
@@ -13544,6 +13858,7 @@
     <price_from_camo>22980.00</price_from_camo>
     <modelname_camo>E3-20-48-L80-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>D261979</reference_number>
@@ -13587,6 +13902,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-20-54-L80-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>L250751-L250752</reference_number>
@@ -13630,6 +13946,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-20-47-P48</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD20SQ-A2PG3-M</model_factory>
   </product>
   <product>
     <reference_number>L250857-L250861</reference_number>
@@ -13673,6 +13990,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-20-48-L80-S</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD20SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>D260459-D260462</reference_number>
@@ -13716,6 +14034,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-20-60-L80-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD20SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>D260463-D260464</reference_number>
@@ -13759,6 +14078,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-20-60-L80-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD20SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>L250993-L250994</reference_number>
@@ -13802,6 +14122,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-20-54-L80-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD20SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>L251523-L251530</reference_number>
@@ -13845,6 +14166,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-45-L80-E</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-A6LIK3-H</model_factory>
   </product>
   <product>
     <reference_number>D260886-D260890</reference_number>
@@ -13888,6 +14210,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-45-L80-D</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-A6LIK3-H</model_factory>
   </product>
   <product>
     <reference_number>D260891-D260895</reference_number>
@@ -13931,6 +14254,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-45-L80-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-A6LIK3-H</model_factory>
   </product>
   <product>
     <reference_number>D260614-D260619</reference_number>
@@ -13974,6 +14298,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-45-L80-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-A7LIH2</model_factory>
   </product>
   <product>
     <reference_number>D260624-D260627</reference_number>
@@ -14017,6 +14342,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-45-L80-F</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-A7LIH2</model_factory>
   </product>
   <product>
     <reference_number>G252185</reference_number>
@@ -14060,6 +14386,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-40-L80-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>L250717-L250720</reference_number>
@@ -14103,6 +14430,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-33-L80-D</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>L250951-L250958</reference_number>
@@ -14146,6 +14474,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-47-L80-V</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>L250959-L250966</reference_number>
@@ -14189,6 +14518,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-47-L80-V</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>DE262216-DE262217</reference_number>
@@ -14232,6 +14562,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-47-L80-ZC</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D260652-D260655</reference_number>
@@ -14275,6 +14606,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-54-L80-K</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>L251599-L251603</reference_number>
@@ -14318,6 +14650,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-47-L80-Y</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261650-1</reference_number>
@@ -14361,6 +14694,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-50-47-L153-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD50-G2A11LI</model_factory>
   </product>
   <product>
     <reference_number>L251507-L251514</reference_number>
@@ -14404,6 +14738,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-45-L80-F</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-A6LIK3-H</model_factory>
   </product>
   <product>
     <reference_number>L250578</reference_number>
@@ -14447,6 +14782,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-47-L115-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-D11LIG2-P</model_factory>
   </product>
   <product>
     <reference_number>D260580-D260591</reference_number>
@@ -14490,6 +14826,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-47-L80-U</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>L251326-L251327</reference_number>
@@ -14533,6 +14870,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-60-L80-D</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261957-D261958</reference_number>
@@ -14576,6 +14914,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-47-L80-Y</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>G240396-G240397</reference_number>
@@ -14619,6 +14958,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-47-L80-Z</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GB2LI-S</model_factory>
   </product>
   <product>
     <reference_number>G251155-G251158</reference_number>
@@ -14662,6 +15002,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-47-L80-ZB</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>G250680-G2506689</reference_number>
@@ -14705,6 +15046,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-47-L80-ZC</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D260575</reference_number>
@@ -14748,6 +15090,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-47-L80-ZD</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261900-D261901</reference_number>
@@ -14791,6 +15134,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-54-L80-J</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261638-D261640</reference_number>
@@ -14834,6 +15178,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-54-L80-M</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261919-D261920</reference_number>
@@ -14877,6 +15222,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-54-L80-K</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261648-D261650</reference_number>
@@ -14920,6 +15266,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-54-L80-N</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261981-D261982</reference_number>
@@ -14963,6 +15310,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-50-47-L80</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD50-A2DLIG3</model_factory>
   </product>
   <product>
     <reference_number>G240565-G240566</reference_number>
@@ -15006,6 +15354,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>G4-35-47</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPYD35-KU1G3</model_factory>
   </product>
   <product>
     <reference_number>D261913</reference_number>
@@ -15049,6 +15398,7 @@
     <price_from_camo>38930.00</price_from_camo>
     <modelname_camo>SM-16-95-L80</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CQD16-GB2SHDLI</model_factory>
   </product>
   <product>
     <reference_number>L251322</reference_number>
@@ -15092,6 +15442,7 @@
     <price_from_camo>37850.00</price_from_camo>
     <modelname_camo>SM-20-90-L80</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CQD20-GB2SHDLI</model_factory>
   </product>
   <product>
     <reference_number>L251321</reference_number>
@@ -15135,6 +15486,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>SM-20-115-L80</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CQD20-GB2SHDLI</model_factory>
   </product>
   <product>
     <reference_number>G250610</reference_number>
@@ -15178,6 +15530,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-20-0-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD20-A2SZLIH</model_factory>
   </product>
   <product>
     <reference_number>D261149-D261156</reference_number>
@@ -15221,6 +15574,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-20-0-L24-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD20-C2LIH</model_factory>
   </product>
   <product>
     <reference_number>L251613-L251622</reference_number>
@@ -15264,6 +15618,7 @@
     <price_from_camo>9450.00</price_from_camo>
     <modelname_camo>NH-25-0-L</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD25-A2FLIH</model_factory>
   </product>
   <product>
     <reference_number>D261526-D261559</reference_number>
@@ -15307,6 +15662,7 @@
     <price_from_camo>2960.00</price_from_camo>
     <modelname_camo>HW-12-25-P24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD12J</model_factory>
   </product>
   <product>
     <reference_number>DE262046-DE262059</reference_number>
@@ -15350,6 +15706,7 @@
     <price_from_camo>3230.00</price_from_camo>
     <modelname_camo>HW-12-35-P24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD12J</model_factory>
   </product>
   <product>
     <reference_number>L250660-L250668</reference_number>
@@ -15393,6 +15750,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HI-12-25-P24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD12R-S</model_factory>
   </product>
   <product>
     <reference_number>L251280-L251283</reference_number>
@@ -15436,6 +15794,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HI-12-33-P24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD12R-S</model_factory>
   </product>
   <product>
     <reference_number>L251271-L251279</reference_number>
@@ -15479,6 +15838,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HI-12-30-P24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD12R-S</model_factory>
   </product>
   <product>
     <reference_number>D261798-D261811</reference_number>
@@ -15522,6 +15882,7 @@
     <price_from_camo>3840.00</price_from_camo>
     <modelname_camo>HW-15-30-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD15J-LI</model_factory>
   </product>
   <product>
     <reference_number>D261586-D261589</reference_number>
@@ -15565,6 +15926,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-16-50-L24-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD16-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>G25GC03</reference_number>
@@ -15608,6 +15970,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-20-47-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD20-A2FLIH</model_factory>
   </product>
   <product>
     <reference_number>L250637-L250639</reference_number>
@@ -15651,6 +16014,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-35-47-M</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD35-KU24RG3</model_factory>
   </product>
   <product>
     <reference_number>D260399-D260402</reference_number>
@@ -15694,6 +16058,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>GL-35-47-D-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD35-KU6Y4R-3</model_factory>
   </product>
   <product>
     <reference_number>D260832-D260834</reference_number>
@@ -15737,6 +16102,7 @@
     <price_from_camo>36450.00</price_from_camo>
     <modelname_camo>D4-50-40</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD50-YC4G3</model_factory>
   </product>
   <product>
     <reference_number>25207-23</reference_number>
@@ -15780,6 +16146,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-12-45-L24-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD12SQ-A1LIH4</model_factory>
   </product>
   <product>
     <reference_number>D261858-D261862</reference_number>
@@ -15823,6 +16190,7 @@
     <price_from_camo>13250.00</price_from_camo>
     <modelname_camo>E3-12-45-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD12SQ-A1LIH4</model_factory>
   </product>
   <product>
     <reference_number>L250918-L250927</reference_number>
@@ -15866,6 +16234,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-16-48-L80-N</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD16SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>G250201</reference_number>
@@ -15909,6 +16278,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-20-48-L80-Q</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD20SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>DE262162-DE262167</reference_number>
@@ -15952,6 +16322,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-20-48-L80-T</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD20SQ-A6LIG3-S</model_factory>
   </product>
   <product>
     <reference_number>G250624</reference_number>
@@ -15995,6 +16366,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-37-L80</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>L250592-L250595</reference_number>
@@ -16038,6 +16410,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-47-L80-U</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D261221-D261223</reference_number>
@@ -16081,6 +16454,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-47-L80-Z</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261239-D261241</reference_number>
@@ -16124,6 +16498,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-47-L80-ZB</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261224-D261229</reference_number>
@@ -16167,6 +16542,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-54-L80-L</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>L251515-L251522</reference_number>
@@ -16210,6 +16586,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-45-L80-G</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-A6LIK3-H</model_factory>
   </product>
   <product>
     <reference_number>G253425</reference_number>
@@ -16253,6 +16630,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-47-L115</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-D11LIG2-P</model_factory>
   </product>
   <product>
     <reference_number>D260592-D260603</reference_number>
@@ -16296,6 +16674,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-47-L80-V</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D260656-D260659</reference_number>
@@ -16339,6 +16718,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-54-L80-G</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D261965-D261966</reference_number>
@@ -16382,6 +16762,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-54-L80-L</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D261912</reference_number>
@@ -16425,6 +16806,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-50-47-L80-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD50-A2DLIG3</model_factory>
   </product>
   <product>
     <reference_number>D261910</reference_number>
@@ -16468,6 +16850,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-50-47-L153-D</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD50-G2A11LI</model_factory>
   </product>
   <product>
     <reference_number>L251149-L251151</reference_number>
@@ -16511,6 +16894,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>G4-25-47</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPYD25-KU1RG3</model_factory>
   </product>
   <product>
     <reference_number>D261590-D261593</reference_number>
@@ -16554,6 +16938,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-16-54-L24-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD16-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>D261947-D261949</reference_number>
@@ -16597,6 +16982,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-20-48-L80-P</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD20SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>D260507-D260514</reference_number>
@@ -16640,6 +17026,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-47-L80-X</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>DE262186-DE262193</reference_number>
@@ -16683,6 +17070,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-47-L80-X</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>DE262202-DE262205</reference_number>
@@ -16726,6 +17114,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-54-L80-H</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>L250846-L250847</reference_number>
@@ -16769,6 +17158,7 @@
     <price_from_camo>38750.00</price_from_camo>
     <modelname_camo>E4-35-47-L80-K</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GD2LI-M</model_factory>
   </product>
   <product>
     <reference_number>D260345-D260347</reference_number>
@@ -16812,6 +17202,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-50-47-L153-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD50-G2A11LI-600</model_factory>
   </product>
   <product>
     <reference_number>D261911</reference_number>
@@ -16855,6 +17246,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-50-47-L153-C</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD50-G2A11LI-600</model_factory>
   </product>
   <product>
     <reference_number>L250575</reference_number>
@@ -16898,6 +17290,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-15-0-L48</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD15C-LI4</model_factory>
   </product>
   <product>
     <reference_number>L250576</reference_number>
@@ -16941,6 +17334,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>NH-20-0-L48</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CBD20C-LI4</model_factory>
   </product>
   <product>
     <reference_number>L251629-L251634</reference_number>
@@ -16984,6 +17378,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-16-54-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD16-A2FLIH</model_factory>
   </product>
   <product>
     <reference_number>L250517-L250519</reference_number>
@@ -17027,6 +17422,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>HW-16-50-L24</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CDD16-A2LIH</model_factory>
   </product>
   <product>
     <reference_number>D260369-D260373</reference_number>
@@ -17070,6 +17466,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-25-35-D</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD25-XC26RG3</model_factory>
   </product>
   <product>
     <reference_number>D261933-D261935</reference_number>
@@ -17113,6 +17510,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>D4-50-47-B</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPCD50-KU4G3</model_factory>
   </product>
   <product>
     <reference_number>L250604-L250607</reference_number>
@@ -17156,6 +17554,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E3-16-48-L80-M</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD16SQ-A2LIG3-M</model_factory>
   </product>
   <product>
     <reference_number>G251839-G251840</reference_number>
@@ -17199,6 +17598,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-18-60-L80</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD18-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>G250625</reference_number>
@@ -17242,6 +17642,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-40-L80</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-GB2LI-M</model_factory>
   </product>
   <product>
     <reference_number>L250947-L250950</reference_number>
@@ -17285,6 +17686,7 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-25-47-L80-W</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD25-GC6LI-S</model_factory>
   </product>
   <product>
     <reference_number>D261995-D261996</reference_number>
@@ -17328,5 +17730,6 @@
     <price_from_camo></price_from_camo>
     <modelname_camo>E4-35-47-L80-W</modelname_camo>
     <discount_label></discount_label>
+    <model_factory>CPD35-GB2LI-M</model_factory>
   </product>
 </products>
